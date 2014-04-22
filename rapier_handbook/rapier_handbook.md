@@ -214,7 +214,7 @@ These instructions describe how to build a drop tester for carrying out these te
 Parts list:
 * 1" nominal diameter 18" long Black Pipe stub from any do-it-yourself/hardware store, plumbing supply house, etc, this is heavy, iron pipe used for natural gas.
 * 1" nominal plastic cap for pipe above (screws onto end of pipe)
-* 0.156" (5/32") "plus tolerance" diameter gage pin, 2 inch length, such as from Meyer Gage Company, CT, 860-528-6527, Class ZZ, \$2 each, \$10 minimum order (http://www.meyergage.com/products/english\_gage\_sets.htm)
+* 0.156" (5/32") "plus tolerance" diameter gage pin, 2 inch length, such as from Meyer Gage Company, CT, 860-528-6527, Class ZZ, $2 each, $10 minimum order (http://www.meyergage.com/products/english\_gage\_sets.htm)
     NOTE: As of 2006, Meyer replaced their Class ZZ gauge pin with a Class Z gauge pin. This pin is also acceptable for use.
 * drill bit stop or collar (piece that goes on to a drill bit to set the depth of a hole)
 * epoxy (the solid grey type such as JB Weld works well, clear epoxies do not hold up as well)
