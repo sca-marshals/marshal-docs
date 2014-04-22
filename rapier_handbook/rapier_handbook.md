@@ -282,7 +282,7 @@ If a question arises when applying these standards, choose the answer that promo
 
 ### Figures ####
 
-![Drop Tester 1](image-001.jpg): Figure 1 - Drop tester (pipe end sticking out of white guide tube) ready to use on some fabric clamped onto the 3" flange.
+![Drop Tester 1](image-001.jpg) Figure 1 - Drop tester (pipe end sticking out of white guide tube) ready to use on some fabric clamped onto the 3" flange.
 ![Drop Tester 2](image-002.jpg) Figure 2 - Plastic cap with gage pin and drill collar sticking out, all epoxied together (gray).
 ![Drop Tester 3](image-003.jpg) Figure 3 - Lay drop probe assembly (pipe and cap) next to PVC guide tube, and measure your calculated distance from the probe tip to the bottom of the PVC guide tube.
 ![Drop Tester 4](image-004.jpg) Figure 4 - Clamps and "frame" (3" flange) showing how these are assembled to carry out a fabric test.
