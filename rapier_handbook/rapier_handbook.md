@@ -182,26 +182,11 @@ If a question arises when applying these standards, choose the answer that promo
 
     The definition of “reasonably flexible” is dependent upon the length of the blade and the weapon class it is to be used in. To determine if a weapon meets the standard of being "reasonably flexible": Hold the weapon parallel to the ground, supporting the handle against a table or bench if necessary. Hang a 6 ounce weight (170 grams) -one inch (25mm) or less from the end of the tip. If the blade flexes as indicated in the following table then it is deemed “reasonably flexible” for that weapon class.
 
-    Weapon
-     Blade Length
-     Minimum
-     Weight
-     Class
-     Deflection
-     Light Rapier
-     \> 18” (45.72 cm) and \<= 48” (121.92 cm)
-     1” (25 mm)
-     6 oz (170 grams)
-     Heavy Rapier
-     Light Rapier
-     \<= 18” (45.72 cm)
-     1/2" (12 mm)
-     6 oz (170 grams)
-     Heavy Rapier
-     Cut & Thrust
-     \<= 48” (121.92 cm)
-     1/2" (12 mm)
-     6 oz (170 grams)
+| Weapon Class | Blade Length | Minimum Deflection | Weight |
+| ------------ | ------------ | ------------------ | ------ |
+| Light Rapier, Heavy Rapier | \> 18” (45.72 cm) and \<= 48” (121.92 cm) | 1” (25 mm) | 6 oz (170 grams) |
+| Light Rapier, Heavy Rapier | \<= 18” (45.72 cm) | 1/2" (12 mm) | 6 oz (170 grams) |
+| Cut & Thrust | \<= 48” (121.92 cm) | 1/2" (12 mm) | 6 oz (170 grams) |
 
 2. PROCEDURES FOR EXPERIMENTATION IN RAPIER COMBAT
 
