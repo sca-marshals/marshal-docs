@@ -257,7 +257,7 @@ If a question arises when applying these standards, choose the answer that promo
         3. Now put the drill collar on the gage pin with about half of the gage pin sticking out of one side, and apply epoxy. Before it dries, put more epoxy on the gage pin, and shove it into the hole in the cap, with the drill collar on the outside, curved side of the cap. The exact type of drill collar isn't important, it is just to provide some extra grip to keep the gage pin from breaking loose and sliding up into the drop probe with repeated impacts, since the PVC hole alone isn't a great glue surface.
         4. When you have it put together and the epoxy is still wet, put it on a flat surface and slide the gage pin down until it bottoms out where the plastic cap sits on the flat surface. It will look something like Figure 2, below, when done. Make sure the gage pin doesn't dry at an angle (it should be parallel to the iron pipe, keep checking visually as it dries). If the pin isn't sticking straight out of the cap, your drop tester will not work properly.  
     
-        Figure 2 - Plastic cap with gage pin and drill collar sticking out, all epoxied together (gray)
+            Figure 2 - Plastic cap with gage pin and drill collar sticking out, all epoxied together (gray)
 
         5. After the epoxy dries, screw the cap on to one end of the pipe (make sure not to get epoxy on the threads, you may want to remove it later!).
         6. Weigh the drop probe assembly, using a good scale. It should be able to measure to half an ounce or 10 grams, a postal scale at the post office could work for example. If possible, try to use metric units - it will make calculations easier later on.
