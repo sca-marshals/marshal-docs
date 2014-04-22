@@ -1,22 +1,12 @@
-October 2013 Edition
- October 2013
- i
+# Rapier Marshal’s Handbook - October 2013 Edition
+ 
+Copyright 2013 - The Society for Creative Anachronism, Inc. All Rights Reserved.
 
-* * * * *
+This handbook is an official corporate publication of the Society for Creative Anachronism, Inc., a nonprofit organization dedicated to researching and recreating the customs, combat, and courtesy of the Middle Ages and the Renaissance. Copies of this document can be ordered from SCA Marketplace, PO Box 360789, Milpitas, CA 95036-0789.
 
-Rapier Marshal’s Handbook
- Copyright 2013 - The Society for Creative Anachronism, Inc. All Rights Reserved.
- This handbook is an official corporate publication of the Society for Creative Anachronism, Inc., a
- nonprofit organization dedicated to researching and recreating the customs, combat, and
- courtesy of the Middle Ages and the Renaissance. Copies of this document can be ordered from
- SCA Marketplace, PO Box 360789, Milpitas, CA 95036-0789.
- Members of the Society for Creative Anachronism, Inc. may photocopy this work in whole or in
- part for SCA use provided copyright credit is given and no changes are made to the text. The
- contents of this document will be posted at http://www.sca.org and further reproduction on other
- internet sites is expressly forbidden.
- ii
+Members of the Society for Creative Anachronism, Inc. may photocopy this work in whole or in part for SCA use provided copyright credit is given and no changes are made to the text. The contents of this document will be posted at http://www.sca.org and further reproduction on other internet sites is expressly forbidden.
 
-# INTRODUCTION
+## INTRODUCTION
 These rules set fundamental standards for rapier combat in the SCA. 
 They are designed to allow use by the Kingdoms of the Society as basic rules, to which Kingdom-specific preferences (such as the weapons used) can be added. 
 In keeping with Corpora, Kingdoms retain the right to add rules which establish more restrictive standards. 
@@ -25,8 +15,8 @@ All fighters and marshals are responsible for knowing these rules, as well as th
 Rules are designed to promote safe rapier combat in the Society. However, no matter how clear or accurate, rules cannot replace common sense, good judgment, and concern for the participants. 
 If a question arises when applying these standards, choose the answer that promotes the greatest degree of safety for all participants.
 
-## CONVENTIONS
-### GENERAL INFORMATION
+### CONVENTIONS
+#### GENERAL INFORMATION
 
 1. Rapier Combat shall be conducted in accordance with the Rules of the Lists of the SCA, Inc., these rules, and such further rules as are established by the Kingdoms.
 2. All combatants, prior to every combat or practice, shall ensure their equipment is safe, in good working order and has been inspected by a member of the Kingdom Marshallate authorized to inspect rapier gear.
@@ -40,7 +30,7 @@ If a question arises when applying these standards, choose the answer that promo
 
     Except where noted, all rules apply to all three forms of rapier combat. One of the major differences in the three forms is the allowable blades, which are specified later in this document.
 
-### BEHAVIOR ON THE FIELD
+#### BEHAVIOR ON THE FIELD
 1. All fighters shall obey the commands of the marshals overseeing the field, or be removed from the field and subject to further disciplinary action.
 2. Disagreements with the marshals overseeing the field shall be resolved through the established mechanisms outlined in the Marshallate Procedures of the SCA, Inc.
 3. Each fighter shall maintain control over his or her temper and behavior at all times.
@@ -49,7 +39,7 @@ If a question arises when applying these standards, choose the answer that promo
 6. Conduct obstructive of normal rapier combat, such as consistent ignoring of blows, deliberate misuse of the rules (such as calling HOLD whenever pressed), or the like, is forbidden.
 
 
-### USE OF WEAPONS AND PARRYING DEVICES
+#### USE OF WEAPONS AND PARRYING DEVICES
  A. Valid blows are struck by: thrusting with the point of the blade (thrust) or sliding the edge of
  the blade by drawing (draw cut).
  i.
