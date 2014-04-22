@@ -18,7 +18,6 @@ Rapier Marshal’s Handbook
 
 * * * * *
 
-October 2013 Edition
  Revision History – Summary of changes from previous version
  Page
  Paragraph
@@ -100,7 +99,6 @@ Rapier Marshal’s Handbook
 
 * * * * *
 
-October 2013 Edition
  INTRODUCTION
  These rules set fundamental standards for rapier combat in the SCA. They are designed to allow
  use by the Kingdoms of the Society as basic rules, to which Kingdom-specific preferences (such
@@ -139,11 +137,6 @@ October 2013 Edition
  2. BEHAVIOR ON THE FIELD
  A. All fighters shall obey the commands of the marshals overseeing the field, or be removed
  from the field and subject to further disciplinary action.
- 1
-
-* * * * *
-
-Rapier Marshal’s Handbook
  B. Disagreements with the marshals overseeing the field shall be resolved through the
  established mechanisms outlined in the Marshallate Procedures of the SCA, Inc.
  C. Each fighter shall maintain control over his or her temper and behavior at all times.
@@ -183,11 +176,6 @@ Rapier Marshal’s Handbook
  extremely sharp on point and edge. Any blow that would have penetrated the skin shall be
  counted a good blow. Any blow that strikes a mask, helm or gorget shall be counted as
  though it struck flesh. Kingdoms shall not alter this standard.
- 2
-
-* * * * *
-
-October 2013 Edition
  D. A valid blow to the:
  •
  head,
@@ -234,11 +222,6 @@ October 2013 Edition
  openings in a cage or swept hilt, any design which has acute angles where a blade could
  easily be wedged and bent). Knuckle bows are deemed safe for use with light rapier
  blades.
- 3
-
-* * * * *
-
-Rapier Marshal’s Handbook
  2. BLADES
  A.
  If a blade meets the criteria below, it is considered acceptable for use unless specifically
@@ -286,11 +269,6 @@ Rapier Marshal’s Handbook
  b. Tips must be firmly taped or glued in place. The tip must be of a color contrasting with
  the blade so that the tip's absence is readily apparent. If tape is used, it must contrast
  with both blade and tip.
- 4
-
-* * * * *
-
-October 2013 Edition
  ix.
  Any blade with kinks, sharp bends, or cracks shall not be used. Steel blades that
  develop these defects cannot be repaired and must be retired. Light rapier blades or
@@ -332,11 +310,6 @@ October 2013 Edition
  broadcloth
  •
  a single layer of heavy poplin cloth (35% cotton, 65% polyester; "trigger" cloth)
- 5
-
-* * * * *
-
-Rapier Marshal’s Handbook
  •
  sweat pants
  •
@@ -392,11 +365,6 @@ Rapier Marshal’s Handbook
  of a modern fencing mask, it should be tested using a standard commercial 12kg mask
  punch. Marshals doing the testing shall be trained in the use of the punch. The Kingdom
  Rapier Marshals may elect to designate certain deputies to administer such testing.
- 6
-
-* * * * *
-
-October 2013 Edition
  v.
  The rest of the head and neck must be covered by at least puncture resistant
  material.
@@ -446,11 +414,6 @@ October 2013 Edition
  3. CLOAKS: When cloaks are used, "HOLD" should be called if the cloak becomes tangled
  about either fighter, or about one of the weapons such that the weapon cannot be withdrawn.
  "HOLD" need not be called if the cloak is merely near the face, deflecting a weapon
- 7
-
-* * * * *
-
-Rapier Marshal’s Handbook
  (assuming that the Kingdom rules allow use of the cloak for blocking or deflection), loosely
  draped over, or weighting down the blade.
  4. BLADE GRASPING: Blade grasping is allowed in heavy rapier and cut and thrust rapier.
@@ -496,11 +459,6 @@ Rapier Marshal’s Handbook
  their kingdom rules.
  8. PERIODIC TESTING OF PROTECTIVE GEAR: Kingdoms shall require all gear to have been
  formally tested (including fabric and mask tests, as appropriate) at least once every two
- 8
-
-* * * * *
-
-October 2013 Edition
  years. Compliance is the responsibility of the individual fighter. Any protective gear may be
  formally tested if there is concern that the gear may have lost protective ability due to age,
  wear and tear, or other factors. Refer to Appendix 1 on Testing Standards.
@@ -508,11 +466,7 @@ October 2013 Edition
  Kingdom rapier combat rules, the marshals should NOT assume that the situation is
  forbidden or inappropriate. Again: However, no matter how clear or accurate, rules cannot
  replace common sense, good judgment, and concern for the participants.
- 9
-
-* * * * *
-
-Rapier Marshal’s Handbook
+ 
  APPENDIX
  1. TESTING STANDARDS FOR SCA RAPIER COMBAT
  A. FABRIC TESTING FOR PROTECTIVE GEAR
@@ -565,11 +519,6 @@ Rapier Marshal’s Handbook
  \<= 48” (121.92 cm)
  1/2" (12 mm)
  6 oz (170 grams)
- 10
-
-* * * * *
-
-October 2013 Edition
  2. PROCEDURES FOR EXPERIMENTATION IN RAPIER COMBAT
  Before any new weapon or technique can be used in Society Rapier Combat, a test plan
  must be submitted to and approved by the Deputy Society Marshal for Rapier Combat. This
@@ -614,11 +563,7 @@ October 2013 Edition
  drop the weighted drop probe down the middle of the guide tube, as shown in Figure 1,
  below. If the rod on the end of the falling drop probe punches through, the fabric fails, if it
  doesn't punch through the fabric passes.
- 11
-
-* * * * *
-
-Rapier Marshal’s Handbook
+ 
  Figure 1 - Drop tester (pipe end sticking out of white guide tube) ready to use on some
  fabric clamped onto the 3" flange.
  These instructions describe how to build a drop tester for carrying out these tests. It won't
@@ -629,11 +574,6 @@ Rapier Marshal’s Handbook
  plumbing supply house, etc, this is heavy, iron pipe used for natural gas.
  •
  1" nominal plastic cap for pipe above (screws onto end of pipe)
- 12
-
-* * * * *
-
-October 2013 Edition
  •
  0.156" (5/32") "plus tolerance" diameter gage pin, 2 inch length, such as from Meyer
  Gage Company, CT, 860-528-6527, Class ZZ, \$2 each, \$10 minimum order
@@ -649,11 +589,6 @@ October 2013 Edition
  2" nominal diameter PVC or equivalent (material doesn't matter for this), at least 30"
  •
  3" PVC 3" Male Adp. DWV (short section of PVC, has \*external\* threads on one end)
- 13
-
-* * * * *
-
-Rapier Marshal’s Handbook
  •
  2 hose clamps, 2.5" to 4" range (large enough to fit over 3" adapter above)
  •
@@ -687,11 +622,6 @@ Rapier Marshal’s Handbook
  drill collar isn't important, it is just to provide some extra grip to keep the gage pin from
  breaking loose and sliding up into the drop probe with repeated impacts, since the PVC hole
  alone isn't a great glue surface.
- 14
-
-* * * * *
-
-October 2013 Edition
  4. When you have it put together and the epoxy is still wet, put it on a flat surface and slide
  the gage pin down until it bottoms out where the plastic cap sits on the flat surface. It will look
  something like Figure 2, below, when done. Make sure the gage pin doesn't dry at an angle
@@ -715,11 +645,6 @@ October 2013 Edition
  Plug the measured drop probe weight into one of the formulas and calculate the drop
  distance. It should be between 10 and 20 cm (4 and 8 inches), if not, you found a really
  unusual pipe stub and should not proceed further.
- 15
-
-* * * * *
-
-Rapier Marshal’s Handbook
  8. Lay the probe next to the PVC tube from the first step, slide it "up" next to the PVC guide
  tube until you have that calculated drop distance from the bottom of the PVC tube to the gage
  pin sticking out of the drop probe, and mark the top end of the drop probe where it lies next to
@@ -737,11 +662,6 @@ Rapier Marshal’s Handbook
  slippage, which has a big impact on whether the test passes or fails armor.
  Figure 4 - Clamps and "frame" (3" flange) showing how these are assembled to carry out a
  fabric test.
- 16
-
-* * * * *
-
-October 2013 Edition
  It is suggested that you get a nut driver (like a screw driver, but with a socket head) for tightening
  and loosening these hose clamps, it is much easier to use than a screw driver as well as being
  safer.
@@ -767,11 +687,6 @@ October 2013 Edition
  first hose clamp far enough down (you may want to lean on it a bit with the screwdriver or nut
  driver), the second hose clamp won't stay on when you tighten it; it will just barely fit if you do
  everything right.
- 17
-
-* * * * *
-
-Rapier Marshal’s Handbook
  Figure 6 - Fabric clamped onto flange with two hose clamps. Notice that the second one
  will protrude a bit above the level of the fabric with thicker fabrics, but it should still be
  tight if you push everything down enough.
@@ -782,11 +697,6 @@ Rapier Marshal’s Handbook
  freely, not lying against a side. (You are using the drop probe like a plumb bob to get
  everything vertical.) Line up the mark exactly with the top of the guide tube, and drop the
  probe. It should look like Figure 7 below just before you drop it.
- 18
-
-* * * * *
-
-October 2013 Edition
  Figure 7 - Drop Tester just before making a test drop. Note that the guide tube is centered
  on the clamped fabric, and the drop probe is being used as a plumb bob to make the guide
  tube vertical.
@@ -803,11 +713,6 @@ October 2013 Edition
  specified in the body of this document. For current information on kingdom specific rulings
  regarding allowed blades and conventions related to rapier combat please refer to the appropriate
  kingdom marshallate and website.
- 19
-
-* * * * *
-
-Rapier Marshal’s Handbook
  6. EXCEPTIONS TO ALLOWED BLADES RULES
  Section 6 of the appendix lists blades that are either explicitly permitted for or restricted from use
  in rapier combat. Blades on the “Restricted Blades” list may not be used in any Society rapier
@@ -818,6 +723,3 @@ Rapier Marshal’s Handbook
  to the list in Section 6 of the appendix.
  The latest version of Section 6 is maintained on the SCA web pages under Society Marshal –
  Rapier (http://www.sca.org/officers/marshal/combat/rapier/index.html).
- 20
-
-* * * * *
