@@ -53,52 +53,6 @@ Rapier Marshal’s Handbook
  as fiberglass blades and plastic foils for Youth Rapier.
  iii
 
-* * * * *
-
-Rapier Marshal’s Handbook
- PREFACE............................................................. Error! Bookmark not defined.
- INTRODUCTION ..................................................................................................1
- CONVENTIONS....................................................................................................1
- 1.
- GENERAL INFORMATION.........................................................................1
- 2.
- BEHAVIOR ON THE FIELD........................................................................1
- 3.
- USE OF WEAPONS AND PARRYING DEVICES ......................................2
- 4.
- ACKNOWLEDGEMENT OF BLOWS..........................................................2
- WEAPONS AND PARRYING DEVICES...............................................................3
- 1.
- GENERAL...................................................................................................3
- 2.
- BLADES......................................................................................................4
- 3.
- PARRYING DEVICES:................................................................................5
- 4.
- PROJECTILE WEAPONS...........................................................................5
- PROTECTIVE GEAR............................................................................................5
- 1.
- TERMS .......................................................................................................5
- 2.
- ARMOR REQUIREMENTS.........................................................................6
- MARSHALLING CONCERNS IN RAPIER COMBAT............................................7
- APPENDIX..........................................................................................................10
- 1.
- TESTING STANDARDS FOR SCA RAPIER COMBAT ............................10
- 2.
- PROCEDURES FOR EXPERIMENTATION IN RAPIER COMBAT ..........11
- 3.
- PROCEDURES FOR CREATION OF A DROP TESTER .........................11
- 4.
- PROCEDURES FOR USE OF A DROP TESTER ....................................17
- 5.
- BLADE TYPES AND CONVENTIONS......................................................19
- 6.
- EXCEPTIONS TO ALLOWED BLADES RULES.......................................20
- iv
-
-* * * * *
-
 # INTRODUCTION
  These rules set fundamental standards for rapier combat in the SCA. They are designed to allow
  use by the Kingdoms of the Society as basic rules, to which Kingdom-specific preferences (such
