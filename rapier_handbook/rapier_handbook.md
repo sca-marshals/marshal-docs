@@ -207,7 +207,7 @@ At regular intervals the Kingdom Rapier Marshal shall report to their Earl Marsh
 
 It is important not to deviate from the construction specifications given below without approval, as seemingly minor changes can affect the test results.  There are three major parts to the tester, the drop probe (the weighted piece), the guide tube, and the round frame (3" flange, below) over which the fabric to be tested is clamped. The actual test method is detailed in Appendix 4 of the Society Rapier Combat Rules but here is a brief overview:
 
-Clamp the fabric over the 3" flange, balance the guide tube over the center of the fabric, and drop the weighted drop probe down the middle of the guide tube, as shown in [Figure 1](figure-1), below. If the rod on the end of the falling drop probe punches through, the fabric fails, if it doesn't punch through the fabric passes.
+Clamp the fabric over the 3" flange, balance the guide tube over the center of the fabric, and drop the weighted drop probe down the middle of the guide tube, as shown in [Figure 1](#figure-1), below. If the rod on the end of the falling drop probe punches through, the fabric fails, if it doesn't punch through the fabric passes.
  
 These instructions describe how to build a drop tester for carrying out these tests. It won't take very long to build, and will not be very expensive, but does need one special part.
 
