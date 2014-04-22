@@ -204,7 +204,7 @@ If a question arises when applying these standards, choose the answer that promo
 
     At regular intervals the Kingdom Rapier Marshal shall report to their Earl Marshal, and the Deputy Society Marshal, on the progress and results of the experiment. At the end of the test period the Kingdom Rapier Marshal will provide the Deputy Society Marshal with a test summary, to include a list of any injuries that resulted from the use of the weapon or technique, and any concerns from fighters and marshals arising from the testing. The Deputy Society Marshal, after consultation with the Kingdom Rapier Marshals, shall determine if the weapon or technique seems suitable for SCA Rapier Combat. He shall then report to the Society Marshal for final adjudication.
 
-1. PROCEDURES FOR CREATION OF A DROP TESTER
+### PROCEDURES FOR CREATION OF A DROP TESTER {#create_drop_tester)
     It is important not to deviate from the construction specifications given below without approval, as seemingly minor changes can affect the test results.  There are three major parts to the tester, the drop probe (the weighted piece), the guide tube, and the round frame (3" flange, below) over which the fabric to be tested is clamped. The actual test method is detailed in Appendix 4 of the Society Rapier Combat Rules but here is a brief overview:
 
     Clamp the fabric over the 3" flange, balance the guide tube over the center of the fabric, and drop the weighted drop probe down the middle of the guide tube, as shown in Figure 1, below. If the rod on the end of the falling drop probe punches through, the fabric fails, if it doesn't punch through the fabric passes.
