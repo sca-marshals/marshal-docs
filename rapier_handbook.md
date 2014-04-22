@@ -282,24 +282,22 @@ If a question arises when applying these standards, choose the answer that promo
     It is suggested that you get a nut driver (like a screw driver, but with a socket head) for tightening and loosening these hose clamps, it is much easier to use than a screw driver as well as being safer.
 
 4. PROCEDURES FOR USE OF A DROP TESTER
-
     The basic idea behind this test is to drop a known weight a known distance to give a known impact, giving a pass/fail verdict to "unknown" fencing armor. This document will tell you how to use the tester to test armor. See Appendix 3/Building a Drop tester for how to choose and build these items. You should have all six pieces shown in Figure 5, below, including a guide tube, drop probe (unique to your tester), 3" threaded PVC flange, two hose clamps and a screw driver or nut clamp to tighten the hose clamps.  You should only use your probe with the guide tube it was designed for. Interchanging these items between testers may produce inaccurate results.
-
-    Figure 5 - Parts needed for SCA Standard Drop Tester for fencing armor.
 
     1. You need a hard surface to work on. Surfaces such as pavement, an extremely sturdy table, concrete, etc are good choices. Carpet or grass are bad choices; they absorb impact and make the test too easy for armor to pass.
     2. "Start by setting the threaded PVC flange thread side up and laying the test fabric over it, and loosen the first hose clamp so that it will fit easily over the fabric and flange but pull the fabric somewhat taut as it is pushed down. Tighten that hose clamp, put a second one on and slide it down to touch the first then tighten the second one. It should look something like Figure 6. You may want to invest in a 5/16" nut driver (like a screwdriver with a socket head).  It will prevent gashes on your hand from slipped screwdrivers. Note that if you didn't push the first hose clamp far enough down (you may want to lean on it a bit with the screwdriver or nut driver), the second hose clamp won't stay on when you tighten it; it will just barely fit if you do everything right.
-
-    Figure 6 - Fabric clamped onto flange with two hose clamps. Notice that the second one will protrude a bit above the level of the fabric with thicker fabrics, but it should still be tight if you push everything down enough.
-
     3. Then, place the guide tube on the center of the clamped fabric. Steady it with one hand, trying not to push downward on the fabric.
     4. Put the drop probe into the guide tube, lowering it to roughly the mark that shows where to drop it from, and slowly tilt the guide tube back and forth until the drop probe seems to hang freely, not lying against a side. (You are using the drop probe like a plumb bob to get everything vertical.) Line up the mark exactly with the top of the guide tube, and drop the probe. It should look like Figure 7 below just before you drop it.
-
-    Figure 7 - Drop Tester just before making a test drop. Note that the guide tube is centered on the clamped fabric, and the drop probe is being used as a plumb bob to make the guide tube vertical.
-
     5. Let go of the probe.
 
     Now examine the fabric. If the pin punched through anything beyond the top layer of fabric, the material fails. If the pin did not punch through, recheck the top hose clamp with a gentle tug to be sure it is still tight. If there was slippage it will often get loose, so this is a good check to be sure the fabric didn't slip. If it's loose, you need to redo the test. If it's not loose, the fabric passes. Always be sure to check the tightness of the fabric after the drop.
+    
+    Figure 5 - Parts needed for SCA Standard Drop Tester for fencing armor.
+    
+    Figure 6 - Fabric clamped onto flange with two hose clamps. Notice that the second one will protrude a bit above the level of the fabric with thicker fabrics, but it should still be tight if you push everything down enough.
+   
+    Figure 7 - Drop Tester just before making a test drop. Note that the guide tube is centered on the clamped fabric, and the drop probe is being used as a plumb bob to make the guide tube vertical.
+
 
 5. BLADE TYPES AND CONVENTIONS
  Due to the continual evolution of blades being developed that are appropriate for use in rapier
