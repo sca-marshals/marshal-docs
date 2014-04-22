@@ -299,6 +299,7 @@ If a question arises when applying these standards, choose the answer that promo
     Figure 7 - Drop Tester just before making a test drop. Note that the guide tube is centered on the clamped fabric, and the drop probe is being used as a plumb bob to make the guide tube vertical.
 
 5. BLADE TYPES AND CONVENTIONS 
+
     Due to the continual evolution of blades being developed that are appropriate for use in rapier combat, Appendix 5 (which formerly contained a specific list of approved blade models and manufacturers) has been retired in favor of the objective criteria for acceptable blades as specified in the body of this document. For current information on kingdom specific rulings regarding allowed blades and conventions related to rapier combat please refer to the appropriate kingdom marshallate and website.
 
 6. EXCEPTIONS TO ALLOWED BLADES RULES
