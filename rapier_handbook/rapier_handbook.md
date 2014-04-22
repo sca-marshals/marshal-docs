@@ -223,7 +223,7 @@ If a question arises when applying these standards, choose the answer that promo
 
     Clamp the fabric over the 3" flange, balance the guide tube over the center of the fabric, and drop the weighted drop probe down the middle of the guide tube, as shown in Figure 1, below. If the rod on the end of the falling drop probe punches through, the fabric fails, if it doesn't punch through the fabric passes.
  
-    Figure 1 - Drop tester (pipe end sticking out of white guide tube) ready to use on some fabric clamped onto the 3" flange.
+    ![Drop Tester](image-001.jpg) Figure 1 - Drop tester (pipe end sticking out of white guide tube) ready to use on some fabric clamped onto the 3" flange.
 
     These instructions describe how to build a drop tester for carrying out these tests. It won't take very long to build, and will not be very expensive, but does need one special part.
 
