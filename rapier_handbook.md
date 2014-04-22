@@ -97,27 +97,14 @@ If a question arises when applying these standards, choose the answer that promo
         11.  Orthopedic (or "Pistol") grips will not be used unless the fighter has approval for medical reasons, supported by documentation from their health care provider.
 
 3. PARRYING DEVICES:
- A. Solid parrying devices will be made of sturdy, lightweight materials, resistant to breakage
- and splintering.
- B. Soft, non-rigid devices such as cloaks may be made of cloth, foam, leather and similar
- materials. They may be weighted with soft material such as rope or rolled cloth; they shall
- not be weighted with any rigid material nor with materials which are heavy enough to turn
- the device into a flail or impact weapon.
- C. Devices that predictably cause entangling of an opponent or their equipment, either by
- design or by repeated mishap, are not allowed.
- D. Offensive bucklers will be considered non-standard devices. These devices must be
- approved on a case by case basis, in accordance with rules established by each kingdom's
- Rapier Marshallate. An opponent may decline to face non-standard devices without
- forfeiting a bout. Offensive bucklers shall be made of soft flexible materials such as cloth,
- tape, foam and golf tubes.
- 4. PROJECTILE WEAPONS
- A. Kingdoms may permit combat archery, throwing weapons, and/or mock-gunnery gear (such
- as rubber-band guns) to be used in rapier melee combat, as long as safety standards for
- those arts are met.
- B. The use of any projectile weapon is forbidden within formal rapier Tournament lists (single
- combat), or in any situation where spectators cannot be separated from the potential line of
- fire by more than the effective range of the projectile weapons to be used.
+    1. Solid parrying devices will be made of sturdy, lightweight materials, resistant to breakage and splintering.
+    2. Soft, non-rigid devices such as cloaks may be made of cloth, foam, leather and similar materials. They may be weighted with soft material such as rope or rolled cloth; they shall not be weighted with any rigid material nor with materials which are heavy enough to turn the device into a flail or impact weapon.
+    3. Devices that predictably cause entangling of an opponent or their equipment, either by design or by repeated mishap, are not allowed.
+    4. Offensive bucklers will be considered non-standard devices. These devices must be approved on a case by case basis, in accordance with rules established by each kingdom's Rapier Marshallate. An opponent may decline to face non-standard devices without forfeiting a bout. Offensive bucklers shall be made of soft flexible materials such as cloth, tape, foam and golf tubes.
 
+4. PROJECTILE WEAPONS
+    1. Kingdoms may permit combat archery, throwing weapons, and/or mock-gunnery gear (such as rubber-band guns) to be used in rapier melee combat, as long as safety standards for those arts are met.
+    2. The use of any projectile weapon is forbidden within formal rapier Tournament lists (single combat), or in any situation where spectators cannot be separated from the potential line of fire by more than the effective range of the projectile weapons to be used.
 
 ## PROTECTIVE GEAR
  1. TERMS
