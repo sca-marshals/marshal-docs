@@ -211,7 +211,7 @@ Clamp the fabric over the 3" flange, balance the guide tube over the center of t
  
 These instructions describe how to build a drop tester for carrying out these tests. It won't take very long to build, and will not be very expensive, but does need one special part.
 
-Parts list:
+#### Parts list
 * 1" nominal diameter 18" long Black Pipe stub from any do-it-yourself/hardware store, plumbing supply house, etc, this is heavy, iron pipe used for natural gas.
 * 1" nominal plastic cap for pipe above (screws onto end of pipe)
 * 0.156" (5/32") "plus tolerance" diameter gage pin, 2 inch length, such as from Meyer Gage Company, CT, 860-528-6527, Class ZZ, $2 each, $10 minimum order (http://www.meyergage.com/products/english\_gage\_sets.htm)
@@ -223,13 +223,13 @@ Parts list:
 * 2 hose clamps, 2.5" to 4" range (large enough to fit over 3" adapter above)
 * screwdriver or nut driver (to operate test)
 
-Construction Tools:
+#### Construction Tools
 * Power drill with 5/32" drill bit
 * scale capable of measuring to about ½ oz or 10 g (can go to post office and use theirs)
 * (optional) saw (some way to cut the PVC pipe above, or can have it done at hardware store)
 * (optional) file, sandpaper, to smooth PVC
 
-Construction:
+#### Construction
 1. Make the Guide Tube
     1. Cut the 2" nominal diameter PVC tube to 23.6" (60 cm) in length. Try to make the ends square (so when it is placed on a flat surface on either end, it stands up straight). A wood saw is fastest for this, a hack saw will work as well, or get it cut at the store you buy it at.
     2. Drill three holes with the 5/32" drill bit near the bottom end of it for air release when the probe drops, the location doesn't matter as long as they are within a couple of inches of the bottom.
