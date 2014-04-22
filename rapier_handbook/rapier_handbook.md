@@ -190,19 +190,18 @@ If a question arises when applying these standards, choose the answer that promo
     | Cut & Thrust | \<= 48” (121.92 cm) | 1/2" (12 mm) | 6 oz (170 grams) |
 
 ### PROCEDURES FOR EXPERIMENTATION IN RAPIER COMBAT
+Before any new weapon or technique can be used in Society Rapier Combat, a test plan must be submitted to and approved by the Deputy Society Marshal for Rapier Combat. This plan shall describe:
 
-    Before any new weapon or technique can be used in Society Rapier Combat, a test plan must be submitted to and approved by the Deputy Society Marshal for Rapier Combat. This plan shall describe:
+* The new weapon or technique
+* Specifics of materials used and construction of the weapon (as appropriate);
+* In the case of new blade types, a sample of the new blade-type for direct evaluation by the Deputy Society Marshal
+* The proposed uses of the new weapon or technique
+* All restrictions that will be imposed during the experimental period
+* How long the test period will be
 
-    * The new weapon or technique
-    * Specifics of materials used and construction of the weapon (as appropriate);
-    * In the case of new blade types, a sample of the new blade-type for direct evaluation by the Deputy Society Marshal
-    * The proposed uses of the new weapon or technique
-    * All restrictions that will be imposed during the experimental period
-    * How long the test period will be
+It is the prerogative of the Kingdom Rapier Marshals, subject to the above, and to approval of their Earl Marshals, to allow testing of new weapons or techniques within a kingdom.  Testing means the weapon or technique may be used at fighter practice, tourneys, and in small melees after all combatants and marshals have been informed the weapon or technique is being tested and that it is not approved for general SCA use. All combatants and marshals must consent to the use of the weapon or technique before combat begins. If any of the marshals or combatants object to the use of the weapon or technique, it may not be used.
 
-    It is the prerogative of the Kingdom Rapier Marshals, subject to the above, and to approval of their Earl Marshals, to allow testing of new weapons or techniques within a kingdom.  Testing means the weapon or technique may be used at fighter practice, tourneys, and in small melees after all combatants and marshals have been informed the weapon or technique is being tested and that it is not approved for general SCA use. All combatants and marshals must consent to the use of the weapon or technique before combat begins. If any of the marshals or combatants object to the use of the weapon or technique, it may not be used.
-
-    At regular intervals the Kingdom Rapier Marshal shall report to their Earl Marshal, and the Deputy Society Marshal, on the progress and results of the experiment. At the end of the test period the Kingdom Rapier Marshal will provide the Deputy Society Marshal with a test summary, to include a list of any injuries that resulted from the use of the weapon or technique, and any concerns from fighters and marshals arising from the testing. The Deputy Society Marshal, after consultation with the Kingdom Rapier Marshals, shall determine if the weapon or technique seems suitable for SCA Rapier Combat. He shall then report to the Society Marshal for final adjudication.
+At regular intervals the Kingdom Rapier Marshal shall report to their Earl Marshal, and the Deputy Society Marshal, on the progress and results of the experiment. At the end of the test period the Kingdom Rapier Marshal will provide the Deputy Society Marshal with a test summary, to include a list of any injuries that resulted from the use of the weapon or technique, and any concerns from fighters and marshals arising from the testing. The Deputy Society Marshal, after consultation with the Kingdom Rapier Marshals, shall determine if the weapon or technique seems suitable for SCA Rapier Combat. He shall then report to the Society Marshal for final adjudication.
 
 ### PROCEDURES FOR CREATION OF A DROP TESTER
 
