@@ -298,21 +298,9 @@ If a question arises when applying these standards, choose the answer that promo
    
     Figure 7 - Drop Tester just before making a test drop. Note that the guide tube is centered on the clamped fabric, and the drop probe is being used as a plumb bob to make the guide tube vertical.
 
+5. BLADE TYPES AND CONVENTIONS 
+    Due to the continual evolution of blades being developed that are appropriate for use in rapier combat, Appendix 5 (which formerly contained a specific list of approved blade models and manufacturers) has been retired in favor of the objective criteria for acceptable blades as specified in the body of this document. For current information on kingdom specific rulings regarding allowed blades and conventions related to rapier combat please refer to the appropriate kingdom marshallate and website.
 
-5. BLADE TYPES AND CONVENTIONS
- Due to the continual evolution of blades being developed that are appropriate for use in rapier
- combat, Appendix 5 (which formerly contained a specific list of approved blade models and
- manufacturers) has been retired in favor of the objective criteria for acceptable blades as
- specified in the body of this document. For current information on kingdom specific rulings
- regarding allowed blades and conventions related to rapier combat please refer to the appropriate
- kingdom marshallate and website.
- 6. EXCEPTIONS TO ALLOWED BLADES RULES
- Section 6 of the appendix lists blades that are either explicitly permitted for or restricted from use
- in rapier combat. Blades on the “Restricted Blades” list may not be used in any Society rapier
- activities. Blades on the “Permitted Blades” list may be used as described within the list.
- If a blade does not meet the criteria established in “Weapons and Parrying Devices”, section 2.B
- above, but a participant wishes to to use it in SCA rapier combat, that blade must be evaluated by
- the Deputy Society Rapier Marshal’s office. If the blade is found to be acceptable, it will be added
- to the list in Section 6 of the appendix.
- The latest version of Section 6 is maintained on the SCA web pages under Society Marshal –
- Rapier (http://www.sca.org/officers/marshal/combat/rapier/index.html).
+6. EXCEPTIONS TO ALLOWED BLADES RULES
+
+    Section 6 of the appendix lists blades that are either explicitly permitted for or restricted from use in rapier combat. Blades on the “Restricted Blades” list may not be used in any Society rapier activities. Blades on the “Permitted Blades” list may be used as described within the list.  If a blade does not meet the criteria established in “Weapons and Parrying Devices”, section 2.B above, but a participant wishes to to use it in SCA rapier combat, that blade must be evaluated by the Deputy Society Rapier Marshal’s office. If the blade is found to be acceptable, it will be added to the list in Section 6 of the appendix.  The latest version of Section 6 is maintained on the SCA web pages under Society Marshal – Rapier (http://www.sca.org/officers/marshal/combat/rapier/index.html).
