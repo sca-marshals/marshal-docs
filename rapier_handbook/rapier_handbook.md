@@ -18,11 +18,11 @@ If a question arises when applying these standards, choose the answer that promo
 ### CONVENTIONS
 #### GENERAL INFORMATION
 
-1. Rapier Combat shall be conducted in accordance with the Rules of the Lists of the SCA, Inc., these rules, and such further rules as are established by the Kingdoms.
-2. All combatants, prior to every combat or practice, shall ensure their equipment is safe, in good working order and has been inspected by a member of the Kingdom Marshallate authorized to inspect rapier gear.
-3. At interkingdom events, for any given Kingdom's tourney, guest combatants shall meet SCA standards for protective gear, but shall comply with whatever weapons standards are being used by the host kingdom for that tourney.
-4. Unless otherwise directed by Kingdom Law, the Crown's representative upon the field and in all matters dealing with Rapier Combat is the Earl Marshal, then the Kingdom Rapier Marshal, then, by delegation, members of the Kingdom Rapier Marshallate.
-5. There are three categories of rapier combat, each requiring separate authorization. Each Kingdom can decide which categories of rapier combat they will permit in their rules. These categories are:
+#. Rapier Combat shall be conducted in accordance with the Rules of the Lists of the SCA, Inc., these rules, and such further rules as are established by the Kingdoms.
+#. All combatants, prior to every combat or practice, shall ensure their equipment is safe, in good working order and has been inspected by a member of the Kingdom Marshallate authorized to inspect rapier gear.
+#. At interkingdom events, for any given Kingdom's tourney, guest combatants shall meet SCA standards for protective gear, but shall comply with whatever weapons standards are being used by the host kingdom for that tourney.
+#. Unless otherwise directed by Kingdom Law, the Crown's representative upon the field and in all matters dealing with Rapier Combat is the Earl Marshal, then the Kingdom Rapier Marshal, then, by delegation, members of the Kingdom Rapier Marshallate.
+#. There are three categories of rapier combat, each requiring separate authorization. Each Kingdom can decide which categories of rapier combat they will permit in their rules. These categories are:
 
     * light rapier
     * heavy rapier
@@ -302,3 +302,5 @@ If a question arises when applying these standards, choose the answer that promo
 6. EXCEPTIONS TO ALLOWED BLADES RULES
 
     Section 6 of the appendix lists blades that are either explicitly permitted for or restricted from use in rapier combat. Blades on the “Restricted Blades” list may not be used in any Society rapier activities. Blades on the “Permitted Blades” list may be used as described within the list.  If a blade does not meet the criteria established in “Weapons and Parrying Devices”, section 2.B above, but a participant wishes to to use it in SCA rapier combat, that blade must be evaluated by the Deputy Society Rapier Marshal’s office. If the blade is found to be acceptable, it will be added to the list in Section 6 of the appendix.  The latest version of Section 6 is maintained on the SCA web pages under Society Marshal – Rapier (http://www.sca.org/officers/marshal/combat/rapier/index.html).
+
+#### Figures ####
