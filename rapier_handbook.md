@@ -247,11 +247,13 @@ If a question arises when applying these standards, choose the answer that promo
     * (optional) file, sandpaper, to smooth PVC
 
     Construction:
-    Step 1: Make the Guide Tube
+    * Step 1: Make the Guide Tube
+
     1. Cut the 2" nominal diameter PVC tube to 23.6" (60 cm) in length. Try to make the ends square (so when it is placed on a flat surface on either end, it stands up straight). A wood saw is fastest for this, a hack saw will work as well, or get it cut at the store you buy it at.
     2. Drill three holes with the 5/32" drill bit near the bottom end of it for air release when the probe drops, the location doesn't matter as long as they are within a couple of inches of the bottom.
 
     Step 2: Make the Drop probe
+
     1. First get a gage pin, at the supplier above. Do not modify the end, these pins are used because they are consistently manufactured. Make sure that the pin is clean of any oil or other chemicals that would keep the glue from sticking properly.
     2. Drill a hole in the center of the 1" plastic cap with the 5/32" drill bit.
     3. Now put the drill collar on the gage pin with about half of the gage pin sticking out of one side, and apply epoxy. Before it dries, put more epoxy on the gage pin, and shove it into the hole in the cap, with the drill collar on the outside, curved side of the cap. The exact type of drill collar isn't important, it is just to provide some extra grip to keep the gage pin from breaking loose and sliding up into the drop probe with repeated impacts, since the PVC hole alone isn't a great glue surface.
