@@ -261,10 +261,9 @@ If a question arises when applying these standards, choose the answer that promo
         6. Weigh the drop probe assembly, using a good scale. It should be able to measure to half an ounce or 10 grams, a postal scale at the post office could work for example. If possible, try to use metric units - it will make calculations easier later on.
         7. The height from which the probe will be dropped is directly dependent on the weight of the probe. Since not all cast iron pipe will weight the exact same amount, and the length of the pipe may be off by a small portion, calculate the exact drop height for the probe being constructed. Use the formula below for a 1.5 Joule drop energy to calculate the drop height for your tester.
     
-            In Metric units
-            15306 / (the probe weight in grams) = drop distance (in cm)
-             or, in American units,
-            212.6 / (the probe weight in ounces) = drop distance (in inches)
+            In Metric units: 15306 / (the probe weight in grams) = drop distance (in cm)
+
+            In American units:  212.6 / (the probe weight in ounces) = drop distance (in inches)
     
             Plug the measured drop probe weight into one of the formulas and calculate the drop distance. It should be between 10 and 20 cm (4 and 8 inches), if not, you found a really unusual pipe stub and should not proceed further.
         8. Lay the probe next to the PVC tube from the first step, slide it "up" next to the PVC guide tube until you have that calculated drop distance from the bottom of the PVC tube to the gage pin sticking out of the drop probe, and mark the top end of the drop probe where it lies next to the top of the PVC guide tube (tape, etc.). That is the mark you will want to line up with the top of the PVC tube when you drop the probe. Some of the probe will stick out of the top end of the tube when you have it all together vertically and give you a place to grab it. (The reason metric units are easier is that it's easier to measure fractions of a centimeter than it is fractions of an inch.)
