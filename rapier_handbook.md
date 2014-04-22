@@ -247,7 +247,7 @@ If a question arises when applying these standards, choose the answer that promo
     * (optional) file, sandpaper, to smooth PVC
 
     Construction:
-    Step 1: Make the Guide Tube
+        Step 1: Make the Guide Tube
     1. Cut the 2" nominal diameter PVC tube to 23.6" (60 cm) in length. Try to make the ends square (so when it is placed on a flat surface on either end, it stands up straight). A wood saw is fastest for this, a hack saw will work as well, or get it cut at the store you buy it at.
     2. Drill three holes with the 5/32" drill bit near the bottom end of it for air release when the probe drops, the location doesn't matter as long as they are within a couple of inches of the bottom.
 
