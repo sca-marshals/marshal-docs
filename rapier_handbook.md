@@ -16,43 +16,6 @@ Rapier Marshal’s Handbook
  internet sites is expressly forbidden.
  ii
 
-* * * * *
-
- Revision History – Summary of changes from previous version
- Page
- Paragraph
- Summary of change
- Number
- 2
- 1.E
- Remove reference to retired Appendix 5.
- 5
- 2.A
- Establish that objective criteria will be used to determine allowable
- blades in lieu of appendix 5.
- 5
- 2.B
- Definition of objective criteria for allowable blades.
- 7
- 1.C
- June 2012 changes to match the standard international equivalence.
- 7
- 1.D
- June 2012 changes to match the standard international equivalence.
- 11
- 1.B
- Doubled the weight and the deflection to aid measurement in the field.
- Added flexibility criteria for Cut and Thrust. Provide flexibility criteria in
- a table for easier reference.
- 20
- 5
- Retired Appendix Section 5.
- 21
- 6
- New appendix to track exceptions to the allowed blade criteria, such
- as fiberglass blades and plastic foils for Youth Rapier.
- iii
-
 # INTRODUCTION
 These rules set fundamental standards for rapier combat in the SCA. 
 They are designed to allow use by the Kingdoms of the Society as basic rules, to which Kingdom-specific preferences (such as the weapons used) can be added. 
