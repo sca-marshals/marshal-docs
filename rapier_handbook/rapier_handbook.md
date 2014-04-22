@@ -171,7 +171,7 @@ If a question arises when applying these standards, choose the answer that promo
 9. UNFORESEEN SITUATIONS: Should a situation arise not explicitly covered by Corporate or Kingdom rapier combat rules, the marshals should NOT assume that the situation is forbidden or inappropriate. Again: However, no matter how clear or accurate, rules cannot replace common sense, good judgment, and concern for the participants.
  
 ## APPENDIX
-1. TESTING STANDARDS FOR SCA RAPIER COMBAT
+### TESTING STANDARDS FOR SCA RAPIER COMBAT
     1. FABRIC TESTING FOR PROTECTIVE GEAR
         1.  Tests known to be acceptable include:
             1. Cloth or garment manufacturer's commercial certification that a fabric is rated to 550N.  (Documentation must be available at the time of inspection.)
@@ -188,7 +188,7 @@ If a question arises when applying these standards, choose the answer that promo
         | Light Rapier, Heavy Rapier | \<= 18” (45.72 cm) | 1/2" (12 mm) | 6 oz (170 grams) |
         | Cut & Thrust | \<= 48” (121.92 cm) | 1/2" (12 mm) | 6 oz (170 grams) |
 
-2. PROCEDURES FOR EXPERIMENTATION IN RAPIER COMBAT
+### PROCEDURES FOR EXPERIMENTATION IN RAPIER COMBAT
 
     Before any new weapon or technique can be used in Society Rapier Combat, a test plan must be submitted to and approved by the Deputy Society Marshal for Rapier Combat. This plan shall describe:
 
@@ -263,7 +263,7 @@ If a question arises when applying these standards, choose the answer that promo
 
         It is suggested that you get a nut driver (like a screw driver, but with a socket head) for tightening and loosening these hose clamps, it is much easier to use than a screw driver as well as being safer.
 
-4. PROCEDURES FOR USE OF A DROP TESTER
+### PROCEDURES FOR USE OF A DROP TESTER
     
     The basic idea behind this test is to drop a known weight a known distance to give a known impact, giving a pass/fail verdict to "unknown" fencing armor. This document will tell you how to use the tester to test armor. See Appendix 3/Building a Drop tester for how to choose and build these items. You should have all six pieces shown in Figure 5, below, including a guide tube, drop probe (unique to your tester), 3" threaded PVC flange, two hose clamps and a screw driver or nut clamp to tighten the hose clamps.  You should only use your probe with the guide tube it was designed for. Interchanging these items between testers may produce inaccurate results.
 
@@ -281,12 +281,12 @@ If a question arises when applying these standards, choose the answer that promo
    
     Figure 7 - Drop Tester just before making a test drop. Note that the guide tube is centered on the clamped fabric, and the drop probe is being used as a plumb bob to make the guide tube vertical.
 
-5. BLADE TYPES AND CONVENTIONS 
+### BLADE TYPES AND CONVENTIONS 
 
     Due to the continual evolution of blades being developed that are appropriate for use in rapier combat, Appendix 5 (which formerly contained a specific list of approved blade models and manufacturers) has been retired in favor of the objective criteria for acceptable blades as specified in the body of this document. For current information on kingdom specific rulings regarding allowed blades and conventions related to rapier combat please refer to the appropriate kingdom marshallate and website.
 
-6. EXCEPTIONS TO ALLOWED BLADES RULES
+### EXCEPTIONS TO ALLOWED BLADES RULES
 
     Section 6 of the appendix lists blades that are either explicitly permitted for or restricted from use in rapier combat. Blades on the “Restricted Blades” list may not be used in any Society rapier activities. Blades on the “Permitted Blades” list may be used as described within the list.  If a blade does not meet the criteria established in “Weapons and Parrying Devices”, section 2.B above, but a participant wishes to to use it in SCA rapier combat, that blade must be evaluated by the Deputy Society Rapier Marshal’s office. If the blade is found to be acceptable, it will be added to the list in Section 6 of the appendix.  The latest version of Section 6 is maintained on the SCA web pages under Society Marshal – Rapier (http://www.sca.org/officers/marshal/combat/rapier/index.html).
 
-#### Figures ####
+### Figures ####
