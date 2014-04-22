@@ -271,6 +271,7 @@ If a question arises when applying these standards, choose the answer that promo
             Figure 3 - Lay drop probe assembly (pipe and cap) next to PVC guide tube, and measure your calculated distance from the probe tip to the bottom of the PVC guide tube.
 
     3. The Clamps and Frame
+
         No modifications needed here, you just need the two hose clamps and the threaded flange, along with a screwdriver or nut driver to tighten the hose clamps. Do not substitute other parts for the flange with outside threads, as the grip on this surface has a big impact on fabric slippage, which has a big impact on whether the test passes or fails armor.
 
         Figure 4 - Clamps and "frame" (3" flange) showing how these are assembled to carry out a fabric test.
