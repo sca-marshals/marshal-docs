@@ -283,7 +283,7 @@ If a question arises when applying these standards, choose the answer that promo
 
 4. PROCEDURES FOR USE OF A DROP TESTER
 
-The basic idea behind this test is to drop a known weight a known distance to give a known impact, giving a pass/fail verdict to "unknown" fencing armor. This document will tell you how to use the tester to test armor. See Appendix 3/Building a Drop tester for how to choose and build these items. You should have all six pieces shown in Figure 5, below, including a guide tube, drop probe (unique to your tester), 3" threaded PVC flange, two hose clamps and a screw driver or nut clamp to tighten the hose clamps.  You should only use your probe with the guide tube it was designed for. Interchanging these items between testers may produce inaccurate results.
+    The basic idea behind this test is to drop a known weight a known distance to give a known impact, giving a pass/fail verdict to "unknown" fencing armor. This document will tell you how to use the tester to test armor. See Appendix 3/Building a Drop tester for how to choose and build these items. You should have all six pieces shown in Figure 5, below, including a guide tube, drop probe (unique to your tester), 3" threaded PVC flange, two hose clamps and a screw driver or nut clamp to tighten the hose clamps.  You should only use your probe with the guide tube it was designed for. Interchanging these items between testers may produce inaccurate results.
 
     Figure 5 - Parts needed for SCA Standard Drop Tester for fencing armor.
 
@@ -299,7 +299,7 @@ The basic idea behind this test is to drop a known weight a known distance to gi
 
     5. Let go of the probe.
 
-Now examine the fabric. If the pin punched through anything beyond the top layer of fabric, the material fails. If the pin did not punch through, recheck the top hose clamp with a gentle tug to be sure it is still tight. If there was slippage it will often get loose, so this is a good check to be sure the fabric didn't slip. If it's loose, you need to redo the test. If it's not loose, the fabric passes. Always be sure to check the tightness of the fabric after the drop.
+    Now examine the fabric. If the pin punched through anything beyond the top layer of fabric, the material fails. If the pin did not punch through, recheck the top hose clamp with a gentle tug to be sure it is still tight. If there was slippage it will often get loose, so this is a good check to be sure the fabric didn't slip. If it's loose, you need to redo the test. If it's not loose, the fabric passes. Always be sure to check the tightness of the fabric after the drop.
 
 5. BLADE TYPES AND CONVENTIONS
  Due to the continual evolution of blades being developed that are appropriate for use in rapier
