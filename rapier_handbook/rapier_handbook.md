@@ -264,6 +264,7 @@ If a question arises when applying these standards, choose the answer that promo
         It is suggested that you get a nut driver (like a screw driver, but with a socket head) for tightening and loosening these hose clamps, it is much easier to use than a screw driver as well as being safer.
 
 4. PROCEDURES FOR USE OF A DROP TESTER
+    
     The basic idea behind this test is to drop a known weight a known distance to give a known impact, giving a pass/fail verdict to "unknown" fencing armor. This document will tell you how to use the tester to test armor. See Appendix 3/Building a Drop tester for how to choose and build these items. You should have all six pieces shown in Figure 5, below, including a guide tube, drop probe (unique to your tester), 3" threaded PVC flange, two hose clamps and a screw driver or nut clamp to tighten the hose clamps.  You should only use your probe with the guide tube it was designed for. Interchanging these items between testers may produce inaccurate results.
 
     1. You need a hard surface to work on. Surfaces such as pavement, an extremely sturdy table, concrete, etc are good choices. Carpet or grass are bad choices; they absorb impact and make the test too easy for armor to pass.
