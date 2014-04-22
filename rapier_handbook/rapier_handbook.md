@@ -173,21 +173,21 @@ If a question arises when applying these standards, choose the answer that promo
  
 ## APPENDIX
 ### TESTING STANDARDS FOR SCA RAPIER COMBAT
-    1. FABRIC TESTING FOR PROTECTIVE GEAR
-        1.  Tests known to be acceptable include:
-            1. Cloth or garment manufacturer's commercial certification that a fabric is rated to 550N.  (Documentation must be available at the time of inspection.)
-            2. Use of 550N garment punch test devices, manufactured by sources acceptable to the Deputy Society Marshal for Rapier Combat. Such a device shall be used in accordance with its' instructions.
-            3.  Use of a drop test device which delivers a force, on dropping, of 1.5 joules to the fabric sample via a dull, flat 5/32" (4 mm) metal rod. As a general example, this rod can be mounted on a 1.0 kg (2.2 lbs) solid weight and dropped down a guide tube from 15.3 cm (6 inches) onto the fabric sample. The sample must be held firmly over a 3" diameter externally threaded frame by clamps when the drop test is applied. More specifically, the drop tester must be constructed and used as described in instructions found in Appendix 3 of these rules.
-            4. Use of a flat-broken foil blade to thrust against the material. To conduct this test, lay the material to be tested on firm ground or penetrable material (not hard packed dirt, concrete or similarly hard surfaces). Holding the broken blade in both hands, punch the material four times, increasing the force each time. After each punch, examine the material. For these tests, if the material in question has been completely penetrated, or penetrated in more than one layer, it fails. If only the top layer has been damaged, then it passes.
-    2. BLADE FLEXIBILITY TESTING
+1. FABRIC TESTING FOR PROTECTIVE GEAR
+    1.  Tests known to be acceptable include:
+        1. Cloth or garment manufacturer's commercial certification that a fabric is rated to 550N.  (Documentation must be available at the time of inspection.)
+        2. Use of 550N garment punch test devices, manufactured by sources acceptable to the Deputy Society Marshal for Rapier Combat. Such a device shall be used in accordance with its' instructions.
+        3.  Use of a drop test device which delivers a force, on dropping, of 1.5 joules to the fabric sample via a dull, flat 5/32" (4 mm) metal rod. As a general example, this rod can be mounted on a 1.0 kg (2.2 lbs) solid weight and dropped down a guide tube from 15.3 cm (6 inches) onto the fabric sample. The sample must be held firmly over a 3" diameter externally threaded frame by clamps when the drop test is applied. More specifically, the drop tester must be constructed and used as described in instructions found in Appendix 3 of these rules.
+    4. Use of a flat-broken foil blade to thrust against the material. To conduct this test, lay the material to be tested on firm ground or penetrable material (not hard packed dirt, concrete or similarly hard surfaces). Holding the broken blade in both hands, punch the material four times, increasing the force each time. After each punch, examine the material. For these tests, if the material in question has been completely penetrated, or penetrated in more than one layer, it fails. If only the top layer has been damaged, then it passes.
+2. BLADE FLEXIBILITY TESTING
 
-        The definition of “reasonably flexible” is dependent upon the length of the blade and the weapon class it is to be used in. To determine if a weapon meets the standard of being "reasonably flexible": Hold the weapon parallel to the ground, supporting the handle against a table or bench if necessary. Hang a 6 ounce weight (170 grams) -one inch (25mm) or less from the end of the tip. If the blade flexes as indicated in the following table then it is deemed “reasonably flexible” for that weapon class.
+The definition of “reasonably flexible” is dependent upon the length of the blade and the weapon class it is to be used in. To determine if a weapon meets the standard of being "reasonably flexible": Hold the weapon parallel to the ground, supporting the handle against a table or bench if necessary. Hang a 6 ounce weight (170 grams) -one inch (25mm) or less from the end of the tip. If the blade flexes as indicated in the following table then it is deemed “reasonably flexible” for that weapon class.
 
-        | Weapon Class | Blade Length | Minimum Deflection | Weight |
-        | ------------ | ------------ | ------------------ | ------ |
-        | Light Rapier, Heavy Rapier | \> 18” (45.72 cm) and \<= 48” (121.92 cm) | 1” (25 mm) | 6 oz (170 grams) |
-        | Light Rapier, Heavy Rapier | \<= 18” (45.72 cm) | 1/2" (12 mm) | 6 oz (170 grams) |
-        | Cut & Thrust | \<= 48” (121.92 cm) | 1/2" (12 mm) | 6 oz (170 grams) |
+| Weapon Class | Blade Length | Minimum Deflection | Weight |
+| ------------ | ------------ | ------------------ | ------ |
+| Light Rapier, Heavy Rapier | \> 18” (45.72 cm) and \<= 48” (121.92 cm) | 1” (25 mm) | 6 oz (170 grams) |
+| Light Rapier, Heavy Rapier | \<= 18” (45.72 cm) | 1/2" (12 mm) | 6 oz (170 grams) |
+| Cut & Thrust | \<= 48” (121.92 cm) | 1/2" (12 mm) | 6 oz (170 grams) |
 
 ### PROCEDURES FOR EXPERIMENTATION IN RAPIER COMBAT
 
