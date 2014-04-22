@@ -117,7 +117,9 @@ If a question arises when applying these standards, choose the answer that promo
  B. The use of any projectile weapon is forbidden within formal rapier Tournament lists (single
  combat), or in any situation where spectators cannot be separated from the potential line of
  fire by more than the effective range of the projectile weapons to be used.
- PROTECTIVE GEAR
+
+
+## PROTECTIVE GEAR
  1. TERMS
  A. Materials are listed in order of increasing resistance.
  B. Abrasion-resistant material: material that will withstand normal combat stresses (such as
@@ -221,7 +223,8 @@ If a question arises when applying these standards, choose the answer that promo
  iv.
  For cut and thrust rapier, elbows must be further protected by a minimum of an
  athletic pad or equivalent materials.
- MARSHALLING CONCERNS IN RAPIER COMBAT
+
+## MARSHALLING CONCERNS IN RAPIER COMBAT
  1. AUTHORIZATIONS: Competence in other SCA combat styles does not automatically mean
  competence in rapier. Separate warrants and authorizations in rapier combat are required.
  Each Kingdom can decide how they wish to control authorizations for each category of rapier
@@ -284,7 +287,7 @@ If a question arises when applying these standards, choose the answer that promo
  forbidden or inappropriate. Again: However, no matter how clear or accurate, rules cannot
  replace common sense, good judgment, and concern for the participants.
  
- APPENDIX
+## APPENDIX
  1. TESTING STANDARDS FOR SCA RAPIER COMBAT
  A. FABRIC TESTING FOR PROTECTIVE GEAR
  i.
