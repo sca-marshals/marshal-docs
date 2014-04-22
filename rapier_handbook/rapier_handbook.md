@@ -82,7 +82,7 @@ If a question arises when applying these standards, choose the answer that promo
     2. All blades are subject to the following:
         1. Blades must be made of steel
         2. Blades must be no longer than 48" as measured from the tip to the top of the tang (i.e. where the tang and forte meet)
-        3.  Blades must be reasonably flexible as defined in Appendix, section 1.B
+        3.  Blades must be reasonably flexible as defined in [Appendix - "Blade Flexibility Testing"](#blade-flexibility-testing).
         4.  Light rapier blades longer than 18” must be a foil blade, epee blade, or similar variant (such as a double-wide epee or musketeer blades) from an established commercial manufacturer. Light rapier blades 18” or shorter need only meet the requirements previously listed.
         5.  Blades with a cross-section similar to a foil or epee (ie., foils, epees, double-wide epees, musketeers and flexi-daggers) are not allowed in Heavy Rapier, nor Cut & Thrust combat.
         6.  Steel blades will not be altered by grinding, cutting, heating, hammering, or other actions that could significantly alter their temper, flexibility or durability. Normal combat stresses and blade care do not violate this rule. Exceptions are:
