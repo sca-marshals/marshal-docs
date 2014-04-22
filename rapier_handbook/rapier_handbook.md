@@ -6,6 +6,7 @@ This handbook is an official corporate publication of the Society for Creative A
 
 Members of the Society for Creative Anachronism, Inc. may photocopy this work in whole or in part for SCA use provided copyright credit is given and no changes are made to the text. The contents of this document will be posted at http://www.sca.org and further reproduction on other internet sites is expressly forbidden.
 
+
 ## INTRODUCTION
 These rules set fundamental standards for rapier combat in the SCA. 
 They are designed to allow use by the Kingdoms of the Society as basic rules, to which Kingdom-specific preferences (such as the weapons used) can be added. 
@@ -208,7 +209,6 @@ If a question arises when applying these standards, choose the answer that promo
 
     Clamp the fabric over the 3" flange, balance the guide tube over the center of the fabric, and drop the weighted drop probe down the middle of the guide tube, as shown in Figure 1, below. If the rod on the end of the falling drop probe punches through, the fabric fails, if it doesn't punch through the fabric passes.
  
-    ![Drop Tester](image-001.jpg) Figure 1 - Drop tester (pipe end sticking out of white guide tube) ready to use on some fabric clamped onto the 3" flange.
 
     These instructions describe how to build a drop tester for carrying out these tests. It won't take very long to build, and will not be very expensive, but does need one special part.
 
@@ -241,7 +241,6 @@ If a question arises when applying these standards, choose the answer that promo
         2. Drill a hole in the center of the 1" plastic cap with the 5/32" drill bit.
         3. Now put the drill collar on the gage pin with about half of the gage pin sticking out of one side, and apply epoxy. Before it dries, put more epoxy on the gage pin, and shove it into the hole in the cap, with the drill collar on the outside, curved side of the cap. The exact type of drill collar isn't important, it is just to provide some extra grip to keep the gage pin from breaking loose and sliding up into the drop probe with repeated impacts, since the PVC hole alone isn't a great glue surface.
         4. When you have it put together and the epoxy is still wet, put it on a flat surface and slide the gage pin down until it bottoms out where the plastic cap sits on the flat surface. It will look something like Figure 2, below, when done. Make sure the gage pin doesn't dry at an angle (it should be parallel to the iron pipe, keep checking visually as it dries). If the pin isn't sticking straight out of the cap, your drop tester will not work properly.  
-            Figure 2 - Plastic cap with gage pin and drill collar sticking out, all epoxied together (gray)
         5. After the epoxy dries, screw the cap on to one end of the pipe (make sure not to get epoxy on the threads, you may want to remove it later!).
         6. Weigh the drop probe assembly, using a good scale. It should be able to measure to half an ounce or 10 grams, a postal scale at the post office could work for example. If possible, try to use metric units - it will make calculations easier later on.
         7. The height from which the probe will be dropped is directly dependent on the weight of the probe. Since not all cast iron pipe will weight the exact same amount, and the length of the pipe may be off by a small portion, calculate the exact drop height for the probe being constructed. Use the formula below for a 1.5 Joule drop energy to calculate the drop height for your tester.
@@ -253,13 +252,9 @@ If a question arises when applying these standards, choose the answer that promo
             Plug the measured drop probe weight into one of the formulas and calculate the drop distance. It should be between 10 and 20 cm (4 and 8 inches), if not, you found a really unusual pipe stub and should not proceed further.
         8. Lay the probe next to the PVC tube from the first step, slide it "up" next to the PVC guide tube until you have that calculated drop distance from the bottom of the PVC tube to the gage pin sticking out of the drop probe, and mark the top end of the drop probe where it lies next to the top of the PVC guide tube (tape, etc.). That is the mark you will want to line up with the top of the PVC tube when you drop the probe. Some of the probe will stick out of the top end of the tube when you have it all together vertically and give you a place to grab it. (The reason metric units are easier is that it's easier to measure fractions of a centimeter than it is fractions of an inch.)
 
-            Figure 3 - Lay drop probe assembly (pipe and cap) next to PVC guide tube, and measure your calculated distance from the probe tip to the bottom of the PVC guide tube.
-
     3. The Clamps and Frame
 
         No modifications needed here, you just need the two hose clamps and the threaded flange, along with a screwdriver or nut driver to tighten the hose clamps. Do not substitute other parts for the flange with outside threads, as the grip on this surface has a big impact on fabric slippage, which has a big impact on whether the test passes or fails armor.
-
-        Figure 4 - Clamps and "frame" (3" flange) showing how these are assembled to carry out a fabric test.
 
         It is suggested that you get a nut driver (like a screw driver, but with a socket head) for tightening and loosening these hose clamps, it is much easier to use than a screw driver as well as being safer.
 
@@ -275,11 +270,6 @@ If a question arises when applying these standards, choose the answer that promo
 
     Now examine the fabric. If the pin punched through anything beyond the top layer of fabric, the material fails. If the pin did not punch through, recheck the top hose clamp with a gentle tug to be sure it is still tight. If there was slippage it will often get loose, so this is a good check to be sure the fabric didn't slip. If it's loose, you need to redo the test. If it's not loose, the fabric passes. Always be sure to check the tightness of the fabric after the drop.
     
-    Figure 5 - Parts needed for SCA Standard Drop Tester for fencing armor.
-    
-    Figure 6 - Fabric clamped onto flange with two hose clamps. Notice that the second one will protrude a bit above the level of the fabric with thicker fabrics, but it should still be tight if you push everything down enough.
-   
-    Figure 7 - Drop Tester just before making a test drop. Note that the guide tube is centered on the clamped fabric, and the drop probe is being used as a plumb bob to make the guide tube vertical.
 
 ### BLADE TYPES AND CONVENTIONS 
 
@@ -289,4 +279,13 @@ If a question arises when applying these standards, choose the answer that promo
 
     Section 6 of the appendix lists blades that are either explicitly permitted for or restricted from use in rapier combat. Blades on the “Restricted Blades” list may not be used in any Society rapier activities. Blades on the “Permitted Blades” list may be used as described within the list.  If a blade does not meet the criteria established in “Weapons and Parrying Devices”, section 2.B above, but a participant wishes to to use it in SCA rapier combat, that blade must be evaluated by the Deputy Society Rapier Marshal’s office. If the blade is found to be acceptable, it will be added to the list in Section 6 of the appendix.  The latest version of Section 6 is maintained on the SCA web pages under Society Marshal – Rapier (http://www.sca.org/officers/marshal/combat/rapier/index.html).
 
+
 ### Figures ####
+
+![Drop Tester 1](image-001.jpg) Figure 1 - Drop tester (pipe end sticking out of white guide tube) ready to use on some fabric clamped onto the 3" flange.
+![Drop Tester 2](image-002.jpg) Figure 2 - Plastic cap with gage pin and drill collar sticking out, all epoxied together (gray).
+![Drop Tester 3](image-003.jpg) Figure 3 - Lay drop probe assembly (pipe and cap) next to PVC guide tube, and measure your calculated distance from the probe tip to the bottom of the PVC guide tube.
+![Drop Tester 4](image-004.jpg) Figure 4 - Clamps and "frame" (3" flange) showing how these are assembled to carry out a fabric test.
+![Drop Tester 5](image-005.jpg) Figure 5 - Parts needed for SCA Standard Drop Tester for fencing armor.
+![Drop Tester 6](image-006.jpg) Figure 6 - Fabric clamped onto flange with two hose clamps. Notice that the second one will protrude a bit above the level of the fabric with thicker fabrics, but it should still be tight if you push everything down enough.
+![Drop Tester 7](image-007.jpg) Figure 7 - Drop Tester just before making a test drop. Note that the guide tube is centered on the clamped fabric, and the drop probe is being used as a plumb bob to make the guide tube vertical.
