@@ -247,41 +247,38 @@ If a question arises when applying these standards, choose the answer that promo
     * (optional) file, sandpaper, to smooth PVC
 
     Construction:
-    * Step 1: Make the Guide Tube
+    1. Make the Guide Tube
+        1. Cut the 2" nominal diameter PVC tube to 23.6" (60 cm) in length. Try to make the ends square (so when it is placed on a flat surface on either end, it stands up straight). A wood saw is fastest for this, a hack saw will work as well, or get it cut at the store you buy it at.
+        2. Drill three holes with the 5/32" drill bit near the bottom end of it for air release when the probe drops, the location doesn't matter as long as they are within a couple of inches of the bottom.
 
-    1. Cut the 2" nominal diameter PVC tube to 23.6" (60 cm) in length. Try to make the ends square (so when it is placed on a flat surface on either end, it stands up straight). A wood saw is fastest for this, a hack saw will work as well, or get it cut at the store you buy it at.
-    2. Drill three holes with the 5/32" drill bit near the bottom end of it for air release when the probe drops, the location doesn't matter as long as they are within a couple of inches of the bottom.
-
-    Step 2: Make the Drop probe
-
-    1. First get a gage pin, at the supplier above. Do not modify the end, these pins are used because they are consistently manufactured. Make sure that the pin is clean of any oil or other chemicals that would keep the glue from sticking properly.
-    2. Drill a hole in the center of the 1" plastic cap with the 5/32" drill bit.
-    3. Now put the drill collar on the gage pin with about half of the gage pin sticking out of one side, and apply epoxy. Before it dries, put more epoxy on the gage pin, and shove it into the hole in the cap, with the drill collar on the outside, curved side of the cap. The exact type of drill collar isn't important, it is just to provide some extra grip to keep the gage pin from breaking loose and sliding up into the drop probe with repeated impacts, since the PVC hole alone isn't a great glue surface.
-    4. When you have it put together and the epoxy is still wet, put it on a flat surface and slide the gage pin down until it bottoms out where the plastic cap sits on the flat surface. It will look something like Figure 2, below, when done. Make sure the gage pin doesn't dry at an angle (it should be parallel to the iron pipe, keep checking visually as it dries). If the pin isn't sticking straight out of the cap, your drop tester will not work properly.  
+    2. Make the Drop probe
+        1. First get a gage pin, at the supplier above. Do not modify the end, these pins are used because they are consistently manufactured. Make sure that the pin is clean of any oil or other chemicals that would keep the glue from sticking properly.
+        2. Drill a hole in the center of the 1" plastic cap with the 5/32" drill bit.
+        3. Now put the drill collar on the gage pin with about half of the gage pin sticking out of one side, and apply epoxy. Before it dries, put more epoxy on the gage pin, and shove it into the hole in the cap, with the drill collar on the outside, curved side of the cap. The exact type of drill collar isn't important, it is just to provide some extra grip to keep the gage pin from breaking loose and sliding up into the drop probe with repeated impacts, since the PVC hole alone isn't a great glue surface.
+        4. When you have it put together and the epoxy is still wet, put it on a flat surface and slide the gage pin down until it bottoms out where the plastic cap sits on the flat surface. It will look something like Figure 2, below, when done. Make sure the gage pin doesn't dry at an angle (it should be parallel to the iron pipe, keep checking visually as it dries). If the pin isn't sticking straight out of the cap, your drop tester will not work properly.  
     
         Figure 2 - Plastic cap with gage pin and drill collar sticking out, all epoxied together (gray)
 
-    5. After the epoxy dries, screw the cap on to one end of the pipe (make sure not to get epoxy on the threads, you may want to remove it later!).
-    6. Weigh the drop probe assembly, using a good scale. It should be able to measure to half an ounce or 10 grams, a postal scale at the post office could work for example. If possible, try to use metric units - it will make calculations easier later on.
-    7. The height from which the probe will be dropped is directly dependent on the weight of the probe. Since not all cast iron pipe will weight the exact same amount, and the length of the pipe may be off by a small portion, calculate the exact drop height for the probe being constructed. Use the formula below for a 1.5 Joule drop energy to calculate the drop height for your tester.
+        5. After the epoxy dries, screw the cap on to one end of the pipe (make sure not to get epoxy on the threads, you may want to remove it later!).
+        6. Weigh the drop probe assembly, using a good scale. It should be able to measure to half an ounce or 10 grams, a postal scale at the post office could work for example. If possible, try to use metric units - it will make calculations easier later on.
+        7. The height from which the probe will be dropped is directly dependent on the weight of the probe. Since not all cast iron pipe will weight the exact same amount, and the length of the pipe may be off by a small portion, calculate the exact drop height for the probe being constructed. Use the formula below for a 1.5 Joule drop energy to calculate the drop height for your tester.
+    
+            In Metric units
+            15306 / (the probe weight in grams) = drop distance (in cm)
+             or, in American units,
+            212.6 / (the probe weight in ounces) = drop distance (in inches)
+    
+            Plug the measured drop probe weight into one of the formulas and calculate the drop distance. It should be between 10 and 20 cm (4 and 8 inches), if not, you found a really unusual pipe stub and should not proceed further.
+        8. Lay the probe next to the PVC tube from the first step, slide it "up" next to the PVC guide tube until you have that calculated drop distance from the bottom of the PVC tube to the gage pin sticking out of the drop probe, and mark the top end of the drop probe where it lies next to the top of the PVC guide tube (tape, etc.). That is the mark you will want to line up with the top of the PVC tube when you drop the probe. Some of the probe will stick out of the top end of the tube when you have it all together vertically and give you a place to grab it. (The reason metric units are easier is that it's easier to measure fractions of a centimeter than it is fractions of an inch.)
 
-        In Metric units
-        15306 / (the probe weight in grams) = drop distance (in cm)
-         or, in American units,
-        212.6 / (the probe weight in ounces) = drop distance (in inches)
+            Figure 3 - Lay drop probe assembly (pipe and cap) next to PVC guide tube, and measure your calculated distance from the probe tip to the bottom of the PVC guide tube.
 
-        Plug the measured drop probe weight into one of the formulas and calculate the drop distance. It should be between 10 and 20 cm (4 and 8 inches), if not, you found a really unusual pipe stub and should not proceed further.
-    8. Lay the probe next to the PVC tube from the first step, slide it "up" next to the PVC guide tube until you have that calculated drop distance from the bottom of the PVC tube to the gage pin sticking out of the drop probe, and mark the top end of the drop probe where it lies next to the top of the PVC guide tube (tape, etc.). That is the mark you will want to line up with the top of the PVC tube when you drop the probe. Some of the probe will stick out of the top end of the tube when you have it all together vertically and give you a place to grab it. (The reason metric units are easier is that it's easier to measure fractions of a centimeter than it is fractions of an inch.)
-
-        Figure 3 - Lay drop probe assembly (pipe and cap) next to PVC guide tube, and measure your calculated distance from the probe tip to the bottom of the PVC guide tube.
-
-
-    Step 3: The Clamps and Frame
-    No modifications needed here, you just need the two hose clamps and the threaded flange, along with a screwdriver or nut driver to tighten the hose clamps. Do not substitute other parts for the flange with outside threads, as the grip on this surface has a big impact on fabric slippage, which has a big impact on whether the test passes or fails armor.
+    3. The Clamps and Frame
+        No modifications needed here, you just need the two hose clamps and the threaded flange, along with a screwdriver or nut driver to tighten the hose clamps. Do not substitute other parts for the flange with outside threads, as the grip on this surface has a big impact on fabric slippage, which has a big impact on whether the test passes or fails armor.
 
         Figure 4 - Clamps and "frame" (3" flange) showing how these are assembled to carry out a fabric test.
 
-    It is suggested that you get a nut driver (like a screw driver, but with a socket head) for tightening and loosening these hose clamps, it is much easier to use than a screw driver as well as being safer.
+        It is suggested that you get a nut driver (like a screw driver, but with a socket head) for tightening and loosening these hose clamps, it is much easier to use than a screw driver as well as being safer.
 
 4. PROCEDURES FOR USE OF A DROP TESTER
     The basic idea behind this test is to drop a known weight a known distance to give a known impact, giving a pass/fail verdict to "unknown" fencing armor. This document will tell you how to use the tester to test armor. See Appendix 3/Building a Drop tester for how to choose and build these items. You should have all six pieces shown in Figure 5, below, including a guide tube, drop probe (unique to your tester), 3" threaded PVC flange, two hose clamps and a screw driver or nut clamp to tighten the hose clamps.  You should only use your probe with the guide tube it was designed for. Interchanging these items between testers may produce inaccurate results.
