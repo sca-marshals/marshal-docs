@@ -99,8 +99,7 @@ Rapier Marshal’s Handbook
 
 * * * * *
 
- INTRODUCTION
- ------------
+# INTRODUCTION
  These rules set fundamental standards for rapier combat in the SCA. They are designed to allow
  use by the Kingdoms of the Society as basic rules, to which Kingdom-specific preferences (such
  as the weapons used) can be added. In keeping with Corpora, Kingdoms retain the right to add
@@ -111,9 +110,8 @@ Rapier Marshal’s Handbook
  participants. If a question arises when applying these standards, choose the answer that
  promotes the greatest degree of safety for all participants.
 
- CONVENTIONS
- ===========
- 1. GENERAL INFORMATION
+## CONVENTIONS
+### GENERAL INFORMATION
  A. Rapier Combat shall be conducted in accordance with the Rules of the Lists of the SCA,
  Inc., these rules, and such further rules as are established by the Kingdoms.
  B. All combatants, prior to every combat or practice, shall ensure their equipment is safe, in
