@@ -74,15 +74,15 @@ If a question arises when applying these standards, choose the answer that promo
 * cut and thrust rapier
 Except where noted, all rules apply to all three forms of rapier combat. One of the major differences in the three forms is the allowable blades, which are specified later in this document.
 ### BEHAVIOR ON THE FIELD
-#### All fighters shall obey the commands of the marshals overseeing the field, or be removed from the field and subject to further disciplinary action.
-#### Disagreements with the marshals overseeing the field shall be resolved through the established mechanisms outlined in the Marshallate Procedures of the SCA, Inc.
-#### Each fighter shall maintain control over his or her temper and behavior at all times.
-#### Striking an opponent with excessive force, or with deliberate intent to injure, is forbidden.
-#### Upon hearing the call of "HOLD" all fighting shall immediately stop. The fighters shall freeze, check for hazards in their immediate vicinity, and then assume a non-threatening position with their weapons pointed away from their opponents.
-#### Conduct obstructive of normal rapier combat, such as consistent ignoring of blows, deliberate misuse of the rules (such as calling HOLD whenever pressed), or the like, is forbidden.
+1. All fighters shall obey the commands of the marshals overseeing the field, or be removed from the field and subject to further disciplinary action.
+2. Disagreements with the marshals overseeing the field shall be resolved through the established mechanisms outlined in the Marshallate Procedures of the SCA, Inc.
+3. Each fighter shall maintain control over his or her temper and behavior at all times.
+4. Striking an opponent with excessive force, or with deliberate intent to injure, is forbidden.
+5. Upon hearing the call of "HOLD" all fighting shall immediately stop. The fighters shall freeze, check for hazards in their immediate vicinity, and then assume a non-threatening position with their weapons pointed away from their opponents.
+6. Conduct obstructive of normal rapier combat, such as consistent ignoring of blows, deliberate misuse of the rules (such as calling HOLD whenever pressed), or the like, is forbidden.
 
 
-3. USE OF WEAPONS AND PARRYING DEVICES
+### USE OF WEAPONS AND PARRYING DEVICES
  A. Valid blows are struck by: thrusting with the point of the blade (thrust) or sliding the edge of
  the blade by drawing (draw cut).
  i.
