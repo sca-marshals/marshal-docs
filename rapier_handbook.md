@@ -71,11 +71,11 @@ If a question arises when applying these standards, choose the answer that promo
 4. Unless otherwise directed by Kingdom Law, the Crown's representative upon the field and in all matters dealing with Rapier Combat is the Earl Marshal, then the Kingdom Rapier Marshal, then, by delegation, members of the Kingdom Rapier Marshallate.
 5. There are three categories of rapier combat, each requiring separate authorization. Each Kingdom can decide which categories of rapier combat they will permit in their rules. These categories are:
 
-* light rapier
-* heavy rapier
-* cut and thrust rapier
+    * light rapier
+    * heavy rapier
+    * cut and thrust rapier
 
-Except where noted, all rules apply to all three forms of rapier combat. One of the major differences in the three forms is the allowable blades, which are specified later in this document.
+    Except where noted, all rules apply to all three forms of rapier combat. One of the major differences in the three forms is the allowable blades, which are specified later in this document.
 
 ### BEHAVIOR ON THE FIELD
 1. All fighters shall obey the commands of the marshals overseeing the field, or be removed from the field and subject to further disciplinary action.
