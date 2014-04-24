@@ -267,7 +267,7 @@ Weapons which may be used with one or two hands shall have the following require
     1.  When thrusting tips are used on rattan weapons with greater length than 7.5 feet (2.286 m), they shall be no less than 2 inches (50.8 mm) in diameter/cross-section and have 2 inches (50.8 mm) of resilient material in front of the rigid tip of the weapon, thereby providing progressively resistant give.
     2.  When thrusting tips are used on rattan weapons with length less than or equal to 7.5 feet, they shall be at least the same diameter as the shaft of the weapon they are mounted on and have 1.5 inches (38.1 mm) of resilient material in front of the rigid tip of the weapon, thereby providing progressively resistant give.
 
-    (Note: Pressing with the thumb into the center of the thrusting tip is not an adequate test. The give must be across the entire face of the tip.)
+        (Note: Pressing with the thumb into the center of the thrusting tip is not an adequate test. The give must be across the entire face of the tip.)
 6.  Weapons exceeding 7.5 feet (2.286 m) shall not be used for cutting or smashing and shall be used for thrusting only.
 7.  Total weapon length shall not exceed 12 feet (3.658 m).
 
