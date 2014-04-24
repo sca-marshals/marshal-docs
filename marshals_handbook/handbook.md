@@ -51,9 +51,9 @@ Minors (ages 14–17) may authorize with these additional requirements:
 6.  Minors engaging in combat with adults shall be marked in the following manner: A single yellow diamond no larger than 1inch (25.4 mm) but no smaller than 0.5 inch (12.7 mm) to be placed on the front hemisphere of the helm (preferably on or near the inspection sticker). Minors competing with adults in Rapier will have the same diamond on the cuff of the glove of their dominant weapon hand. 
 
 ## RULES OF THE LISTS
-A.  The Rules of the Lists
-The basic rules for SCA combat are contained in the Rules of the Lists. These rules cover all combat within the SCA including but not limited to tournaments, non-tourney martial field activities such as wars, combat archery, and Society period fencing. The observance of honor and chivalry and the safety of the combatants are the overriding goals of these rules. The following is intended to bring together the appropriate rules for conducting SCA combat activities.
-The Rules of the Lists are reprinted here from section IX.B. of the Corpora of the SCA:
+### The Rules of the Lists
+The basic rules for SCA combat are contained in the Rules of the Lists. These rules cover all combat within the SCA including but not limited to tournaments, non-tourney martial field activities such as wars, combat archery, and Society period fencing. The observance of honor and chivalry and the safety of the combatants are the overriding goals of these rules. The following is intended to bring together the appropriate rules for conducting SCA combat activities.  The Rules of the Lists are reprinted here from section IX.B. of the Corpora of the SCA:
+
 1.  Each fighter, recognizing the possibilities of physical injury to themselves in such combat, shall assume unto themselves all risk and liability for harm suffered by means of such combat. No fighter shall engage in combat unless and until they have inspected the field of combat and satisfied themselves that it is suitable for combat. Other participants shall likewise recognize the risks involved in their presence on or near the field of combat and shall assume unto themselves the liabilities thereof.
 2.  No person shall participate in Official Combat-Related Activities (including armored combat, period fencing, and combat archery) outside of formal training sessions unless they have been properly authorized under Society and Kingdom procedures.
 3.  All combatants must be presented to, and be acceptable to, the Sovereign or his or her representative.
@@ -63,7 +63,8 @@ The Rules of the Lists are reprinted here from section IX.B. of the Corpora of t
 7.  No one may be required to participate in Combat-Related Activities. Any combatant may, without dishonor or penalty, reject any challenge without specifying a reason. A fight in a tournament list is not to be considered a challenge and therefore may be declined and forfeit the bout.
 8.  Fighting with real weapons, whether fast or slow, is strictly forbidden at any Society event. This rule does not consider approved weaponry which meets the Society and Kingdom standards for traditional Society combat and/or Society period rapier combat, used in the context of mutual sport, to be real weaponry. 
 9.  No projectile weapons shall be allowed within the Lists of a tournament, nor shall any weapons be thrown. The use of approved projectile weapons for melee, war, or combat archery shall conform to the appropriate Society and Kingdom Conventions of Combat.
-B.  Applications of the Rules of the Lists
+
+### Applications of the Rules of the Lists
 1.  Application of Rule 1: “Other participants” include marshals and support personnel whose activities bring them close to fighting in a situation where boundaries are not clearly defined. Heralds, list pages, and similar officers who leave the field entirely before combat begins are exempt from this requirement, as are water-bearers and chirurgeons who remain in fixed support points outside the tournament field or battle area. Water-bearers and chirurgeons who take part in mobile support groups within the overall boundaries of a battle area must receive a basic orientation in field safety.
 2.  Application of Rule 2: The Crown and/or marshallate of each kingdom shall establish standards and procedures for the authorization of fighters to participate in combat. These procedures shall adhere to the combat authorization procedures in this handbook. At kingdom option, these procedures may involve either a general authorization to participate in armored combat or a set of separate authorization procedures for the use of (or for combat AGAINST) specific weapons or classes of weapons.
 The Crown and/or marshallate of each kingdom shall establish standards and procedures for the authorization of combat archers and missile users to participate in combat. Kingdoms may establish such additional limitations on the participation of minors as may be deemed necessary. It is usual for authorizations from other kingdoms to be accepted, although exceptions may prove necessary in the case of specific individuals.
@@ -73,9 +74,12 @@ The Crown may not simply grant an authorization, unless the recipient has succes
 5.  Application of Rule 6: Engaging in any Society combat activity with the deliberate intent to inflict bodily harm to an opponent is strictly forbidden.
 6.  Application of Rule 7: No one is required to engage in SCA combat should he or she prefer not to do so.
 7.  Application of Rule 8: Since fighting with real weapons is forbidden at any Society event, threatening the use of such weapons is likewise expressly forbidden.
+
 At the discretion of the sovereign and the MIC, recognized experts may be permitted to present choreographed demonstrations with real weapons under strictly controlled conditions.
+
 No one may wear any real weapon onto the field while participating in combat or present during combat. At the discretion of the sovereign and the MIC, an exception may be made for marshals or other noncombatants to wear knives bonded with peace straps.
 Posing for still photographs with real weapons is permitted.
+
 8.  Application of Rule 9: The prohibition on thrown weapons refers to weapons thrown in combat or thrown in a hostile manner. It does not apply to “tossing,” defined as a gentle, short-range method of transferring or removing a tournament weapon or item from the list field or area of combat. The use of bows and arrows, firearms, slings, javelins, throwing axes, throwing knives, or any other projectile weapon is forbidden within tournament lists, or in any other situation where spectators cannot be separated from the potential line of fire by more than the effective range of the weapon.
 
 ## CONVENTIONS OF COMBAT
