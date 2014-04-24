@@ -83,16 +83,17 @@ Posing for still photographs with real weapons is permitted.
 8.  Application of Rule 9: The prohibition on thrown weapons refers to weapons thrown in combat or thrown in a hostile manner. It does not apply to “tossing,” defined as a gentle, short-range method of transferring or removing a tournament weapon or item from the list field or area of combat. The use of bows and arrows, firearms, slings, javelins, throwing axes, throwing knives, or any other projectile weapon is forbidden within tournament lists, or in any other situation where spectators cannot be separated from the potential line of fire by more than the effective range of the weapon.
 
 ## CONVENTIONS OF COMBAT
-A.  General Information 
+### General Information 
 1.  All traditional SCA armored combat at SCA tourneys, wars, and other events shall be conducted in accordance with the Rules of the Lists of the SCA, Inc., these Conventions of Combat, and such weapon and equipment standards and event rules as are established by the marshallate of the SCA, Inc., and individual kingdom marshallates.
 2.  All kingdoms shall have as their minimum armor and weapons standards those criteria established by the Society minimum armor and weapons standards. Each kingdom may require additional, more extensive, and/or stricter standards.
-a.  All fighters, prior to combat at each and every SCA-sponsored event or fighting practice, shall ensure that their armor and weapons are inspected by a warranted member of the kingdom marshallate.
-b.  Even though a warranted member of the kingdom marshallate has inspected the armor and weapons used by a fighter, each fighter shall accept full responsibility for the condition of his or her own equipment. Each fighter has the obligation to his- or herself, the marshals, and all opponents, to see that his or her equipment meets all Society and kingdom requirements.
-c.  Combat archery ammunition each must be inspected individually before every use.
-i.  Siloflex-equivalent and tennis ball ammunition may be inspected by the archer and used again immediately.
-ii. Fiberglass-shafted ammunition must be taken off the field and reinspected under the supervision of a combat archery marshal before being used again.
+    1.  All fighters, prior to combat at each and every SCA-sponsored event or fighting practice, shall ensure that their armor and weapons are inspected by a warranted member of the kingdom marshallate.
+    2.  Even though a warranted member of the kingdom marshallate has inspected the armor and weapons used by a fighter, each fighter shall accept full responsibility for the condition of his or her own equipment. Each fighter has the obligation to his- or herself, the marshals, and all opponents, to see that his or her equipment meets all Society and kingdom requirements.
+    3.  Combat archery ammunition each must be inspected individually before every use.
+        1.  Siloflex-equivalent and tennis ball ammunition may be inspected by the archer and used again immediately.
+        2. Fiberglass-shafted ammunition must be taken off the field and reinspected under the supervision of a combat archery marshal before being used again.
 3.  When not otherwise directed by the sovereign, the sovereign’s representative upon the field and in all matters dealing with Society combat is the Earl Marshal, and, by delegation, warranted members of the kingdom marshallate.
-B.  Behavior on the Field
+
+### Behavior on the Field
 1.  Striking an opponent with excessive force is forbidden.
 2.  All fighters shall obey the commands of the marshals on the field or shall be removed from the field and subject to disciplinary action. Disagreements with the marshals on the field shall be resolved through the established mechanisms outlined in the Procedures for Grievances and Sanctions of the Marshallate Procedures of the SCA, Inc.
 3.  Each fighter shall maintain control over his or her temper at all times.
@@ -105,7 +106,8 @@ B.  Behavior on the Field
 10. Deliberately striking an opponent’s head, limbs, or body with a shield, weapon haft, or any part of the body is forbidden.
 11. Grasping an opponent’s person, shield, weapon’s striking surface, or bow/crossbow is prohibited. 
 12. Intentionally striking an opponent outside the legal target areas is forbidden.
-C.  Target Areas 
+
+### Target Areas 
 1.  Torso: All of the body above the points of the hips, excluding the head and arms and including the groin, shoulder blades, and the area between the neck and shoulders.
 2.  Face: the area between the chin and the middle of the forehead and between the ear openings.
 3.  Head: The whole head and neck except the face as defined above.
@@ -114,7 +116,8 @@ C.  Target Areas
 6.  Shoulder: From the point of the shoulder down to a line even with the top of the underarm.
 7.  Arms: From the shoulder to one inch [25.4mm} above the wrist.
 8.  Blows that land outside the legal target areas shall not be counted, unless an illegal target area has been intentionally placed in the path of an impending blow.
-D. Combat Archery Conventions
+
+### Combat Archery Conventions
 1.  Upon a hold being called, all archers must unload their weapons (crossbows may remain cocked).
 2.  Archers may have a backup weapon on them, but may not draw it until their bow has been safely disposed of (taken off the field, discarded in a low traffic area, handed to another combatant, etc). Upon drawing a backup weapon to enter combat, hands must be appropriately armored.
 3.  Archers may carry and use thrown weapons without need to discard their bow or change hand armor.
@@ -123,17 +126,18 @@ D. Combat Archery Conventions
 6.  Ammunition dropped onto the ground is considered dead as if it had been fired, and needs re-inspection.
 7.  Live combatants may pick ammunition off the field for re-inspection (as long as re-inspection is allowed during the scenario) and reuse it during the same battle. Dead combatants may clear ammunition from the field for use in future battles if scenario rules allow.
 8.  Within scenario limits, ammunition may be taken from caches stored on or off the field and from other combatants (dead or alive) with permission of the owner.
-IV. THE USE OF WEAPONS AND SHIELDS
-A.  Weapons shall be used in accordance with their design. For example, spears may only be used for thrusting, axes for striking along the edge of the blade, etc.
-1.  Only weapons approved for thrusting may be used for that purpose. Feinting as if to thrust with a weapon not approved for that purpose is prohibited. Before any bout where a thrusting weapon is used, the opponent and marshals shall be informed that such a weapon is on the field, and the thrusting tip shall be shown to the opponent.
-2.  The blade of an opponent’s weapon may not be grasped at any time, nor may it be trapped in contact with the fighter’s body as a means of preventing the opponent’s use of the weapon. Armored hands may grasp the haft of an opponent’s weapon.
-B.  The striking surface of a weapon in motion may not be grasped or blocked by the hands or limbs as a means of impeding a blow.
-1.  If a combatant intentionally places an illegal target area (e.g., an empty hand and or lower leg, including the knee and foot) in the path of a blow, the combatant forfeits that attached limb as if it had been struck in a legal target area.
-2.  Inadvertently bringing the hands in contact with the striking surface of a weapon in motion, as when attempting to block a blow with another weapon, shall not be considered to be in violation of this convention.
-C.  Blows repeatedly blocked by a weapon in contact with a fighter’s helm, body, or shield at the moment of impact may, at the sovereign’s or marshal’s discretion, be considered to have broken the blocking weapon. This will force a fighter to forfeit the fight, unless a secondary weapon is carried or the opponent chooses to allow the fighter to rearm with another weapon.
-D.  A shield or weapon may be used to displace, deflect, or immobilize an opponent’s shield or weapon, so long as such use does not endanger the safety of the combatants. A shield or haft may be safely placed against the opponent’s body to restrict his ability to strike or defend.
-E.  Shields must be controlled by the hand; use of passive shields (not controlled by the hand) will be treated as decorative armor and subject to effective blow acknowledgment.
-F.  A combat archer may carry and use shield or pavise; however, as long as they are carrying it, they cannot span nor fire their weapon.
+
+## THE USE OF WEAPONS AND SHIELDS
+1. Weapons shall be used in accordance with their design. For example, spears may only be used for thrusting, axes for striking along the edge of the blade, etc.
+    1.  Only weapons approved for thrusting may be used for that purpose. Feinting as if to thrust with a weapon not approved for that purpose is prohibited. Before any bout where a thrusting weapon is used, the opponent and marshals shall be informed that such a weapon is on the field, and the thrusting tip shall be shown to the opponent.
+    2.  The blade of an opponent’s weapon may not be grasped at any time, nor may it be trapped in contact with the fighter’s body as a means of preventing the opponent’s use of the weapon. Armored hands may grasp the haft of an opponent’s weapon.
+2.  The striking surface of a weapon in motion may not be grasped or blocked by the hands or limbs as a means of impeding a blow.
+    1.  If a combatant intentionally places an illegal target area (e.g., an empty hand and or lower leg, including the knee and foot) in the path of a blow, the combatant forfeits that attached limb as if it had been struck in a legal target area.
+    2.  Inadvertently bringing the hands in contact with the striking surface of a weapon in motion, as when attempting to block a blow with another weapon, shall not be considered to be in violation of this convention.
+3.  Blows repeatedly blocked by a weapon in contact with a fighter’s helm, body, or shield at the moment of impact may, at the sovereign’s or marshal’s discretion, be considered to have broken the blocking weapon. This will force a fighter to forfeit the fight, unless a secondary weapon is carried or the opponent chooses to allow the fighter to rearm with another weapon.
+4.  A shield or weapon may be used to displace, deflect, or immobilize an opponent’s shield or weapon, so long as such use does not endanger the safety of the combatants. A shield or haft may be safely placed against the opponent’s body to restrict his ability to strike or defend.
+5.  Shields must be controlled by the hand; use of passive shields (not controlled by the hand) will be treated as decorative armor and subject to effective blow acknowledgment.
+6.  A combat archer may carry and use shield or pavise; however, as long as they are carrying it, they cannot span nor fire their weapon.
 
 ## ACKNOWLEDGMENT OF BLOWS
 A.  Judging the effects of blows is left to the honor of the combatant being struck by the weapon, unless he or she relinquishes this responsibility, with the exception of clear violations of the Rules of the Lists or the Conventions of Combat. Effectiveness of a blow may not be judged by the opposing combatant, the marshal on the field, or other observers. Information unavailable to the combatant being struck may be supplied by the opposing combatant or the marshal, including blade orientation upon impact, apparent force transmitted, or apparent location and angle of the blow’s impact based upon the observer’s angle of observation.
