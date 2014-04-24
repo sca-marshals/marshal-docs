@@ -418,23 +418,23 @@ e.  The candidate must demonstrate the ability to safely control SCA combat, whe
 7.  All warranted or rostered marshals shall be members of the Society for Creative Anachronism Inc.
 
 ## PROCEDURES FOR MARSHALING WARS
-A.  Before the War
+## Before the War
 1.  The general rules under which the war will be conducted, compromises between conflicting kingdoms’ standards, and the scenario limits for each planned battle shall be negotiated and agreed to in writing in advance by the authorized representatives of all belligerent groups involved. The rules and scenario limits shall be published in the appropriate newsletters. For inter-kingdom wars, notices shall be published according to SCA publication policy by the groups involved. This publication should take place at least thirty (30) days prior to the event. In addition, copies of all of the rules and agreements shall be available on-site, as a handout, for people who do not receive (or did not read) the newsletters. Armor and weapons standards shall default to the established Society minimum standards unless otherwise specified in the event rules and scenario limits.
 2.  Each side in a battle shall provide a reasonable number of trained and experienced marshals. If not enough marshals are available, the sides should arrange for a draft from their armies.
 3.  All marshals should be separately briefed prior to the meetings of all participants. (They should also attend the group briefing.) Emphasis at this briefing should be on enforcing the rules and scenario limits for each battle and on preventing accidents that could arise from hazards related to the scenario limits and to the actual terrain. There should be an understanding among the marshals regarding the rules and scenario specifics and any possible safety issues that may arise. At inter-kingdom events the differences between the attending kingdoms should be discussed and compromises and clarity in the rules and scenarios regarding those differences should be worked out.
 4.  All participants shall be gathered to hear the rules and the scenario limits explained to them. The event stewards and/or the marshals should answer their questions. If the scenario limits vary radically from battle to battle, this procedure should be repeated before each battle.
 5.  Equipment inspection must take place before combat starts, with particular emphasis on any modifications that have been made in the process of making compromises between conflicting kingdom standards.
-B.  Marshal of a War
+## Marshal of a War
 1.  A supervising marshal (marshal in charge) shall be chosen for each war (and possibly for each battle, if the MIC for the war is fighting in the battles or otherwise prevented from being present).
-a.  The marshal-in-charge shall be responsible for the activities of the marshals in his charge.
-b.  If possible, the marshal-in-charge should not be a member of one of the groups on the field.
-c.  The marshal-in-charge for a particular battle may not participate in the battle as a combatant.
+    1.  The marshal-in-charge shall be responsible for the activities of the marshals in his charge.
+    2.  If possible, the marshal-in-charge should not be a member of one of the groups on the field.
+    3.  The marshal-in-charge for a particular battle may not participate in the battle as a combatant.
 2.  When “Hold!” is called, all fighting shall cease. 
-a.  Fighters shall drop to one knee (if possible) where they stand.
-b.  Conversations relating to the conduct of the battle are not permitted between combatants.
-c.  Changes of position/location are not permitted, unless ordered by a marshal.
-d.  If movement away from a boundary of a hazard is necessary, the fighters shall maintain their relative positions and distances.
-e.  To end a hold, the marshal-in-charge will call “All rise!” (or “Rise if you’re able” or some other equivalent statement). When the combatants have resumed their guard, the marshal-in-charge will call “Lay on!” to signal the resumption of the fight.
+    1.  Fighters shall drop to one knee (if possible) where they stand.
+    2.  Conversations relating to the conduct of the battle are not permitted between combatants.
+    3.  Changes of position/location are not permitted, unless ordered by a marshal.
+    4.  If movement away from a boundary of a hazard is necessary, the fighters shall maintain their relative positions and distances.
+    5.  To end a hold, the marshal-in-charge will call “All rise!” (or “Rise if you’re able” or some other equivalent statement). When the combatants have resumed their guard, the marshal-in-charge will call “Lay on!” to signal the resumption of the fight.
 3.  “Hold!” will normally be called only for broken armor, lost tempers, injuries, safety concerns, outsiders wandering onto the field, fighters about to wander off it, or to enforce the rules and scenario limits.
 4.  “Hold!” should not be called for dropped weapons, fighters who have slipped and fallen (unless they are in danger of injury), or the near approach of a fighter to a boundary where there are neither spectators nor any natural hazards, such as cliffs.
 5.  Marshals have the preemptory authority to remove from combat and from the field any combatant who violates the rules or scenario limits or who performs any unsafe or dishonorable act. Such removal may be discussed during the battle only if the marshal permits it. The marshals’ ruling may be appealed to the Marshal in Charge.
