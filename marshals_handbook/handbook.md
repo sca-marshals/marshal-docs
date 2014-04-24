@@ -159,9 +159,10 @@ Posing for still photographs with real weapons is permitted.
 
 ## ARMOR REQUIREMENTS
 1. Armored Participants
-All participants on the field during adult armored combat shall meet the Society minimum armor standards for a fully armored combatant. This includes, but is not limited to, combat archers, siege engineers and other combatants.
 
-It does not include marshals, water-bearers, or chirurgeons. All authorized combatants and warranted marshals shall disguise, cover, or remove modern corporate logos and sport gear unless the gear is necessary for medical reasons. Special attention should be paid to appearance and the atmosphere of a medieval event should be maintained.
+    All participants on the field during adult armored combat shall meet the Society minimum armor standards for a fully armored combatant. This includes, but is not limited to, combat archers, siege engineers and other combatants.
+
+    It does not include marshals, water-bearers, or chirurgeons. All authorized combatants and warranted marshals shall disguise, cover, or remove modern corporate logos and sport gear unless the gear is necessary for medical reasons. Special attention should be paid to appearance and the atmosphere of a medieval event should be maintained.
 
 2.  Helms 
     1.  Helms shall be constructed from steel which has a thickness of no less than .0625 (that is, 1/16) inch (1.6 mm), or of equivalent material. Alternative materials, such as stainless steel, brass, bronze, or like materials, are permissible as long as the material is structurally equivalent to 0.0625-inch-thick steel. The mass of the helm is an important part of the protection. As such, no titanium, fiberglass, aluminum, or other ultra-light materials may be used unless they meet the equivalent mass, strength, and weight of steel which has a thickness of no less than .0625 (that is, 1/16) inch (1.6 mm). Proof of construction technique, materials, and equivalency must be provided to the kingdom earl marshal (KEM) for an approval for in-kingdom use. If a spun-metal top is to be used in the construction of the helm, it shall be a minimum of 0.0 75 inch (14-gauge or 1.905 mm) steel. The process of spinning the top thins the metal, thereby requiring a heavier gauge.
