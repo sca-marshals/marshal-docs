@@ -443,46 +443,50 @@ e.  The candidate must demonstrate the ability to safely control SCA combat, whe
 7.  Those marshals who are responsible for marshaling wars or large melees may use alternative means to signal “Hold” or “Lay on,” as long as all fighters and marshals know and understand the alternative signaling system. Marshals may use whistles, air horns, or other such devices.
 
 ## MARSHALING REQUIREMENTS
-A.  When combat archery is present on the field all marshals, heralds, etc. on the field must wear protective shatterproof eyewear, such as safety glasses meeting the ANSI Z 87.1 standard or better.
-B.  A buffer zone needs to be provided between the edges of the battlefield and spectators at all times. This needs to be increased when combat archery is included. The marshal-in-charge must ensure that it is a safe distance (it should not be possible to hit a spectator, either with direct fire or with a bounced arrow), taking into account the type of scenario, to minimize the chances of deflected shots traveling into the spectators. Physical barriers may eliminate the need for a buffer zone or lessen the distance needed.
+1.  When combat archery is present on the field all marshals, heralds, etc. on the field must wear protective shatterproof eyewear, such as safety glasses meeting the ANSI Z 87.1 standard or better.
+2.  A buffer zone needs to be provided between the edges of the battlefield and spectators at all times. This needs to be increased when combat archery is included. The marshal-in-charge must ensure that it is a safe distance (it should not be possible to hit a spectator, either with direct fire or with a bounced arrow), taking into account the type of scenario, to minimize the chances of deflected shots traveling into the spectators. Physical barriers may eliminate the need for a buffer zone or lessen the distance needed.
 
 ## COMBAT INJURY PROCEDURES
-A.  When an injury occurs on the field, it should always be remembered that the primary concern is getting to and assisting the injured party. Secondary to this objective, but no less important, is the safety of persons entering the field to help and the well-being of anyone already on the field. (For example, fighters standing around in armor in the sun could be subject to heat problems.)
-B.  All injuries that require hospitalization or similar care, include a period of unconsciousness, or may require future medical care need to be reported to your Kingdom Earl Marshal within 24 hours of the incident. Include all available details in the report.
-C.  In the event of an emergency, the marshals shall cooperate with any authorized persons responding to the emergency and keep the area clear of would-be spectators.
-D.  In the event of any suspected injury on the field, the marshal shall halt all fighting in the area and determine the proper course of action. The hold may be a local hold as long as the safety of the injured person can be maintained. The overall situation should be assessed, and, as the injured party is tended to, every effort shall be made to release as much of the field as possible so that combat may proceed.
-E.  If the injured person is conscious, they may be asked if they would like assistance. No conscious person will be forced to accept treatment without his or her consent. No non-combatant shall enter the combat area until summoned by a marshal.
-F.  A marshal shall call for assistance if they suspect that a participant is experiencing more than momentary distress. It is an extremely serious matter to delay the application of first aid when it is needed, and marshals who ignore injuries may be subject to revocation of their authorization to supervise combat-related activities.
-G.  No one may remove an injured fighter from the field without the consent of the event marshal-in-charge or an appointed deputy.
-H.  Any immediate and significant problems associated with an injury on the field shall be reported to the kingdom Earl Marshal.
+1.  When an injury occurs on the field, it should always be remembered that the primary concern is getting to and assisting the injured party. Secondary to this objective, but no less important, is the safety of persons entering the field to help and the well-being of anyone already on the field. (For example, fighters standing around in armor in the sun could be subject to heat problems.)
+2.  All injuries that require hospitalization or similar care, include a period of unconsciousness, or may require future medical care need to be reported to your Kingdom Earl Marshal within 24 hours of the incident. Include all available details in the report.
+3.  In the event of an emergency, the marshals shall cooperate with any authorized persons responding to the emergency and keep the area clear of would-be spectators.
+4.  In the event of any suspected injury on the field, the marshal shall halt all fighting in the area and determine the proper course of action. The hold may be a local hold as long as the safety of the injured person can be maintained. The overall situation should be assessed, and, as the injured party is tended to, every effort shall be made to release as much of the field as possible so that combat may proceed.
+5.  If the injured person is conscious, they may be asked if they would like assistance. No conscious person will be forced to accept treatment without his or her consent. No non-combatant shall enter the combat area until summoned by a marshal.
+6.  A marshal shall call for assistance if they suspect that a participant is experiencing more than momentary distress. It is an extremely serious matter to delay the application of first aid when it is needed, and marshals who ignore injuries may be subject to revocation of their authorization to supervise combat-related activities.
+7.  No one may remove an injured fighter from the field without the consent of the event marshal-in-charge or an appointed deputy.
+8.  Any immediate and significant problems associated with an injury on the field shall be reported to the kingdom Earl Marshal.
 
 ## GUIDELINES FOR MARSHALING ON THE FIELD
 The guidelines outlined in this section are not rigid requirements, but are placed here in an attempt to help clarify and to provide examples of acceptable methods and procedures.
-A.  Preparing to Marshal Combat Activities
+
+### Preparing to Marshal Combat Activities
 As marshal-in-charge, you are responsible for organizing the marshaling. This does not mean that you have to do it all yourself.
+
 Things that need to be done prior to all combat activities: 
+
 1.  Check that the field can be safely fought upon, preferably before the site is reserved for the event. Can someone in armor, with restricted vision, cross it safely (i.e., without injury; simple tripping is an inherent hazard of combat in rough terrain)? At minimum, check at the beginning of the day to see if there are holes, soft spots, rocks, etc. If they are serious and cannot be worked around, move the fighting somewhere else.
 2.  Arrange for equipment inspection. (See Equipment Inspection Guidelines below.)
 3.  Arrange for marshals for all of the combat. That means an absolute minimum of one marshal per single combat (preferably two or three); enough marshals for group combat (melees and war battles) to both surround the fighting (to keep an eye on the boundaries) and keep most of the fights under general surveillance (for detached armor, broken weapons, etc.). It is relatively common for a marshal-in-charge to draft anyone he or she feels is competent to serve as field marshals during an event. Whether these individuals are warranted marshals is a matter of kingdom choice. The advantage of being a warranted marshal is that you are an official of the Corporation, which gives you certain legal protection from lawsuits (if any) arising from your actions as a marshal. Since the Society and its officers have never faced a lawsuit over fighting on the field, this may not seem critical, but it is worth thinking about. If volunteers are in short supply, point out to the fighters that they do not get to start until sufficient marshals are available.
 4.  When it is all over, write up a report on the event (see the Paperwork section under VII. Chain of Command).
-B.  Marshaling Single Combat
+
+### Marshaling Single Combat
 1.  At minimum, there should be one marshal for single combat. Two or three will be able to see more of the fight. Four or more will get in each other’s way and block the view from the sidelines without providing noticeably better marshaling.
 2.  As noted earlier, marshaling has three parts of nearly equal importance: safety, fair witness, and showmanship. Excessive concern for any of these, to the neglect of the other two, will make fighting less enjoyable for all concerned. While these concerns apply to all marshaling, they are most detailed and balanced in single combat.
 3.  Safety 
-a.  The field itself can cause safety problems. Before you begin, look over the area where the fighting will take place. Look particularly for large holes, soft spots, and rocks. (The fighters will generally accept small holes, rocks, etc. as part of the terrain.) Once the fight starts, try to keep it away from these areas. If the hazards are serious, move the fight.As the fighters come onto the field, take a quick look to see if they have their full armor, especially elbow, neck, and hand armor. These are the likeliest to be removed and then forgotten. This should not take any time at all; it is neither a full inspection nor an attempt to catch someone trying to play silly games with the rules—just a quick double-check to help someone who may have been distracted by the excitement of the day.
-b.  Once the fight has started, watch particularly for broken armor, lost tempers, injuries, and unauthorized people/pets/objects on the field. (Outsiders, especially small children and pets, do not always realize that they are supposed to stay off of the field during combat.) If there is a problem, shout “Hold!”, several times if necessary. (Most fighters will hear and respond to a cry of “Hold!” even when they won’t notice their own names being called.)
-c.  If the first cry of “Hold!” does not cause the fighters to stop, get in between the fighters (or between the fighters and whoever or whatever has wandered onto the field) and block the weapons with your staff until the fighting stops. Keep yelling “Hold!” while you do so that eventually they may notice. That is one reason why marshals routinely carry staffs on the field.
-d.  Bear in mind that the various kingdoms have somewhat differing traditions as to how much marshals should intrude into a fight. On one extreme, some kingdoms expect marshals to keep their opinions to themselves, except in the case of clear and immediate safety hazards. At the other extreme, some kingdoms expect marshals to volunteer advice any time they think the fighters might possibly have a question about a blow. If you are new to marshaling, or merely new to the kingdom you are in, try to find out where in this spectrum your kingdom lies. It will make a difference in how you act and, perhaps more importantly, it will make a major difference in what the fighters expect of you. Blatant violations of the rules and safety concerns should always be brought up either immediately if necessary for safety issues, or as there is a “hold” called for rules discussions that can wait until then.
+    1.  The field itself can cause safety problems. Before you begin, look over the area where the fighting will take place. Look particularly for large holes, soft spots, and rocks. (The fighters will generally accept small holes, rocks, etc. as part of the terrain.) Once the fight starts, try to keep it away from these areas. If the hazards are serious, move the fight.As the fighters come onto the field, take a quick look to see if they have their full armor, especially elbow, neck, and hand armor. These are the likeliest to be removed and then forgotten. This should not take any time at all; it is neither a full inspection nor an attempt to catch someone trying to play silly games with the rules—just a quick double-check to help someone who may have been distracted by the excitement of the day.
+    2.  Once the fight has started, watch particularly for broken armor, lost tempers, injuries, and unauthorized people/pets/objects on the field. (Outsiders, especially small children and pets, do not always realize that they are supposed to stay off of the field during combat.) If there is a problem, shout “Hold!”, several times if necessary. (Most fighters will hear and respond to a cry of “Hold!” even when they won’t notice their own names being called.)
+    3.  If the first cry of “Hold!” does not cause the fighters to stop, get in between the fighters (or between the fighters and whoever or whatever has wandered onto the field) and block the weapons with your staff until the fighting stops. Keep yelling “Hold!” while you do so that eventually they may notice. That is one reason why marshals routinely carry staffs on the field.
+    4.  Bear in mind that the various kingdoms have somewhat differing traditions as to how much marshals should intrude into a fight. On one extreme, some kingdoms expect marshals to keep their opinions to themselves, except in the case of clear and immediate safety hazards. At the other extreme, some kingdoms expect marshals to volunteer advice any time they think the fighters might possibly have a question about a blow. If you are new to marshaling, or merely new to the kingdom you are in, try to find out where in this spectrum your kingdom lies. It will make a difference in how you act and, perhaps more importantly, it will make a major difference in what the fighters expect of you. Blatant violations of the rules and safety concerns should always be brought up either immediately if necessary for safety issues, or as there is a “hold” called for rules discussions that can wait until then.
 4.  Witness 
-a.  You are expected to be an impartial witness to exactly what happens during a fight. Ideally, you should be able to describe the last 3–4 blows on your side of the fight: where they started, their angle of approach, how they were blocked or where they landed. Do not be afraid to say, “I don’t know” if you were looking at one part of the fight when something (allegedly) happened in another part.
-b.  Do not try to impose your view unless you see what appears to be major and repeated problems. Leave the blow counting to the participants unless you see clear reason to intervene; usually, they have a much clearer perspective than the marshals do.
-c.  If the fighters do ask you what happened (or you feel compelled to volunteer), try to do so tactfully. Prefacing your statements with “It looked to me like...”, “It appeared...”, or “to the crowd it looked like...” is preferable to a dogmatic assertion of what happened. Similarly, it is preferable to ask “Was that dent in your helm before?” rather than saying, “That blow put a 6-inch dent in the side of your helm.” The latter may be 100% accurate, but it is unnecessarily antagonistic to someone who may honestly have thought the blow too light.
+    1.  You are expected to be an impartial witness to exactly what happens during a fight. Ideally, you should be able to describe the last 3–4 blows on your side of the fight: where they started, their angle of approach, how they were blocked or where they landed. Do not be afraid to say, “I don’t know” if you were looking at one part of the fight when something (allegedly) happened in another part.
+    2.  Do not try to impose your view unless you see what appears to be major and repeated problems. Leave the blow counting to the participants unless you see clear reason to intervene; usually, they have a much clearer perspective than the marshals do.
+    3.  If the fighters do ask you what happened (or you feel compelled to volunteer), try to do so tactfully. Prefacing your statements with “It looked to me like...”, “It appeared...”, or “to the crowd it looked like...” is preferable to a dogmatic assertion of what happened. Similarly, it is preferable to ask “Was that dent in your helm before?” rather than saying, “That blow put a 6-inch dent in the side of your helm.” The latter may be 100% accurate, but it is unnecessarily antagonistic to someone who may honestly have thought the blow too light.
 5.  How to observe combat
-a.  In order to be able to answer as accurately as possible, you need as clear a view as possible. This means being close to the fight. You need to strike a balance between getting closer to see better and staying back out of range of the blows. Just what the appropriate distance is for you will depend on your level of experience with fighting (e.g., how well you can judge what the range of the weapons is and whether you are in or near it). In general, for single combat, 20 yards is too far and 2 yards is too close. In the absence of a better idea, consider 5 yards for weapons less than 3feet in length and 8 yards if either combatant has a longer weapon. Try to keep moving so that the combatants are roughly centered between you and the other marshals for the fight.
+    1.  In order to be able to answer as accurately as possible, you need as clear a view as possible. This means being close to the fight. You need to strike a balance between getting closer to see better and staying back out of range of the blows. Just what the appropriate distance is for you will depend on your level of experience with fighting (e.g., how well you can judge what the range of the weapons is and whether you are in or near it). In general, for single combat, 20 yards is too far and 2 yards is too close. In the absence of a better idea, consider 5 yards for weapons less than 3feet in length and 8 yards if either combatant has a longer weapon. Try to keep moving so that the combatants are roughly centered between you and the other marshals for the fight.
 6.  Showmanship 
-a.  Keep an eye on the audience. SCA combat is a spectator sport, just as medieval tournaments were. Your part of the show is to keep things moving and avoid blocking the view from the sidelines except where unavoidable. This means fast pre-fight checks and announcements, a minimum of holds and discussions during the fight, and a strenuous effort to stay out of the way and keep moving. (If it’s cold, wear several layers of clothing and move even more; one person in a cloak can interfere with the view of many).
+    1.  Keep an eye on the audience. SCA combat is a spectator sport, just as medieval tournaments were. Your part of the show is to keep things moving and avoid blocking the view from the sidelines except where unavoidable. This means fast pre-fight checks and announcements, a minimum of holds and discussions during the fight, and a strenuous effort to stay out of the way and keep moving. (If it’s cold, wear several layers of clothing and move even more; one person in a cloak can interfere with the view of many).
  
-C.  Marshaling Melees
+### Marshaling Melees
 1.  When marshaling a melee, the witness function is necessarily relegated to a very low priority. (It is not unimportant, but it is impossible for a handful of marshals to be accurate witnesses to the details of a couple of dozen separate combats.)
 2.  You should have a minimum of 3 marshals for the first 20 fighters, plus one additional marshal for each 15 fighters up to a total of 500 fighters and 35 marshals. If you have more than 500 fighters (realistically, even if you have more than 50 fighters), you should have an experienced Marshal in Charge and a sizable number of experienced marshals. It is preferable to have more marshals for free-for-all melees.
 3.  Marshals should station themselves around the edges of the fight. This allows them to control the borders while keeping as much of the fighting as possible in view. It also prevents fighters from running into them from behind. As always, keep moving and stay close enough to spot safety problems.
@@ -497,70 +501,75 @@ A.  This example of an authorization is for an armored combat fighter. This proc
 5.  For the first few minutes of the bout for authorization, the prospective fighter and the authorized fighter shall fight at 1/2 to 3/4 speed and verbally acknowledge all blows landed. During this phase of the authorization, the marshal and the member of the Chivalry should get an impression of the new fighter’s style, technique, ability to call blows, and ability to defend themselves. If this portion of the authorization is not satisfactorily completed, the authorization procedure shall be stopped. The candidate shall be told of the problems observed and instructed as to how to correct the problems.
 6.  If the first portion of the bout has progressed satisfactorily, then the combatants will be told to fight in list-type combat, counting blows until one is defeated. During this phase, the marshal and member of the Chivalry should observe the new fighter’s control, reaction to blows, and ability to cope with pressure.
 7.  The marshal, the member of the Chivalry, and the authorized fighter shall confer to decide if the new fighter exhibits adequate performance in the minimum criteria for authorization listed below:
-a.  Does the candidate know and apply the Rules of the Lists and the Conventions of Combat?
-b.  Does the candidate exhibit safe behavior on the field, for both self and others?
-c.  How does the candidate react to pressure? Does he or she fight back or become disoriented and confused?
-d.  Can the candidate defend him or herself?
-e.  Is the authorizing fighter able to feel and judge blows, both those received and those thrown?
+    1.  Does the candidate know and apply the Rules of the Lists and the Conventions of Combat?
+    2.  Does the candidate exhibit safe behavior on the field, for both self and others?
+    3.  How does the candidate react to pressure? Does he or she fight back or become disoriented and confused?
+    4.  Can the candidate defend him or herself?
+    5.  Is the authorizing fighter able to feel and judge blows, both those received and those thrown?
 8.  If the marshal, member of the Chivalry, and authorized fighter agree that the candidate meets these requirements, the marshal will notify the fighter that they are now authorized. The fighter and marshal will properly complete any paperwork required by the kingdom in addition to the previously completed Waiver for SCA Combat-Related Activities.
 9.  The fighter will send these properly completed forms to the kingdom official responsible for issuing authorization cards. Upon receipt of these properly completed forms, an authorization card will be issued. The fighter shall be issued a temporary card or keep a copy of the authorization form and waiver if he or she intends to fight prior to receiving the authorization card. The card should be received within one month. If the card is not received, the fighter should contact the authorization official and forward any information or paperwork required.
 
 ## EQUIPMENT INSPECTION GUIDELINES
-A.  General Information
+### General Information
 1.  At each event, the marshal-in-charge must arrange for the inspection of all equipment to be used in combat (e.g., armor and weapons). This in no way relieves the individual combatants of their responsibility for following the equipment standards. Ultimately, the fighter is responsible for the condition and safety of their armor and weapons at all times. This includes periods between bouts, between battles, and day to day periods between battles at a multi-day event. However, the marshal’s inspection is intended to provide a second pair of experienced eyes and an outside point of view. A reminder: Equipment that was perfectly serviceable at the beginning of the previous event could have broken since, and even the most experienced fighter can occasionally forget some piece of armor. The inspection outlined below is merely an example. For purposes of illustration, the inspection described is for regular SCA combat without missile weapons. It does not necessarily include checks for additional requirements that your kingdom may have added. A checklist might be helpful as you do the inspection until you have done so many that it becomes second nature. (As noted in the section on marshaling combat, a quick visual check of the combatants just before the start of a bout or battle is also a good idea.) All of this is based on the equipment standards given in the Appendix. You should be familiar with them, as well as with any other requirements that your kingdom may have instituted. The fact that one of the requirements is not mentioned on this checklist does not mean that you should not notice if it has not been met.
 2.  Armor inspection must be done with all of the armor on the body of the fighter who is going to wear it. It is not otherwise possible to get an accurate idea of what is covered and what is not, of where gaps may occur as the combatant moves. In weapon inspections, the primary test is safety. If you, as a marshal, do not believe that the weapon is safe (i.e., if you would not be willing to face it), do not let it be used on the field. When in doubt, ask the prospective user if he or she would be willing to fight against the weapon. If not, it should not be used regardless of whether it meets all other requirements. Before you start, remind yourself that armor is hot, not to mention heavy. If the weather is hot, try to find some shade in which to hold the inspection or, at least, for the fighters to stand in while waiting to be inspected. (Similar reasoning applies in case of rain, freezing cold, or other inclement weather. Just because it is possible to fight does not mean that it is pleasant or desirable to stand around in armor.)
-B.  Sample Armor Inspection
+### Sample Armor Inspection
 See Section VI, “Armor Requirements” above for Society minimum standards.
+
 1.  Leg Armor: Check that the front and sides of the knee are covered. Have the fighter flex their knees (either a deep knee bend or one knee at a time) and see that the knee remains covered and that the articulation (if any) does not gap. Check for sharp edges, broken or missing rivets, or other signs that the equipment is falling apart.
 2.  Groin: ASK the fighter if they have remembered their cup or groin protection. Do NOT attempt to check for it physically.
 3.  Kidneys: Check for kidney armor. (Kidneys are located in the back, at the bottom of the ribs, but the armor should also extend around to the sides.)
 4.  Elbows: Check that the point and sides of each elbow are covered. Have the fighter flex their elbows and see that the elbow remains covered and that the articulation (if any) does not gap. Check for sharp edges, broken or missing rivets, or other signs that the equipment is faulty.
 5.  Hands and Wrists: Check the gauntlet and/or basket hilt. Look to see whether the gauntlet will pinch the hand if it is hit. Check for sharp edges, broken or missing rivets, or other signs that the equipment is faulty.
 6.  Neck and Head:
-a.  Check that the neck, larynx, and cervical vertebrae are covered.
-b.  Check the face plate and eye slots, both for the size of openings (a 1 (one)-inch dowel is a quick way to check and hard to argue with) and to be sure that it is firmly secured.
-c.  Put your hand on the front of the helm, and have the fighter push against it. See that their face does not hit the faceplate. (A gentle touch of the tip of the nose at maximum pressure may not be desirable, but is not necessarily grounds for rejecting the helm.) Repeat with the sides and back of the helm.
-d.  Have the fighter turn their head toward their shield side. See that the neck is still not exposed.
+    1.  Check that the neck, larynx, and cervical vertebrae are covered.
+    2.  Check the face plate and eye slots, both for the size of openings (a 1 (one)-inch dowel is a quick way to check and hard to argue with) and to be sure that it is firmly secured.
+    3.  Put your hand on the front of the helm, and have the fighter push against it. See that their face does not hit the faceplate. (A gentle touch of the tip of the nose at maximum pressure may not be desirable, but is not necessarily grounds for rejecting the helm.) Repeat with the sides and back of the helm.
+    4.  Have the fighter turn their head toward their shield side. See that the neck is still not exposed.
 e.  Have the fighter tilt their chin up as far as possible and check the neck again (this is intended to simulate the position they might be in if they had just taken a blow high up on the front of the helm). If you can reach in (with your fist, or the dowel that you used to check the face openings) and touch bare throat, the problem should be repaired before the fighting starts.
-f.  Have the fighter move their chin down as far as possible and repeat for the back of the neck.
-g.  Lift gently on the front of the faceplate to make sure that the helm does not rotate easily to expose the face or throat.
-h.  After making sure that the fighter does not have their tongue between their teeth, test the chinstrap (or equivalent) by lifting up sharply on both sides of the helm. It should not rise up so far as to expose the head or neck.
-i.  Check for sharp edges, broken or missing rivets, or other signs that the equipment is faulty.
+    5.  Have the fighter move their chin down as far as possible and repeat for the back of the neck.
+    6.  Lift gently on the front of the faceplate to make sure that the helm does not rotate easily to expose the face or throat.
+    7.  After making sure that the fighter does not have their tongue between their teeth, test the chinstrap (or equivalent) by lifting up sharply on both sides of the helm. It should not rise up so far as to expose the head or neck.
+    8.  Check for sharp edges, broken or missing rivets, or other signs that the equipment is faulty.
 7.  Shield: Check the rim for exposed sharp edges. (For this purpose, a 90-degree angle is a sharp edge.) Check the rest of the shield for sharp edges, broken or missing rivets, or other signs that it is faulty.
-C.  Sample Weapon Inspection
+
+### Sample Weapon Inspection
 See Section VII, “Weapons Standards” above for Society minimum standards.
+
 1.  Swords:
-a.  Check that they meet the minimum diameter (1.25 inch [31.8mm]). A 1.25 inch (31.8mm) marshaling gauge will speed this up enormously.
-b.  Check that the ends are taped and that there are no exposed cuts in the rattan.
-c.  Check the quillions or basket hilts for sharp edges, broken or missing rivets, or other signs that they are coming apart.
-d.  Check the wrist strap or other means of keeping the sword from flying away.
+    1.  Check that they meet the minimum diameter (1.25 inch [31.8mm]). A 1.25 inch (31.8mm) marshaling gauge will speed this up enormously.
+    2.  Check that the ends are taped and that there are no exposed cuts in the rattan.
+    3.  Check the quillions or basket hilts for sharp edges, broken or missing rivets, or other signs that they are coming apart.
+    4.  Check the wrist strap or other means of keeping the sword from flying away.
 2.  Thrusting Tips: Check that they have the minimum cross section. Push on the end to verify the required amount of resilient give. Check that it the tip is constructed in such a manner that it cannot be forced more than .5 inch (12.7 mm) into a legal faceguard.
 3.  Mass Weapons: Check the padding for give. Check the wrist strap (single-handed mass weapons only). Consider the total mass of the weapon.
 4.  Pole Weapons: Check the thrusting tip, if any. Check the padding for give. Consider the total mass of the weapon. Check that the weapon meets the relevant length restrictions.
-D.  Sample Combat Archery Inspection
+
+### Sample Combat Archery Inspection
 1.  Bow/Crossbow 
-a.  Ensure that the string is not showing excessive wear.
-b.  Measure the power of the bow with a calibrated scale to ensure it is within appropriate specs.
-c.  Check the bow itself for cracks or gouges, as well as for significant limb twist that could make the string leave the tips.
+    1.  Ensure that the string is not showing excessive wear.
+    2.  Measure the power of the bow with a calibrated scale to ensure it is within appropriate specs.
+    3.  Check the bow itself for cracks or gouges, as well as for significant limb twist that could make the string leave the tips.
 2.  Crossbow Only
-a.  Check that the lock mechanism releases smoothly under simulated pressure.
-b.  Check that the lock mechanism is solid and will not accidentally fire.
-c.  Ensure the stock has no failures between the bow and lock.
+    1.  Check that the lock mechanism releases smoothly under simulated pressure.
+    2.  Check that the lock mechanism is solid and will not accidentally fire.
+    3.  Ensure the stock has no failures between the bow and lock.
 3.  Ammunition
-a.  Based upon the type of ammunition, measure all dimensions for conformance
-b.  Grab both head and tail and pull with moderate force while slightly twisting. If either end moves laterally it fails.
-c.  If the ammunition is with made with foam, check that the tip is constructed in such a manner that it cannot be forced more than .5 inch (12.7 mm) into a legal faceguard.
-d.  Check the shaft for signs of cracking or other failure. Check that it is properly labeled and taped.
-e.  Remember that ammunition cannot be more than 10% yellow as yellow is reserved for siege ammunition.
+    1.  Based upon the type of ammunition, measure all dimensions for conformance
+    2.  Grab both head and tail and pull with moderate force while slightly twisting. If either end moves laterally it fails.
+    3.  If the ammunition is with made with foam, check that the tip is constructed in such a manner that it cannot be forced more than .5 inch (12.7 mm) into a legal faceguard.
+    4.  Check the shaft for signs of cracking or other failure. Check that it is properly labeled and taped.
+    5.  Remember that ammunition cannot be more than 10% yellow as yellow is reserved for siege ammunition.
 
 ## EXPERIMENTAL WEAPONS AND MATERIALS PROCEDURES
-A.  Experimental Weapons and Materials 
+### Experimental Weapons and Materials 
 1.  Before any unapproved weapon or material can be used at Society activities, a test plan and a sample of the proposed weapon or material must be submitted to and approved by the Society Marshal or a designated deputy. This plan shall include:
-a.  Specifics on construction (e.g., materials used, how it is assembled, etc.),
-b.  A detailed outline of the test and its scope.
-c.  All restrictions that will be imposed on the test.
-d.  How long the test period would be.
-If requested, any samples submitted shall be returned to the submitting party no later than the conclusion of the test period, unless otherwise specified.
+    1.  Specifics on construction (e.g., materials used, how it is assembled, etc.),
+    2.  A detailed outline of the test and its scope.
+    3.  All restrictions that will be imposed on the test.
+    4.  How long the test period would be.
+
+    If requested, any samples submitted shall be returned to the submitting party no later than the conclusion of the test period, unless otherwise specified.
 2.  It is the prerogative of the kingdom Earl Marshal to allow limited testing of alternate or unapproved materials and weapons within a kingdom after receiving approval from the Society Marshal. Limited testing means the weapon or material may be used at fighter practice tourneys and in small melees, but only after all combatants and marshals have been informed the weapon or material is being tested and that it is not approved for general SCA use.
 3.  All combatants and marshals must consent to the use of the weapon or material before combat begins. If any of the marshals or combatants object to the use of the material or weapon, the material or weapon may not be used in that fight or battle. All experimental materials and weapons shall be marked with alternating bands of red and green tape totaling 6 inches (15.2 cm) in length. Bands shall be visible during weapon usage.
 4.  Once per quarter throughout the test period, the Earl Marshal will update the Society Marshal on the progress and results of the testing. At the end of the test period, the Earl Marshal will provide the Society Marshal with a test summary. This summary shall include a list of injuries that resulted from the use of the weapon or material and any concerns from fighters and marshals recorded during the testing. The Society Marshal, after consultation with the Earls Marshal, shall determine if the weapon or material is suitable for SCA combat-related activities.
@@ -597,27 +606,29 @@ b.  Provide warrants for the Earls Marshal as they are appointed.
 c.  Answer correspondence from the Earls Marshal.
 
 ## PROCEDURES FOR GRIEVANCES AND SANCTIONS  
-A.  Grievances and Disputes
+### Grievances and Disputes
 Usually the combatants are more than willing to correct any problems or breaches of the rules pointed out by a marshal. This is the desired solution: get the problem fixed. However, occasionally a marshal must take action. In the unhappy event that you find it necessary, here is how you shall proceed. In order of preference:
+
 1.  Point out the violation (missing armor, grappling during combat, etc.) and ask the fighter to correct it.
 2.  In the case of missing or inadequate armor, do not allow the combatant onto the field until it has been fixed.
 3.  In the case of violation of the rules during combat, ask the combatant to leave the field, and do not allow combat to resume until he or she has cooled off. This particularly includes removing from the field anyone who has lost his or her temper.
 4.  If you need support, call on (in order):
-a.  Any other marshals who are present (especially the marshal-in-charge).
-b.  A regional, deputy, or principality Earl or Knight Marshal.
-c.  The kingdom Earl Marshal
-d.  The local Seneschal
-e.  The principality or kingdom seneschal
-f.  The Crown
+    1.  Any other marshals who are present (especially the marshal-in-charge).
+    2.  A regional, deputy, or principality Earl or Knight Marshal.
+    3.  The kingdom Earl Marshal
+    4.  The local Seneschal
+    5.  The principality or kingdom seneschal
+    6.  The Crown
 5.  If the violation cannot be stopped, convince the marshal-in-charge and the local seneschal to end the event.
 6.  In any case where voluntary correction is not made after the problem has been pointed out, a detailed written report shall be made to the Earl Marshal as soon as possible after the event. In cases where the fighter has made corrections voluntarily a report should be sent to the Earl Marshal if a pattern of problems, even minor ones from the same fighter is occurring.
-B.  Sanctions
+
+### Sanctions
 1.  In addition to removing an unsafe combatant from the field at the time, long-term sanctions are available. These will normally be applied by the marshallate of the kingdom rather than by a local marshal. Procedures outlined in kingdom law or kingdom marshal policies shall be adhered to when sanctioning any person.
 2.  Possible sanctions include:
-a.  Revoking the authorization of the individual to fight with a particular weapon. (This sanction may be applied whether or not your kingdom does authorizations by weapon forms.)
-b.  Revoking the authorization of the individual to fight at all.
-c.  Recommendation to the Crown to banish the individual from participation in events.
-d.  Recommendation to the Board to banish the individual from the Society and its activities.
+    1.  Revoking the authorization of the individual to fight with a particular weapon. (This sanction may be applied whether or not your kingdom does authorizations by weapon forms.)
+    2.  Revoking the authorization of the individual to fight at all.
+    3.  Recommendation to the Crown to banish the individual from participation in events.
+    4.  Recommendation to the Board to banish the individual from the Society and its activities.
 3.  If any of these long-term sanctions are in progress, the Society Marshal shall be informed.
 4.  If authorization has been revoked, it is acceptable to inform the Earls Marshal of any neighboring kingdoms to which the currently unauthorized fighter might travel. Once long-term sanctions have been applied, a report shall be made to the Marshal of the Society.
 5.  An authorization from any Kingdom may be suspended/revoked in another Kingdom, should it prove necessary and appropriate. Such suspension/revocation means that the fighter may not fight anywhere in the Society until and unless the issue is resolved. Accordingly, the Earl Marshal of the kingdom issuing the suspension shall inform the Society Earl Marshal and the Earls Marshal of the neighboring kingdoms.
@@ -625,22 +636,36 @@ d.  Recommendation to the Board to banish the individual from the Society and it
  
 ## GLOSSARY
 The definitions that follow apply throughout the Handbook, unless specifically stated otherwise. They are intended to clarify usage and establish a frame of reference for the various materials used in SCA combat.
-A.  Armor Materials
-Aventail: flexible curtain of chainmail on a helmet, extending to cover the neck and shoulders.
-Bars: Used in the visor or faceplate of helms, bars shall be mild steel a minimum of 3/16 inch (4.5mm) in diameter, or the equivalent. If the distance between crossbars is 2 inches (50.8 mm) or less, .125 (that is, 1/8) inch (3.2 mm) bars may be used.
-Camail: flexible curtain of mail or leather on a helm, extending to cover the neck (also aventail).
-Closed-cell foam: stiff foam with closed cells, less dense than resilient foam (e.g., Ensolite).
-Equivalent: virtually identical to the specified material in effect or function, including impact resistance, impact distribution, and impact absorption characteristics, but not necessarily in physical dimensions. 
-Foam: any open- or closed-cell foam, including foam rubber, foam neoprene, polyurethane, etc.
-Gauge: U.S. sheet metal standard. Note that 16-gauge is officially 1/16 inch (.0625 inch or about 1.6mm), but commercially available sheet is frequently rolled to .058 or even .055 inch—much too thin for helms. 
-Gauntlet: An armored glove covering the back of the hand, fingers, and thumb and the points and back of the wrist.
-Gorget: a piece of armor designed to cover the throat and neck.
-Heavy leather: stiff, oak-tanned leather nominally 11/64 inch (.171875 inch or 4.4 mm) thick. This is referred to as 11 ounce leather.
-Mail: any fabric of small metal components either linked together (e.g., chain) or attached to a flexible backing (e.g., ring or scale).
-Padding: quilted or multi-layered cloth material, such as mattress pads, moving pads, carpet, felt, or equivalent
-Partial gauntlet (also called a half-gauntlet or demi-gauntlet): An armored glove covering the back of the hand and at least the first knuckle of the thumb, as well as the points and back of the wrist.
-Plate: large components of rigid material.
-Resilient foam: dense, plastic, closed-cell foam such as ethyl polymer.
+### Armor Materials
+*Aventail*: flexible curtain of chainmail on a helmet, extending to cover the neck and shoulders.
+
+*Bars*: Used in the visor or faceplate of helms, bars shall be mild steel a minimum of 3/16 inch (4.5mm) in diameter, or the equivalent. If the distance between crossbars is 2 inches (50.8 mm) or less, .125 (that is, 1/8) inch (3.2 mm) bars may be used.
+
+*Camail*: flexible curtain of mail or leather on a helm, extending to cover the neck (also aventail).
+
+*Closed-cell foam*: stiff foam with closed cells, less dense than resilient foam (e.g., Ensolite).
+
+*Equivalent*: virtually identical to the specified material in effect or function, including impact resistance, impact distribution, and impact absorption characteristics, but not necessarily in physical dimensions. 
+
+*Foam*: any open- or closed-cell foam, including foam rubber, foam neoprene, polyurethane, etc.
+
+*Gauge*: U.S. sheet metal standard. Note that 16-gauge is officially 1/16 inch (.0625 inch or about 1.6mm), but commercially available sheet is frequently rolled to .058 or even .055 inch—much too thin for helms. 
+
+*Gauntlet*: An armored glove covering the back of the hand, fingers, and thumb and the points and back of the wrist.
+
+*Gorget*: a piece of armor designed to cover the throat and neck.
+
+*Heavy leather*: stiff, oak-tanned leather nominally 11/64 inch (.171875 inch or 4.4 mm) thick. This is referred to as 11 ounce leather.
+
+*Mail*: any fabric of small metal components either linked together (e.g., chain) or attached to a flexible backing (e.g., ring or scale).
+
+*Padding*: quilted or multi-layered cloth material, such as mattress pads, moving pads, carpet, felt, or equivalent
+
+*Partial gauntlet (also called a half-gauntlet or demi-gauntlet)*: An armored glove covering the back of the hand and at least the first knuckle of the thumb, as well as the points and back of the wrist.
+
+*Plate*: large components of rigid material.
+
+*Resilient foam*: dense, plastic, closed-cell foam such as ethyl polymer.
 Rigid material:
 a.  Steel of no less than 18 gauge, or aluminum of no less than 0.075 inch (1.9mm)
 b.  Other metals of sufficient thickness to give similar rigidity to those listed above to include treated steel or aluminum
