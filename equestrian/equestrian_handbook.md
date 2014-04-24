@@ -197,11 +197,11 @@ Required for mounted combat only and are recommended for jousting.
     2. Blinker style. The lexan/acrylic eye protection used by jockeys and trainers at the racetrack. The blinker must use transparent full eyecups. Partial eyecups are not an acceptable substitute. Eye protection of this sort may be incorporated into a period horse garment providing the garment ensures proper placement of the eyecups at all times.
     3. Police Riot gear. Full-faced riot protection made of 1/8 inch lexan attached to the bridle of the horse.
 
-### Weapon requirements.
+### Weapon requirements
 
-#### Single Handed weapons.
+#### Single Handed weapons
 
-##### Mounted Crest Combat. 
+##### Mounted Crest Combat
 "Boffer" weapons are to be used in this activity.
 
 1. Base material shall be schedule 40 ½-inch PVC plastic pipe. Both ends must be capped, but accessible to marshals for inspection’ to the requirement for end caps to the swords.
@@ -210,7 +210,7 @@ Required for mounted combat only and are recommended for jousting.
 4. If quillions are used they should not extend more than 1 inch beyond the hand when held.
 5. Thrusting tips are not allowed in mounted crest combat.
 
-##### Heavy Mounted Combat. 
+##### Heavy Mounted Combat
 Sturdier ‘Boffer’ style weapons are used in this activity.
 
 1. Base material may be 1 inch diameter rattan or schedule 40 ¾-inch PVC plastic pipe. If PVC pipe is used as the base material, both ends must be capped.
@@ -252,6 +252,7 @@ Riders may use hand held weapons made of non-brittle materials. All tips and edg
 Riders are required to use tack sufficient to allow them to maintain control of their equine. Such tack traditionally includes use of a bridle and saddle, however other combinations of tack may be allowed upon demonstration of control of the horse to the satisfaction of the EqMIC.
 
 ## Glossary
+
 ### Rigid material
 1. Steel of no less than 18 gauge, or aluminum of no less than 1/8-inch (3mm).
 2. Other metals of sufficient thickness to give similar rigidity to those listed above to include treated steel or aluminum.
