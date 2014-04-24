@@ -5,78 +5,8 @@ This handbook is an official corporate publication of the Society for Creative A
 Copies of this document can be ordered from SCA Marketplace, PO Box 360789, Milpitas, CA 95036-0789
 Members of the Society for Creative Anachronism, Inc., may photocopy this work in whole or in part for SCA use provided that copyright credit is given and no changes are made to the text. The contents of this document will be posted at http://www.sca.org and further reproduction on other Internet sites is expressly forbidden.
 
-TABLE OF CONTENTS
-
-PARTICIPANTS’ SECTION   5
-I.  COMBAT AUTHORIZATION REQUIREMENTS   5
-A.  General 5
-B.  Minor Authorization 5
-II. RULES OF THE LISTS  6
-A.  The Rules of the Lists  6
-B.  Applications of the Rules of the Lists  7
-III.    CONVENTIONS OF COMBAT   8
-A.  General Information 8
-B.  Behavior on the Field   8
-C.  Target Areas    9
-D. Combat Archery Conventions   9
-IV. THE USE OF WEAPONS AND SHIELDS  9
-V.  ACKNOWLEDGMENT OF BLOWS 10
-VI. ARMOR REQUIREMENTS  11
-A.  Armored Participants    11
-B.  Helms   11
-C.  Eye Wear    12
-D.  Neck Armor  12
-E.  Body, Shoulder, and Groin Armor 13
-F.  Hand and Wrist Armor:   13
-G.  Arm Armor   13
-H.  Leg Armor   13
-I.  Shields 13
-VII.    WEAPONS STANDARDS   14
-A.  General 14
-B.  Single-Handed Weapons   15
-C.  Two-Handed Weapons  15
-D.  Fiberglass Spears   16
-E.  Throwing Weapons    16
-F.  Combat Archery Bows/Crossbows   17
-G.  Combat Archery Ammunition   17
-VIII.   SIEGE COMBAT    20
-A.  General 20
-B.  Munitions   20
-C.  Blow Acknowledgment 20
-D.  Destroying Siege Engines.   20
-MARSHALS’ SECTION   22
-IX. PROCEDURES FOR THE AUTHORIZATION OF MARSHALS    22
-A.  General Requirements    22
-X.  PROCEDURES FOR MARSHALING WARS  22
-A.  Before the War  22
-B.  Marshal of a War    23
-XI. MARSHALING REQUIREMENTS 24
-XII.    COMBAT INJURY PROCEDURES    24
-XIII.   GUIDELINES FOR MARSHALING ON THE FIELD  24
-A.  Preparing to Marshal Combat Activities  24
-B.  Marshaling Single Combat    25
-C.  Marshaling Melees   27
-XIV.    COMBAT AUTHORIZATION PROCEDURES 27
-XV. EQUIPMENT INSPECTION GUIDELINES 28
-A.  General Information 28
-B.  Sample Armor Inspection 29
-C.  Sample Weapon Inspection    29
-D.  Sample Combat Archery Inspection    30
-XVI.    EXPERIMENTAL WEAPONS AND MATERIALS PROCEDURES   30
-A.  Experimental Weapons and Materials  30
-XVII.   MARSHAL RESPONSIBILITIES, CHAIN OF COMMAND AND REPORTING    31
-A.  Reporting Requirements  31
-XVIII.  PROCEDURES FOR GRIEVANCES AND SANCTIONS 32
-A.  Grievances and Disputes 32
-B.  Sanctions   33
-XVIV.   GLOSSARY    34
-A.  Armor Materials 34
-B.  Weapons 35
-C.  Other Definitions   36
-INDEX   38
 
 
- 
 This handbook is the latest revision of a set of rules and guidelines that have been adapting and evolving over the last forty years. What you find within these pages reflects a vast body of experience and knowledge gathered from across the Knowne World and compiled through the efforts of many. While the traditions and laws of each kingdom vary, these rules represent the minimum requirements for equipment and conduct required for participation in SCA armored combat.
 As a marshal it is your duty to know and understand these rules and to teach and share them with the participants we train and authorize. Be aware of changes and updates to these rules and policies and clarifications made to your kingdom and Society standards. Frequently visit your kingdom and Society websites to stay up-to- date and stay active.
 As we gather at our events to recreate the ideals of honor and chivalry of the Middle Ages, remember that these rules and standards are but the foundation of the fighting community, set to ensure that we may continue to enjoy SCA combat. No book of rules can replace common sense, which must also be exercised to keep all combatants and spectators safe. In all combat activities, safety must always be paramount.
