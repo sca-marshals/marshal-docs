@@ -77,6 +77,7 @@ Additionally, an equestrian may be authorized for participation in mounted games
 
 1. The individual must demonstrate familiarity with the equipment used in SCA mounted games.
 2. The individual must demonstrate the ability to safely control their horse while engaging in SCA equestrian activities while encumbered by the appropriate equipment.
+
 ### Youths may be authorized as equestrians subject to the following limitations:
 1. Youths must be at least five (5) years of age in order to participate in equestrian activities, and be able to demonstrate the ability to control the equine, unassisted, at the gaits and in the activities covered by the authorization sought.  Age restrictions required by individual site owners must be observed.
 2. Youths are prohibited from participating in activities requiring a helm, namely jousting and mounted combat.
