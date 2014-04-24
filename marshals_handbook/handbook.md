@@ -221,7 +221,7 @@ The elbow point and bones at either side of the elbow joint must be covered by a
     3.  A pavise can be carried in a manner which does not require hand control (such as by a shoulder strap). In this case, the fighter is not allowed to actively block with it, nor can they use their own weapon, and if struck by a hand weapon, the blow is counted as if the pavise was not there.
 
 ## WEAPONS STANDARDS
-A.  General
+### General
 1.  With the exception of the hilts, guards and pommels, no metal or non-approved rigid, granular, or liquid material may be used in the construction of single or two-handed weapons including spears.
 2.  Primary weapons used single-handed shall have a wrist strap (or equivalent restraint) which will keep the weapon from leaving the immediate area of the user if released during any part of a bout or combat. Restraints are not required on hafted weapons used single-handed, or on single-handed back-up weapons.
 3.  Flails are expressly prohibited. 
@@ -238,50 +238,61 @@ A.  General
 14. No “punch weapons” or thrusting weapons that have the blade or tip more perpendicular than parallel to the grip.
 15. No shovel handles on any thrusting weapon.
 16. Weapons under 48” (1.22 m) or greater than 7’ 6” (2.29 m) in length may have either a thrusting tip or a butt spike, but not both at the same time. The madu was not a weapon of individual combat during the SCA’s period of study, and therefore it is excluded from SCA Armored Combat.
-B.  Single-Handed Weapons
+
+### Single-Handed Weapons
 Weapons that shall be used in one hand shall have the following requirements:
+
 1.  Single-handed weapons shall be constructed of one of the following:
-a.  rattan
-b.  rattan-cored Siloflex or Siloflex-equivalent
-c.  natural polypropylene round rod (maximum diameter: 1.25 inches (31.8 mm)
-and shall be not less than 1.25 inch (31.8 mm) in total diameter (including tape) along its entire length excepting the handle.
+    1.  rattan
+    2.  rattan-cored Siloflex or Siloflex-equivalent
+    3.  natural polypropylene round rod (maximum diameter: 1.25 inches (31.8 mm)
+
+    and shall be not less than 1.25 inch (31.8 mm) in total diameter (including tape) along its entire length excepting the handle.
+
 2.  Rattan-cored Siloflex or Siloflex equivalent weapons shall be constructed using tubular materials meeting ASTM standard D-2239 or the international equivalent, with a pressure rating of 160 PSI or greater, having at least a 1.25 inch (31.8 mm) diameter on the outside and at least .125 (that is, 1/8) inch (3.2 mm) walls, and having an inner core of rattan that fills the interior of the tubular material entirely. Periodic inspection shall be made to determine the condition of the inner core.
 3.  If the weapon has a head, it shall not be constructed of solely rigid materials. The head shall be firmly and securely attached to the haft. The head shall allow at least .5 inch (12.7 mm) of progressive give between the striking surface and the weapon haft.
 4.  No weapon may have a cutting and/or smashing surface at both ends.
 5.  When thrusting tips are used, they shall be at least the same diameter as the shaft of the weapon they are mounted on and have at least .75 inch (19.1 mm) of resilient material in front of the rigid tip of the weapon providing at least .375 (that is, 3/8) inch (9.53 mm) of progressively resistant give across the face of the thrusting tip. (Note: Pressing with the thumb into the center of the thrusting tip is not an adequate test. The give must be across the entire face of the tip.)
 6.  Swords shall have a hand guard, such as a basket hilt, quillions, or equivalent.
 7.  Total weapon mass shall not exceed 5 pounds (2.27 kg).
-C.  Two-Handed Weapons
+
+### Two-Handed Weapons
 Weapons which may be used with one or two hands shall have the following requirements:
+
 1.  Weapons shall be constructed of rattan of not less than 1.25 inch (31.8 mm) in diameter (including tape). Polearms may contain blades constructed of split rattan, so long as the piece(s) are securely fastened to the haft.
 2.  The weapon shall not be excessively flexible.
 3.  If the weapon has a head, it shall not be constructed of solely rigid materials. The head shall be firmly and securely attached to the haft. The head shall allow at least .5 inch (12.7 mm) of progressive give between the striking surface and the weapon haft. Semi-rigid ultra-lightweight shaped foam heads and laminated or split rattan construction techniques do not require .5 inch (12.7 mm) of progressive give, so long as their construction imparts striking characteristics similar to an unpadded weapon constructed of a single piece of rattan.
 4.  No weapon may have a cutting and/or smashing surface at both ends.
 5.  Thrusting tips: 
-a.  When thrusting tips are used on rattan weapons with greater length than 7.5 feet (2.286 m), they shall be no less than 2 inches (50.8 mm) in diameter/cross-section and have 2 inches (50.8 mm) of resilient material in front of the rigid tip of the weapon, thereby providing progressively resistant give.
-b.  When thrusting tips are used on rattan weapons with length less than or equal to 7.5 feet, they shall be at least the same diameter as the shaft of the weapon they are mounted on and have 1.5 inches (38.1 mm) of resilient material in front of the rigid tip of the weapon, thereby providing progressively resistant give.
-(Note: Pressing with the thumb into the center of the thrusting tip is not an adequate test. The give must be across the entire face of the tip.)
+    1.  When thrusting tips are used on rattan weapons with greater length than 7.5 feet (2.286 m), they shall be no less than 2 inches (50.8 mm) in diameter/cross-section and have 2 inches (50.8 mm) of resilient material in front of the rigid tip of the weapon, thereby providing progressively resistant give.
+    2.  When thrusting tips are used on rattan weapons with length less than or equal to 7.5 feet, they shall be at least the same diameter as the shaft of the weapon they are mounted on and have 1.5 inches (38.1 mm) of resilient material in front of the rigid tip of the weapon, thereby providing progressively resistant give.
+
+    (Note: Pressing with the thumb into the center of the thrusting tip is not an adequate test. The give must be across the entire face of the tip.)
 6.  Weapons exceeding 7.5 feet (2.286 m) shall not be used for cutting or smashing and shall be used for thrusting only.
 7.  Total weapon length shall not exceed 12 feet (3.658 m).
-D.  Fiberglass Spears
+
+### Fiberglass Spears
 1.  Fiberglass spears shall not have a cutting or smashing head.
 2.  Fiberglass spears shall be constructed with pultruded fiberglass shafts with an outside diameter of no less than 1.25 inch (31.8 mm) and no greater than 1 5/16 inch (33.38 mm). Minimum manufacturer specified wall thickness shall be .125 (that is, 1/8) inch (3.2 mm) and the minimum measurable wall thickness shall be 3/32 inch (2.38 mm).
 3.  The end of the shaft which will have the thrusting tip attached must be covered with a schedule-40 PVC cap with an interior diameter the same as the outside diameter of the shaft (1.25 inches or 31.8 mm). The thrusting tip will then be attached over this cap.
 4.  All fiberglass spears must have a thrusting tip that is a minimum of 2 inches (50.8 mm) in diameter/ cross-section and have 2 inches (50.8 mm) of resilient material in front of the PVC end cap, thereby providing progressively resistant give without allowing contact with the PVC end cap.
 5.  Mandrake style rubber 2" tips (black and red) are to be considered an equivalent to 3" tips for use on fiberglass spearshafts up to 9' in length as of March 1, 2011. Mandrake tips must be attached as per the instructions and all included foam discs must be used as directed in the included instructions. Tips may not be taped or attached in such a way that the mechanical properties of the tip are altered significantly.
 6.  Shafts may be spliced using a fiberglass rod or tube with a sidewall of .125 inch (3.2 mm) of the same or equivalent material, having an outside diameter of 1 inch (25.4 mm) and a length of 8–12 inches (203–304 mm). Only two splices will be allowed per spear shaft. Each end to be spliced shall be cut square and clean of cracks or frayed fibers. The rod shall extend at least 4 inches (101.6 mm) into each spliced end. One or both of these two methods shall secure the splice:
-a.  Epoxying both ends of the fiberglass rod before insertion.
-b.  Epoxying one end of the fiberglass rod before insertion and thoroughly taping the splice over with fiber tape.
+    1.  Epoxying both ends of the fiberglass rod before insertion.
+    2.  Epoxying one end of the fiberglass rod before insertion and thoroughly taping the splice over with fiber tape.
 7.  The butt end of the shaft shall be smooth and free of cracks or frayed fibers. The butt shall be taped over or otherwise sealed. If a weapon is completely taped, a marshal may require that one section be untaped enough to determine that pultruded fiberglass has been used in the construction of the shaft.
 8.  Total spear length shall not exceed 12 feet (3.658 m).
-E.  Throwing Weapons
+
+### Throwing Weapons
 These weapons may be used for striking and may also be thrown in melee scenarios where thrown weapons are allowed. Examples are thrust-and-throw javelins, axes, knives, etc.
+
 1.  Shafts shall be constructed of rattan not less than 1.25 inch (31.8 mm) in diameter along its entire length or of two layers of Siloflex or equivalent. The outer layer shall be 1 inch (25.4 mm) inner diameter Siloflex (1.25 inch [31.8mm] outer diameter) and the inner layer shall be 0.75 inch (19.1 mm) inner diameter Siloflex. All Siloflex used for throwing weapons must have a pressure rating of 160 PSI or greater. If Siloflex is used, both ends of the shaft shall be covered with either a schedule-40 PVC cap with an interior diameter the same as the outside diameter of the shaft (1.25 inches [31.8 mm]), or with a rubber stopper or equivalent means to prevent the tubing from penetrating the thrusting tip(s), fastened securely in place by tape and/or glue.
 2.  Thrusting tips shall be used on any tip that can be reasonably assumed to contact a fighter when the weapon is used or thrown. Tips shall be no less than 2 inches (50.8 mm) in diameter/cross-section and have 2 inches (50.8 mm) of resilient material in front of the rigid tip of the weapon, thereby providing progressively resistant give.
 3.  If the weapon has a head, it shall not be constructed of solely rigid materials. The head shall be firmly and securely attached to the haft or handle. The head shall allow at least .5 inch (12.7 mm) of progressive give between the striking surface and the weapon haft or handle.
 4.  The weapon must have the owner’s name, kingdom, and branch clearly and legibly printed on it in English characters for identification.
 5.  Total mass of the weapon shall not exceed 2 pounds (0.91 kg).
-F.  Combat Archery Bows/Crossbows 
+
+### Combat Archery Bows/Crossbows 
 1.  During inspection, all equipment must have its poundage and draw physically measured with a ruler or other metered device and poundage scale.
 2.  Marshals must calibrate their bow scales regularly to be accurate at either 30 or 50 pounds, depending upon the most prevalent bow in their kingdom, as measurements obtained with commonly-used, standard spring-type scales can vary over time.
 3.  No compound bows, nor compound crossbow prods are allowed.
@@ -289,73 +300,79 @@ F.  Combat Archery Bows/Crossbows
 5.  Bows/Crossbows must be powered solely by the flex of the limbs.
 6.  If both Light and Heavy bows/crossbows, by the standards as defined below, are on the field at the same time, then all Heavy bows/crossbows must have their upper limb (or one limb for crossbows) covered with at least 4 inches (10 cm) of red material (tape, cloth, etc).
 7.  Handbows
-a.  A handbow’s power is measured at 28 inches (71 cm). If the bow cannot be drawn 28 inches (71 cm), then it cannot be used in SCA combat.
-b.  The minimum measurement for all handbows is 20 pounds (9.1 kg) at 28 inches (71 cm).
-c.  Light handbows measure 30 pounds (13.6 kg) or less at 28 inches (71 cm).
-d.  Heavy handbows measure 50 pounds (22.7 kg) or less at 28 inches (71 cm).
+    1.  A handbow’s power is measured at 28 inches (71 cm). If the bow cannot be drawn 28 inches (71 cm), then it cannot be used in SCA combat.
+    2.  The minimum measurement for all handbows is 20 pounds (9.1 kg) at 28 inches (71 cm).
+    3.  Light handbows measure 30 pounds (13.6 kg) or less at 28 inches (71 cm).
+    4.  Heavy handbows measure 50 pounds (22.7 kg) or less at 28 inches (71 cm).
 8.  Crossbows
-a.  Crossbows are measured by inch-pounds (”#), which is calculated by taking the poundage of the bow measured at the lock, multiplied by the distance (in inches) from the front of the string at rest, to the front of the string when in cocked position. (A metric measurement of kilogram-centimeters (kg-cm) is also allowed.)
-b.  The minimum measurement for all crossbows is 400”# (461 kg-cm).
-c.  Light crossbows measure 600”# (691 kg-cm) or less.
-d.  Heavy crossbows measure 1000”# (1152 kg-cm) or less.
-e.  No crossbows may have a modern pistol grip.
-G.  Combat Archery Ammunition
+    1.  Crossbows are measured by inch-pounds (”#), which is calculated by taking the poundage of the bow measured at the lock, multiplied by the distance (in inches) from the front of the string at rest, to the front of the string when in cocked position. (A metric measurement of kilogram-centimeters (kg-cm) is also allowed.)
+    2.  The minimum measurement for all crossbows is 400”# (461 kg-cm).
+    3.  Light crossbows measure 600”# (691 kg-cm) or less.
+    4.  Heavy crossbows measure 1000”# (1152 kg-cm) or less.
+    5.  No crossbows may have a modern pistol grip.
+
+### Combat Archery Ammunition
 1.  All ammunition must have the owner’s name and kingdom displayed clearly on it.
 2.  No ammunition may be more than 10% covered in the color yellow.
 3.  No metal can be used as ammunition construction material.
 4.  All ammunition has a maximum length of 28 inches (71 cm) from the back of the blunt, to the string acceptor on the nock.
 5.  Optionally, ammunition may have fletches as long as they are securely attached and made of a soft material. Fletches may not project farther than .5 inch (12.7 mm) from the shaft if they are less than 1.5 inch (38.1 mm) thick.
 6.  Light Ammunition (for use in light bows or light crossbows) 
-a.  Shafts of light ammunition must be solid pultruded fiberglass of between .25 (6.5 mm) and .375 inch (9.5 mm) diameter.
-b.  Fiberglass shall be of a good quality, defined as significant ‘bending’ pressure as applied by a marshal not causing the shaft to break.
-c.  The shaft must be covered from behind the blunt, to the front of the anti-penetration device (APD), in a sturdy tear-resistant tape, such as strapping, electrical, or duct tape.
-d.  Anti-Penetration Devices (APDs) 
-i.  APDs must be attached no further than .5 inch (12.7 mm) from the end of the arrow or bolt (including nock).
-ii. APDs must be attached securely via tape, glue, cable ties, etc. The method does not matter as long as it is securely attached and will not come off during normal use. This will be tested by Marshals will test this by grabbing and pulling on the APD with moderate force while twisting it slightly. If it detaches or moves lengthwise along the shaft, then it is unsafe.
-iii.    The following are the ONLY approved styles of APDs:
-1.      Siloflex equivalent
-a.  APDs must be of Siloflex equivalent material with a pressure rating between 75 and 200psi. The outer diameter must be at least 1.25 inches (31.8 mm) or the inner diameter must be at least 1 inch (25.4 mm).
-b.  There may be no cuts in the back end of the APD.
-c.  The length of the top edge of the APD must be at least 1.25 inches (3.2 cm) if the front is cut square, or .625 (that is, 5/8) inch (16 mm) if the front is cut at a 45 degree angle.
-d.  APD may have a channel routed in the bottom, and/or cuts made in the front edge for helping tape attachment.
-e.  All sharp edges must be eased.
-2.  Asgard
-a.  Asgard APDs have only the following modifications allowed: Cutting the nock off flush for use on a crossbow, making small holes for helping attachment, and roughing surfaces for gluing.
-e.  Blunts
-i.  All blunts must be securely attached via tape, glue, cable ties, etc. The method does not matter as long as it is securely attached; however at least one piece of strapping, electrical or duct tape must extend over the blunt and be securely attached to the shaft on both sides. This will be tested by marshals by grabbing and pulling on the blunt with moderate force while twisting it slightly.
-If the blunt shows signs of moving off of the shaft, then it fails. (Twisting around the shaft is okay.)
-ii. Baldar Blunts
-1.  Baldar Blunts must be of a type designed for use on fiberglass shafts (.25 inch shaft acceptor), and can only be used with .25 inch or 6.5 mm shafts.
-2.  Only the original 2-piece mold Baldar Blunt is allowed. Blunts must be attached in such a way that the blunt can be inspected for the parting line visible around the circumference of the thickest part of the blunt in the 2-piece molds. If no parting line is seen the blunt cannot be used.
-iii.    UHMW (Ultra-High Molecular Weight Polyethylene) 
-1.  UHMW blunts are constructed of at least 1.25 inches (31.8 cm) diameter UHMW rod with a hole drilled in it to accept the shaft.
-2.  The shaft hole must be at least .5 inch (12.7 mm) deep, and there must be at least .5 inch (12.7 mm) of UHMW in front of the shaft.
-3.  At least .5 inch (12.7 mm) and at most 1.25 inch (31.8 cm) of resilient padding after taping must be added in front of the blunt and be at least the same diameter as the blunt.
-4.  The head must have a side-wrap of foam that extends from the tip of the padding to at least .5 inch (12.7 mm) over the UHMW that brings the total diameter of the head to at least 1.5 inch (3.81 mm) after taping.
-5.  The front edges of the blunt must be rounded over.
-6.  As long as all other requirements are met, the blunt may have material removed for aerodynamic or weight reducing purposes.
+    1.  Shafts of light ammunition must be solid pultruded fiberglass of between .25 (6.5 mm) and .375 inch (9.5 mm) diameter.
+    2.  Fiberglass shall be of a good quality, defined as significant ‘bending’ pressure as applied by a marshal not causing the shaft to break.
+    3.  The shaft must be covered from behind the blunt, to the front of the anti-penetration device (APD), in a sturdy tear-resistant tape, such as strapping, electrical, or duct tape.
+    4.  Anti-Penetration Devices (APDs) 
+        1. APDs must be attached no further than .5 inch (12.7 mm) from the end of the arrow or bolt (including nock).
+        2. APDs must be attached securely via tape, glue, cable ties, etc. The method does not matter as long as it is securely attached and will not come off during normal use. This will be tested by Marshals will test this by grabbing and pulling on the APD with moderate force while twisting it slightly. If it detaches or moves lengthwise along the shaft, then it is unsafe.
+        3. The following are the ONLY approved styles of APDs:
+            1. Siloflex equivalent
+                1. APDs must be of Siloflex equivalent material with a pressure rating between 75 and 200psi. The outer diameter must be at least 1.25 inches (31.8 mm) or the inner diameter must be at least 1 inch (25.4 mm).
+                2. There may be no cuts in the back end of the APD.
+                3. The length of the top edge of the APD must be at least 1.25 inches (3.2 cm) if the front is cut square, or .625 (that is, 5/8) inch (16 mm) if the front is cut at a 45 degree angle.
+                4. APD may have a channel routed in the bottom, and/or cuts made in the front edge for helping tape attachment.
+                5. All sharp edges must be eased.
+            2. Asgard
+                1.  Asgard APDs have only the following modifications allowed: Cutting the nock off flush for use on a crossbow, making small holes for helping attachment, and roughing surfaces for gluing.
+    5.  Blunts
+        1.  All blunts must be securely attached via tape, glue, cable ties, etc. The method does not matter as long as it is securely attached; however at least one piece of strapping, electrical or duct tape must extend over the blunt and be securely attached to the shaft on both sides. This will be tested by marshals by grabbing and pulling on the blunt with moderate force while twisting it slightly.
+            If the blunt shows signs of moving off of the shaft, then it fails. (Twisting around the shaft is okay.)
+        2. Baldar Blunts
+            1.  Baldar Blunts must be of a type designed for use on fiberglass shafts (.25 inch shaft acceptor), and can only be used with .25 inch or 6.5 mm shafts.
+            2.  Only the original 2-piece mold Baldar Blunt is allowed. Blunts must be attached in such a way that the blunt can be inspected for the parting line visible around the circumference of the thickest part of the blunt in the 2-piece molds. If no parting line is seen the blunt cannot be used.
+        3. UHMW (Ultra-High Molecular Weight Polyethylene) 
+            1.  UHMW blunts are constructed of at least 1.25 inches (31.8 cm) diameter UHMW rod with a hole drilled in it to accept the shaft.
+            2.  The shaft hole must be at least .5 inch (12.7 mm) deep, and there must be at least .5 inch (12.7 mm) of UHMW in front of the shaft.
+            3.  At least .5 inch (12.7 mm) and at most 1.25 inch (31.8 cm) of resilient padding after taping must be added in front of the blunt and be at least the same diameter as the blunt.
+            4.  The head must have a side-wrap of foam that extends from the tip of the padding to at least .5 inch (12.7 mm) over the UHMW that brings the total diameter of the head to at least 1.5 inch (3.81 mm) after taping.
+            5.  The front edges of the blunt must be rounded over.
+            6.  As long as all other requirements are met, the blunt may have material removed for aerodynamic or weight reducing purposes.
+
 7.  Heavy Ammunition (for use in heavy bows, heavy crossbows, light bows, or light crossbows)
-Heavy ammunition must be of one of three styles: tubular, tennis ball, or Fellwalker.
-a.  Tubular Ammunition
-i.  The shaft must be constructed of Siloflex Equivalent with a pressure rating of 100PSI, 1.25 inches (31.8 mm) exterior diameter or 1 inch (25.4 mm) interior diameter.
-ii. The tail must be left solid for at least 1 inch (25.4 mm). Cuts may be made beyond that in order to install fletches if desired but must have holes drilled at the ends of each cut to keep the cut from spreading. The tail may be slit if a 1 inch (25.4 mm) or longer section of Siloflex is reinserted at the end and laced in place. A nock may be cut into the tail end, but may be no deeper than .5 inch (12.7 mm). Wooden nocks can be installed as long as they are securely attached by drilling and lacing with string.
-iii.    The head must be constructed in one of the following manners.
-Regardless of the construction method, the head must be firmly attached by the use of tape and/ or string. Marshals will check head attachment by pulling on them with a moderate level of force and twisting slightly. If the head shows signs of loosening, it fails inspection.
-1.  Rubber Stopper – A rubber stopper, size 6.5, is placed in the end of the tube such that it enters the tube at least .5 inch (12.7 mm) and is well attached. Resilient padding of at least .5 inch (12.7 mm) and at most 1.25 inch (31.8 mm), after taping, is then added on top of it. The head must also have a side-wrap of foam that extends from the tip of the padding to at least .5 inch (12.7 mm) over the rubber stopper to bring the total diameter of the head to at least 1.5 inch (3.8 cm) after taping.
-2.  Baldar Blunts – Baldar blunts may be used by cutting the support fins away so that the blunt slides over the Siloflex and attaches securely. At least .5 inch (12.7 mm) and at most 1.25 inch (31.8 mm) of resilient padding after taping must be added to the tip. The diameter of the foam after taping must be at least 1.5 inch (3.8 cm). Any classic style of Baldar Blunt can be used in this manner, whether 1 or 2 piece mold or designed for fiberglass or wood.
-3.  Tennis Ball – A tennis ball is placed at the end of the tube and attached via tape and/or string. The ball shall not be perforated as this leads to it getting dirt/water inside of it.
-b.  Tennis Balls
-i.  Regulation tennis balls may be used as ammunition, as is, with the following restrictions.
-1.  Ball must weigh less than 3 ounces (85 grams).
-2.  Ball must not be covered in tape and cannot be yellow. (Dyes or stains may be used to change the color)
-c.  Fellwalker Bolts
-i.  The “Fellwalker design” is approved for crossbows only
-ii. The shaft is of solid fiberglass of between .25 inch (6.5 mm) and .375 (that is, 3/8) inch (9.5 mm) diameter.
-iii.    The blunt is made from UHMW rod of at least 1.25 inches (31.8 mm) diameter with a hole drilled in it to accept the shaft.
-iv. The shaft hole must be at least 1 inch (25.4 mm) deep, and there must be at least 1 inch (25.4 mm) of UHMW in front of the shaft.
-v.  The striking surface must have at least 1 inch (25.4 mm) and at most 1.25 inches (31.8 mm) of resilient foam after taping and be at least the diameter of the blunt.
-vi. The head must have a side-wrap of foam that extends from the tip of the padding to at least .5 inch (12.7 mm) over the UHMW that brings the total diameter of the head to at least 1.5 inch (3.8 cm) after taping.
-vii.    The tail end must have a disk of UHMW installed that is at least 1.25 inches (31.8 mm) diameter, at least .5 inch (12.7 mm) thick, and drilled at least .25 inch (6.5 mm) deep to accept the shaft. The leading edge of the blunt and all edges of the APD shall be rounded over.
+    Heavy ammunition must be of one of three styles: tubular, tennis ball, or Fellwalker.
+
+    1. Tubular Ammunition
+        1.  The shaft must be constructed of Siloflex Equivalent with a pressure rating of 100PSI, 1.25 inches (31.8 mm) exterior diameter or 1 inch (25.4 mm) interior diameter.
+        2. The tail must be left solid for at least 1 inch (25.4 mm). Cuts may be made beyond that in order to install fletches if desired but must have holes drilled at the ends of each cut to keep the cut from spreading. The tail may be slit if a 1 inch (25.4 mm) or longer section of Siloflex is reinserted at the end and laced in place. A nock may be cut into the tail end, but may be no deeper than .5 inch (12.7 mm). Wooden nocks can be installed as long as they are securely attached by drilling and lacing with string.
+        3.    The head must be constructed in one of the following manners.
+
+        Regardless of the construction method, the head must be firmly attached by the use of tape and/ or string. Marshals will check head attachment by pulling on them with a moderate level of force and twisting slightly. If the head shows signs of loosening, it fails inspection.
+
+            1.  Rubber Stopper – A rubber stopper, size 6.5, is placed in the end of the tube such that it enters the tube at least .5 inch (12.7 mm) and is well attached. Resilient padding of at least .5 inch (12.7 mm) and at most 1.25 inch (31.8 mm), after taping, is then added on top of it. The head must also have a side-wrap of foam that extends from the tip of the padding to at least .5 inch (12.7 mm) over the rubber stopper to bring the total diameter of the head to at least 1.5 inch (3.8 cm) after taping.
+            2.  Baldar Blunts – Baldar blunts may be used by cutting the support fins away so that the blunt slides over the Siloflex and attaches securely. At least .5 inch (12.7 mm) and at most 1.25 inch (31.8 mm) of resilient padding after taping must be added to the tip. The diameter of the foam after taping must be at least 1.5 inch (3.8 cm). Any classic style of Baldar Blunt can be used in this manner, whether 1 or 2 piece mold or designed for fiberglass or wood.
+            3.  Tennis Ball – A tennis ball is placed at the end of the tube and attached via tape and/or string. The ball shall not be perforated as this leads to it getting dirt/water inside of it.
+
+    2.  Tennis Balls
+        1.  Regulation tennis balls may be used as ammunition, as is, with the following restrictions.
+            1.  Ball must weigh less than 3 ounces (85 grams).
+            2.  Ball must not be covered in tape and cannot be yellow. (Dyes or stains may be used to change the color)
+    3.  Fellwalker Bolts
+        1. The “Fellwalker design” is approved for crossbows only
+        2. The shaft is of solid fiberglass of between .25 inch (6.5 mm) and .375 (that is, 3/8) inch (9.5 mm) diameter.
+        3. The blunt is made from UHMW rod of at least 1.25 inches (31.8 mm) diameter with a hole drilled in it to accept the shaft.
+        4. The shaft hole must be at least 1 inch (25.4 mm) deep, and there must be at least 1 inch (25.4 mm) of UHMW in front of the shaft.
+        5. The striking surface must have at least 1 inch (25.4 mm) and at most 1.25 inches (31.8 mm) of resilient foam after taping and be at least the diameter of the blunt.
+        6. The head must have a side-wrap of foam that extends from the tip of the padding to at least .5 inch (12.7 mm) over the UHMW that brings the total diameter of the head to at least 1.5 inch (3.8 cm) after taping.
+        7. The tail end must have a disk of UHMW installed that is at least 1.25 inches (31.8 mm) diameter, at least .5 inch (12.7 mm) thick, and drilled at least .25 inch (6.5 mm) deep to accept the shaft. The leading edge of the blunt and all edges of the APD shall be rounded over.
 
 ## SIEGE COMBAT
 A.  General
