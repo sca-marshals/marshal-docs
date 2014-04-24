@@ -240,7 +240,8 @@ Riders may use hand held weapons made of non-brittle materials. All tips and edg
 1. May be up to 9-feet in total length.
 2. Spears and javelins may be equipped with metal tips.
 
-##### Quintain and Ring Lances may be up to 16-feet in length
+##### Quintain and Ring Lances
+Quintain and Ring Lances may be up to 16-feet in length
 
 ##### Bows
 1. Bow poundage is not to exceed 35-pounds for use with target arrows and not to exceed 50-pounds for combat arrows.
