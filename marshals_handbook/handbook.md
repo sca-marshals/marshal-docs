@@ -377,18 +377,21 @@ These weapons may be used for striking and may also be thrown in melee scenarios
         7. The tail end must have a disk of UHMW installed that is at least 1.25 inches (31.8 mm) diameter, at least .5 inch (12.7 mm) thick, and drilled at least .25 inch (6.5 mm) deep to accept the shaft. The leading edge of the blunt and all edges of the APD shall be rounded over.
 
 ## SIEGE COMBAT
-A.  General
+### General
 Siege engines or structures may be used in combat during melees and wars in accordance with the rules set forth in the Siege Engines Handbook.
-B.  Munitions
+
+### Munitions
 1.  Siege-class munitions are denoted by being primarily yellow and include ballista bolts and rocks (1-pound [0.45 kg] foam or 4-tennis-ball clusters).
 2.  Small-arms munitions include single tennis balls and tube shafted combat archery arrows and bolts.
-C.  Blow Acknowledgment
+
+### Blow Acknowledgment
 1.  A blow from siege class ammunition to any legal target area shall be judged fatal or completely disabling.
 2.  Blows from siege class ammunition to shields shall be judged fatal or completely disabling to the bearer of the shield unless otherwise specified by scenario rules.
 3.  Hand-held weapons struck by siege class munitions shall be considered destroyed.
 4.  Small-arms munitions fired from siege engines shall be treated as combat archery projectiles.
 5.  Siege munitions are considered spent upon striking a target, the ground, or a battlefield structure.
-D.  Destroying Siege Engines.
+
+### Destroying Siege Engines.
 1.  Fighters shall stay clear of moving parts and, when possible, approach siege engines/structures from the side.
 2.  Striking or thrusting siege engines/structures with hand-held weapons is strictly prohibited.
 3.  Siege engines may be destroyed by placing a hand-held weapon on the engine/structure and declaring “this weapon is destroyed,” or by being struck by siege-class munitions from another siege engine.
