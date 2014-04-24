@@ -58,20 +58,25 @@ Please note that the rules relating to certain equestrian activities, i.e.  jous
 7. All warranted or rostered marshals shall be members of the Society for Creative Anachronism Inc.
 
 ## Equestrian Authorizations
+
 ### Authorization Requirements. 
 An individual must be an authorized equestrian in order to ride at an event. The only exceptions to this requirement are:
+
 1. An individual in the process of authorizing under the supervision of an Equestrian Marshal.
 2. An individual being led in a processional. The groom leading the horse shall be an authorized equestrian.
 3. Individual[s] demonstrating an activity with the approval of the Kingdom Equestrian Officer. The Equestrian Marshal in Charge of the event (EqMIC) shall oversee the demonstration. This demonstration is subject to the following requirements:
     1. Equestrian waiver[s] must be executed prior to conducting any demonstration under this exception.
     2. The demonstration must be conducted under the supervision of a warranted equestrian marshal.
     3. The EqMIC shall include any waivers signed pursuant to this exception with their event report. Additionally, a description of the demonstration and any comments or concerns should be included in the report.
+
 ### Authorization Types. 
 Equestrians are authorized to participate according to the activities they engage in. Authorizations shall take place at a SCA activity such as an event and/or practice. See III. Event Requirements.
+
 1. General Riding. An individual may be authorized solely for riding. In conducting an authorization, the Authorizing Equestrian Marshal should consider the following:
     1. The individual must demonstrate familiarity with the Society Equestrian Handbook, any Kingdom specific equestrian requirements, and the nature of equestrian activities within the Society.
     2. The individual must demonstrate an awareness of the risks inherent to equestrian activities, including recognition of how their current skill level relates to the horse they intend to ride.
     3. The individual must demonstrate the ability to safely control their horse while engaging in SCA equestrian activities.
+
 ### Mounted Games. 
 Additionally, an equestrian may be authorized for participation in mounted games. In addition to the foregoing, the Authorizing Equestrian Marshal should consider the following:
 
