@@ -158,55 +158,64 @@ Posing for still photographs with real weapons is permitted.
 8.  Owing to safety limits placed on combat archery equipment, and the low mass of the ammunition, arrows and bolts strike with less force. They need not strike with the same force as hand-held weapons for the strikes to be considered killing blows.
 
 ## ARMOR REQUIREMENTS
-A.  Armored Participants
+1. Armored Participants
 All participants on the field during adult armored combat shall meet the Society minimum armor standards for a fully armored combatant. This includes, but is not limited to, combat archers, siege engineers and other combatants.
+
 It does not include marshals, water-bearers, or chirurgeons. All authorized combatants and warranted marshals shall disguise, cover, or remove modern corporate logos and sport gear unless the gear is necessary for medical reasons. Special attention should be paid to appearance and the atmosphere of a medieval event should be maintained.
-B.  Helms 
-1.  Helms shall be constructed from steel which has a thickness of no less than .0625 (that is, 1/16) inch (1.6 mm), or of equivalent material. Alternative materials, such as stainless steel, brass, bronze, or like materials, are permissible as long as the material is structurally equivalent to 0.0625-inch-thick steel. The mass of the helm is an important part of the protection. As such, no titanium, fiberglass, aluminum, or other ultra-light materials may be used unless they meet the equivalent mass, strength, and weight of steel which has a thickness of no less than .0625 (that is, 1/16) inch (1.6 mm). Proof of construction technique, materials, and equivalency must be provided to the kingdom earl marshal (KEM) for an approval for in-kingdom use. If a spun-metal top is to be used in the construction of the helm, it shall be a minimum of 0.0 75 inch (14-gauge or 1.905 mm) steel. The process of spinning the top thins the metal, thereby requiring a heavier gauge.
-2.  All joints or seams shall be constructed in one or a combination of the following ways, with all welds sound and rivets secure:
-a.  Welded on the inside and outside.
-b.  Welded with a single bead that extends through both surfaces.
-c.  Lap joints welded or brazed at the edges of both pieces.
-d.  Helms will be riveted with iron or steel rivets no more than 2.5 inches (63.5 mm) apart, or with equivalent riveting techniques. Screw- and pop-type rivets, along with other lightweight rivets, are not to be used.
-3.  Face guards shall prevent a 1 inch (25.4mm) diameter dowel from entering into any of the face guard openings.
-4.  The face guard shall extend at least 1 inch (25.4mm) below the bottom of the chin and jaw line when the head is held erect.
-5.  Bars used in the face guard shall be steel of not less than .1875 (that is, 3/16) inch (4.8 mm) in diameter, or equivalent. If the span between crossbars is less than 2 inches (50.8 mm), .125 (that is, 1/8) inch (3.18 mm) diameter bars may be used.
-6.  All movable visors shall be attached and secured in such a way that there is minimal chance that they will become detached or come open in normal combat use.
-7.  There shall be NO major internal projections; minor projections of necessary structural components shall be padded. All metal shall be free of sharp edges. Face guard bars or mesh should not attach to the interior of the helm, unless of structurally superior design and workmanship.
-8.  All parts of the helm that might cause injurious contact with the wearer’s head shall be padded with a minimum of .5 inch (12.7 mm) of closed-cell foam or equivalent padding, or shall be suspended in such a way as to prevent contact with the wearer during combat. Similarly, parts of the inside of the helm that might come in contact with the wearer’s neck or body should be padded.
-9.  All helms shall be equipped with a chin strap or equivalent means to prevent the helm from being dislodged or metal contacting the wearer’s face during combat. An equivalent might be, for example, a bevor or a chin-cup suspension system. A “snug fit” is NOT an equivalent. The chin strap shall be, at a minimum, .5 inch (12.7 mm) in width and shall not be placed in the helm in a manner that could strangle the wearer.
-C.  Eye Wear
+
+2.  Helms 
+    1.  Helms shall be constructed from steel which has a thickness of no less than .0625 (that is, 1/16) inch (1.6 mm), or of equivalent material. Alternative materials, such as stainless steel, brass, bronze, or like materials, are permissible as long as the material is structurally equivalent to 0.0625-inch-thick steel. The mass of the helm is an important part of the protection. As such, no titanium, fiberglass, aluminum, or other ultra-light materials may be used unless they meet the equivalent mass, strength, and weight of steel which has a thickness of no less than .0625 (that is, 1/16) inch (1.6 mm). Proof of construction technique, materials, and equivalency must be provided to the kingdom earl marshal (KEM) for an approval for in-kingdom use. If a spun-metal top is to be used in the construction of the helm, it shall be a minimum of 0.0 75 inch (14-gauge or 1.905 mm) steel. The process of spinning the top thins the metal, thereby requiring a heavier gauge.
+    2.  All joints or seams shall be constructed in one or a combination of the following ways, with all welds sound and rivets secure:
+        1.  Welded on the inside and outside.
+        2.  Welded with a single bead that extends through both surfaces.
+        3.  Lap joints welded or brazed at the edges of both pieces.
+        4.  Helms will be riveted with iron or steel rivets no more than 2.5 inches (63.5 mm) apart, or with equivalent riveting techniques. Screw- and pop-type rivets, along with other lightweight rivets, are not to be used.
+    3.  Face guards shall prevent a 1 inch (25.4mm) diameter dowel from entering into any of the face guard openings.
+    4.  The face guard shall extend at least 1 inch (25.4mm) below the bottom of the chin and jaw line when the head is held erect.
+    5.  Bars used in the face guard shall be steel of not less than .1875 (that is, 3/16) inch (4.8 mm) in diameter, or equivalent. If the span between crossbars is less than 2 inches (50.8 mm), .125 (that is, 1/8) inch (3.18 mm) diameter bars may be used.
+    6.  All movable visors shall be attached and secured in such a way that there is minimal chance that they will become detached or come open in normal combat use.
+    7.  There shall be NO major internal projections; minor projections of necessary structural components shall be padded. All metal shall be free of sharp edges. Face guard bars or mesh should not attach to the interior of the helm, unless of structurally superior design and workmanship.
+    8.  All parts of the helm that might cause injurious contact with the wearer’s head shall be padded with a minimum of .5 inch (12.7 mm) of closed-cell foam or equivalent padding, or shall be suspended in such a way as to prevent contact with the wearer during combat. Similarly, parts of the inside of the helm that might come in contact with the wearer’s neck or body should be padded.
+    9.  All helms shall be equipped with a chin strap or equivalent means to prevent the helm from being dislodged or metal contacting the wearer’s face during combat. An equivalent might be, for example, a bevor or a chin-cup suspension system. A “snug fit” is NOT an equivalent. The chin strap shall be, at a minimum, .5 inch (12.7 mm) in width and shall not be placed in the helm in a manner that could strangle the wearer.
+
+3.  Eye Wear
 The lenses of all eyewear shall be constructed of shatterproof industrial safety glass or plastic. Ordinary glass lenses are prohibited. The wearing of contact lenses or “sports glasses” is strongly recommended.
-D.  Neck Armor
+
+4.  Neck Armor
 The neck, including the larynx, cervical vertebrae, and first thoracic vertebra must be covered by one or a combination of the following and must stay covered during typical combat situations, including turning the head, lifting the chin, etc.:
-1.  The helm
-2.  A gorget of rigid material 
-3.  A mail or heavy leather camail or aventail that hangs or drapes to absorb the force of a blow. If the camail or aventail lays in contact with the larynx, cervical vertebrae, or first thoracic vertebra, that section must be padded with a minimum of .25 inch (6mm) of closed cell foam or equivalent
-4.  A collar of heavy leather lined with a minimum of .2 5in (6mm) of close cell foam or equivalent
-E.  Body, Shoulder, and Groin Armor
-1.  The kidney area and the floating ribs shall be covered with a minimum of heavy leather worn over .25 inch (6 mm) of closed-cell foam or equivalent padding.
-2.  For men, the groin must be covered by a minimum of a rigid athletic cup (e.g., an ice hockey, soccer, karate, or baseball cup) worn in a supporter or fighting garment designed to hold the cup in place, or equivalent armor.
-3.  For women, groin protection of closed-cell foam or heavy leather or the equivalent is required to cover the pubic bone area. The wearing of a male athletic cup by female fighters is prohibited.
-4.  Separate breast cups are prohibited unless connected by or mounted on an interconnecting rigid piece, for example, a heavy leather or metal breastplate.
-F.  Hand and Wrist Armor: 
+
+    1.  The helm
+    2.  A gorget of rigid material 
+    3.  A mail or heavy leather camail or aventail that hangs or drapes to absorb the force of a blow. If the camail or aventail lays in contact with the larynx, cervical vertebrae, or first thoracic vertebra, that section must be padded with a minimum of .25 inch (6mm) of closed cell foam or equivalent
+    4.  A collar of heavy leather lined with a minimum of .2 5in (6mm) of close cell foam or equivalent
+5.  Body, Shoulder, and Groin Armor
+    1.  The kidney area and the floating ribs shall be covered with a minimum of heavy leather worn over .25 inch (6 mm) of closed-cell foam or equivalent padding.
+    2.  For men, the groin must be covered by a minimum of a rigid athletic cup (e.g., an ice hockey, soccer, karate, or baseball cup) worn in a supporter or fighting garment designed to hold the cup in place, or equivalent armor.
+    3.  For women, groin protection of closed-cell foam or heavy leather or the equivalent is required to cover the pubic bone area. The wearing of a male athletic cup by female fighters is prohibited.
+    4.  Separate breast cups are prohibited unless connected by or mounted on an interconnecting rigid piece, for example, a heavy leather or metal breastplate.
+5.  Hand and Wrist Armor: 
 The outer surfaces of the hand, to one inch above the wrist of both arms and including the thumb, must be covered by one or a combination of the following:
-1.  A rigid basket or cup hilt with enough bars or plates to prevent a blow from striking the fingers or the back of the hand. If a basket or cup hilt, shield basket, or center-grip shield is used, a vambrace and or partial gauntlet shall cover the remaining exposed portions of the hand and wrist.
-2.  A gauntlet of rigid material either lined with .25 inch (6 mm) of closed-cell foam or equivalent or designed to transfer potentially injurious impact to the surfaces being grasped.
-3.  A gauntlet of heavy leather lined with .5 inch (12 mm) of closed-cell foam or heavy padding. (Note: An ice hockey glove is considered to be the equivalent, but looks blatantly modern; their use is discouraged.) Street hockey gloves are NOT equivalent, as the padding is lighter than a regular ice hockey glove. Street hockey gloves will be treated only as padding.
-4.  A shield with a shield basket or equivalent. A shield alone is NOT sufficient, since it covers the back of the hand, but not the fingers, thumb, or wrist. A shield alone may be considered an equivalent to full hand protection only if no part of the gloved hand or wrist is within 4 inches (10.2 cm) of the edge of the shield while the shield is in use.
-5.  Combat archers, siege engineers, and those using a thrown weapon, need only a half-gauntlet made to the above standards for gauntlets but without finger protection.
-G.  Arm Armor
+
+    1.  A rigid basket or cup hilt with enough bars or plates to prevent a blow from striking the fingers or the back of the hand. If a basket or cup hilt, shield basket, or center-grip shield is used, a vambrace and or partial gauntlet shall cover the remaining exposed portions of the hand and wrist.
+    2.  A gauntlet of rigid material either lined with .25 inch (6 mm) of closed-cell foam or equivalent or designed to transfer potentially injurious impact to the surfaces being grasped.
+    3.  A gauntlet of heavy leather lined with .5 inch (12 mm) of closed-cell foam or heavy padding. (Note: An ice hockey glove is considered to be the equivalent, but looks blatantly modern; their use is discouraged.) Street hockey gloves are NOT equivalent, as the padding is lighter than a regular ice hockey glove. Street hockey gloves will be treated only as padding.
+    4.  A shield with a shield basket or equivalent. A shield alone is NOT sufficient, since it covers the back of the hand, but not the fingers, thumb, or wrist. A shield alone may be considered an equivalent to full hand protection only if no part of the gloved hand or wrist is within 4 inches (10.2 cm) of the edge of the shield while the shield is in use.
+    5.  Combat archers, siege engineers, and those using a thrown weapon, need only a half-gauntlet made to the above standards for gauntlets but without finger protection.
+
+6.  Arm Armor
 The elbow point and bones at either side of the elbow joint must be covered by a rigid material underlain by at least .25 inch (6 mm) of closed-cell foam or equivalent padding. This armor shall be attached in such a way that the elbow remains covered during combat. A shield alone is sufficient on a side-strapped shield, if the elbow is 4 inches (10.2 cm) or more from the edge of the shield during typical use.
-H.  Leg Armor
-1.  The kneecap, including the area one inch (25.4 mm) above and below it, and both sides of the knee joints, must be covered by rigid material, lined by at least .25 inch (6 mm) of closed-cell foam or an equivalent padding. This armor shall be attached in such a way that the knee remains covered during combat.
-2.  Combatants should wear footwear that provides adequate protection and support for the terrain and activity of combat.
-I.  Shields
-1.  Shields shall be edged with leather, padding, or other covering or constructed in such a way as to minimize damage to rattan weapons or other fighters.
-2.  No bolts, wires, or other objects may project more than .375 (that is, 3/8) inch (9 mm) from any part of a shield without being padded. Rounded shield bosses are not considered to be projections.
-3.  Shields may be constructed with leg(s) so that they can act as freestanding pavises during melee combat.
-a.  The leg(s) used to keep the pavise standing must be at least 1.25 inches (31.8 mm) in diameter or 1.25 inches (31.8 mm) square and be well-attached.
-b.  Pavises are destroyed by a single hit from siege engine ammunition. Combatants behind the pavise are not killed. The pavise must then immediately be removed from the field or dropped flat.
-c.  A pavise can be carried in a manner which does not require hand control (such as by a shoulder strap). In this case, the fighter is not allowed to actively block with it, nor can they use their own weapon, and if struck by a hand weapon, the blow is counted as if the pavise was not there.
+
+7.  Leg Armor
+    1.  The kneecap, including the area one inch (25.4 mm) above and below it, and both sides of the knee joints, must be covered by rigid material, lined by at least .25 inch (6 mm) of closed-cell foam or an equivalent padding. This armor shall be attached in such a way that the knee remains covered during combat.
+    2.  Combatants should wear footwear that provides adequate protection and support for the terrain and activity of combat.
+
+8.  Shields
+    1.  Shields shall be edged with leather, padding, or other covering or constructed in such a way as to minimize damage to rattan weapons or other fighters.
+    2.  No bolts, wires, or other objects may project more than .375 (that is, 3/8) inch (9 mm) from any part of a shield without being padded. Rounded shield bosses are not considered to be projections.
+    3.  Shields may be constructed with leg(s) so that they can act as freestanding pavises during melee combat.
+        1.  The leg(s) used to keep the pavise standing must be at least 1.25 inches (31.8 mm) in diameter or 1.25 inches (31.8 mm) square and be well-attached.
+        2.  Pavises are destroyed by a single hit from siege engine ammunition. Combatants behind the pavise are not killed. The pavise must then immediately be removed from the field or dropped flat.
+        3.  A pavise can be carried in a manner which does not require hand control (such as by a shoulder strap). In this case, the fighter is not allowed to actively block with it, nor can they use their own weapon, and if struck by a hand weapon, the blow is counted as if the pavise was not there.
 
 ## WEAPONS STANDARDS
 A.  General
