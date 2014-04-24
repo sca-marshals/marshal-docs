@@ -223,61 +223,40 @@ All equipment must be inspected for use prior to engaging in equestrian combat a
 
 
 ## Glossary.
- 1. Rigid material:
- a. Steel of no less than 18 gauge, or aluminum of no less than 1/8-inch (3mm).
- b. Other metals of sufficient thickness to give similar rigidity to those listed above
- to include treated steel or aluminum.
- c. High impact resistant plastics such as ABS or polyethylene of sufficient
- thickness to give similar rigidity to those listed above.
- d. Heavy leather (as defined above) that has been hardened in hot wax, soaked in
- polyester resin (properly catalyzed), or treated in such a manner as to
- permanently harden the leather.
- e. Two layers of untreated heavy leather.
- f. Other materials equivalent to those items listed above (Any armor of unusual
- construction or material must meet the approval of the Kingdom or Principality
- Earl Marshal or their designated deputy.)
- 2. Non-brittle: Shall refer to material that will not break or shatter upon being
- subjected to a stiff strike.
- Equestrian Handbook, Revised October 10, 2012.
+1. Rigid material:
+    1. Steel of no less than 18 gauge, or aluminum of no less than 1/8-inch (3mm).
+    2. Other metals of sufficient thickness to give similar rigidity to those listed above to include treated steel or aluminum.
+    3. High impact resistant plastics such as ABS or polyethylene of sufficient thickness to give similar rigidity to those listed above.
+    4. Heavy leather (as defined above) that has been hardened in hot wax, soaked in polyester resin (properly catalyzed), or treated in such a manner as to permanently harden the leather.
+    5. Two layers of untreated heavy leather.
+    6. Other materials equivalent to those items listed above (Any armor of unusual construction or material must meet the approval of the Kingdom or Principality Earl Marshal or their designated deputy.)
+2. Non-brittle: Shall refer to material that will not break or shatter upon being subjected to a stiff strike.
 
-Appendix 1- Insurance Ordering Instructions
- The Equestrian Marshal in Charge is responsible for ensuring that the SCA equestrian insurance
- policy has been activated whenever an equine attends an SCA event.
- Ordering an Equestrian Insurance Certificate is mandatory for parades and demos where horses
- and riders are representing the SCA. When ordering the Insurance Certificate, use the name and
- address of the sponsor of the parade or demo.
- Definitions
- Additional insured: An additional party (other than the SCA, Inc.) to whom some of the
- protection of the insurance policy is extended for the duration of the event, and who is as a result
- named in the certificate as being covered by the insurance policy. Normally a site owner will
- require “additional insured” language as part of the site contract if this is necessary.
- Certificate: A document provided by the insurance company certifying that the insurance policy
- has been activated for the event.
- Certificate holder: The site owner or their agent to whom the certificate is intended to
- communicate the existence and validity of the insurance policy.
- Event coordinator: The person requesting the certificate, usually either the Autocrat,
- Equestrian Liaison, or the EqMIC.
- Insurance Fees
- Current ordering instructions and fee schedules can be found at www.sca.org/docs. Scroll
- halfway down the page and find it under the Insurance heading. Read both documents and
- follow the directions. [http://www.sca.org/docs/pdf/insurancecert.pdf](http://www.sca.org/docs/pdf/insurancecert.pdf)
- Insurance Timeline
- 45 days before the event. The EqMIC should verify that the event coordinator has ordered the
- equestrian insurance.
- 30 days before the event: Both the request to activate the insurance and the payment must have
- reached the SCA corporate office 30 days before the event in order to avoid the \$100 late fee.
- Less than 30 days before the event: It is recommended the EqMIC should send the KEO a copy
- of the insurance certificate prior to the event.
- Insurance for Practices
- Multiple regularly scheduled practices may rely on a single equestrian insurance certificate (and
- a single activation fee) for an entire calendar year. The following restrictions apply in this case,
- and must be specified when the certificate is ordered:
- 1. The location of all practices must be the same.
- 2. The dates for all practices must be specified in advance.
- 3. The times must be single contiguous time spans of not more than 12 hours occurring on
- non-consecutive days.
- Any variations from the pre-determined practice schedule would constitute a unique event and
- would require an independent activation of the equestrian insurance policy. For more
- information: [http://www.sca.org/docs/pdf/eq-insurance.pdf.](http://www.sca.org/docs/pdf/eq-insurance.pdf)For ordering instructions:
- [http://sca.org/docs/pdf/insurancecert.pdf.](http://sca.org/docs/pdf/insurancecert.pdf)
- Equestrian Handbook, Revised October 10, 2012.
+# Appendix 1 - Insurance Ordering Instructions
+
+The Equestrian Marshal in Charge is responsible for ensuring that the SCA equestrian insurance policy has been activated whenever an equine attends an SCA event.
+
+Ordering an Equestrian Insurance Certificate is mandatory for parades and demos where horses and riders are representing the SCA. When ordering the Insurance Certificate, use the name and address of the sponsor of the parade or demo.
+
+## Definitions
+* *Additional insured*: An additional party (other than the SCA, Inc.) to whom some of the protection of the insurance policy is extended for the duration of the event, and who is as a result named in the certificate as being covered by the insurance policy. Normally a site owner will require “additional insured” language as part of the site contract if this is necessary.
+* *Certificate*: A document provided by the insurance company certifying that the insurance policy has been activated for the event.
+* *Certificate holder*: The site owner or their agent to whom the certificate is intended to communicate the existence and validity of the insurance policy.
+* *Event coordinator*: The person requesting the certificate, usually either the Autocrat, Equestrian Liaison, or the EqMIC.
+
+## Insurance Fees
+Current ordering instructions and fee schedules can be found at www.sca.org/docs. Scroll halfway down the page and find it under the Insurance heading. Read both documents and follow the directions. [http://www.sca.org/docs/pdf/insurancecert.pdf](http://www.sca.org/docs/pdf/insurancecert.pdf)
+
+## Insurance Timeline
+* *45 days before the event*. The EqMIC should verify that the event coordinator has ordered the equestrian insurance.
+* *30 days before the event*: Both the request to activate the insurance and the payment must have reached the SCA corporate office 30 days before the event in order to avoid the \$100 late fee.
+* *Less than 30 days before the event*: It is recommended the EqMIC should send the KEO a copy of the insurance certificate prior to the event.
+
+## Insurance for Practices
+Multiple regularly scheduled practices may rely on a single equestrian insurance certificate (and a single activation fee) for an entire calendar year. The following restrictions apply in this case, and must be specified when the certificate is ordered:
+
+1. The location of all practices must be the same.
+2. The dates for all practices must be specified in advance.
+3. The times must be single contiguous time spans of not more than 12 hours occurring on non-consecutive days.
+
+Any variations from the pre-determined practice schedule would constitute a unique event and would require an independent activation of the equestrian insurance policy. For more information: [http://www.sca.org/docs/pdf/eq-insurance.pdf.](http://www.sca.org/docs/pdf/eq-insurance.pdf)For ordering instructions: [http://sca.org/docs/pdf/insurancecert.pdf.](http://sca.org/docs/pdf/insurancecert.pdf)
