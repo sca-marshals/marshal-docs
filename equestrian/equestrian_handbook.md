@@ -30,48 +30,7 @@ Introduction to the Society Equestrian Handbook
  equestrian activities, i.e. jousting, mounted combat, etc., that were formerly contained in
  this handbook have been broken out into a separate set of guidelines in order to allow
  easier dissemination of information relating to those activities.
- Table of contents
- Section
- Page
- Introduction
- 3
- Part I- Equestrian Program
- 4
- A. Society Equestrian Officer (SEO)
- 4
- B. Kingdom Equestrian Officers (KEOs)
- 4
- C. Equestrian Marshals
- 5
- Part II- Equestrian Authorizations
- 6
- A. Authorization Required
- 6
- B. Authorization Types
- 6
- C. Waiver Required
- 7
- D. Maximum Term for Authorization
- 7
- E. Out of Kingdom Authorizations
- 7
- Part III- Equestrian Requirements
- 7
- A. Equestrian Events
- 7
- B. Equestrian Marshal in Charge (EqMIC)
- 7
- C. Rider Responsibility
- 8
- Part IV- Equipment Standards
- 9
- A. Equipment Standards
- 9
- B. Glossary
- 12
- Appendix 1- Insurance instructions
- 13
- Equestrian Handbook, Revised October 10, 2012.
+
 
 I. Equestrian Program
  A. Society Equestrian Officer
