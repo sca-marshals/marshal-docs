@@ -221,7 +221,8 @@ Sturdier ‘Boffer’ style weapons are used in this activity.
 6. Maximum weight should not exceed 4-pounds.
 7. Thrusting tips are not allowed in mounted combat.
 
-##### Weapons constructed other than as set out above may be approved on a kingdom level basis for use in Mounted Crest Combat or Heavy Mounted Combat. Construction methods for these weapons vary; therefore only weapons equivalent to the weapons described above shall be used. If there is a question regarding equivalency, the KEO shall make the determination.
+##### Other weapons
+Weapons constructed other than as set out above may be approved on a kingdom level basis for use in Mounted Crest Combat or Heavy Mounted Combat. Construction methods for these weapons vary; therefore only weapons equivalent to the weapons described above shall be used. If there is a question regarding equivalency, the KEO shall make the determination.
 
 ##### Mounted Games
 Riders may use hand held weapons made of non-brittle materials. All tips and edges should be blunted.
