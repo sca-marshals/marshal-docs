@@ -350,7 +350,6 @@ These weapons may be used for striking and may also be thrown in melee scenarios
 7.  Heavy Ammunition (for use in heavy bows, heavy crossbows, light bows, or light crossbows)
 
     Heavy ammunition must be of one of three styles: tubular, tennis ball, or Fellwalker.
-
     1. Tubular Ammunition
         1.  The shaft must be constructed of Siloflex Equivalent with a pressure rating of 100PSI, 1.25 inches (31.8 mm) exterior diameter or 1 inch (25.4 mm) interior diameter.
         2. The tail must be left solid for at least 1 inch (25.4 mm). Cuts may be made beyond that in order to install fletches if desired but must have holes drilled at the ends of each cut to keep the cut from spreading. The tail may be slit if a 1 inch (25.4 mm) or longer section of Siloflex is reinserted at the end and laced in place. A nock may be cut into the tail end, but may be no deeper than .5 inch (12.7 mm). Wooden nocks can be installed as long as they are securely attached by drilling and lacing with string.
