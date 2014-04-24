@@ -58,31 +58,34 @@ Please note that the rules relating to certain equestrian activities, i.e.  jous
 7. All warranted or rostered marshals shall be members of the Society for Creative Anachronism Inc.
 
 ## Equestrian Authorizations
-1. Authorization Requirements. An individual must be an authorized equestrian in order to ride at an event. The only exceptions to this requirement are:
-    1. An individual in the process of authorizing under the supervision of an Equestrian Marshal.
-    2. An individual being led in a processional. The groom leading the horse shall be an authorized equestrian.
-    3. Individual[s] demonstrating an activity with the approval of the Kingdom Equestrian Officer. The Equestrian Marshal in Charge of the event (EqMIC) shall oversee the demonstration. This demonstration is subject to the following requirements:
-        1. Equestrian waiver[s] must be executed prior to conducting any demonstration under this exception.
-        2. The demonstration must be conducted under the supervision of a warranted equestrian marshal.
-        3. The EqMIC shall include any waivers signed pursuant to this exception with their event report. Additionally, a description of the demonstration and any comments or concerns should be included in the report.
-2. Authorization Types. Equestrians are authorized to participate according to the activities they engage in. Authorizations shall take place at a SCA activity such as an event and/or practice. See III. Event Requirements.
-    1. General Riding. An individual may be authorized solely for riding. In conducting an authorization, the Authorizing Equestrian Marshal should consider the following:
-        1. The individual must demonstrate familiarity with the Society Equestrian Handbook, any Kingdom specific equestrian requirements, and the nature of equestrian activities within the Society.
-        2. The individual must demonstrate an awareness of the risks inherent to equestrian activities, including recognition of how their current skill level relates to the horse they intend to ride.
-        3. The individual must demonstrate the ability to safely control their horse while engaging in SCA equestrian activities.
-    2. Mounted Games. Additionally, an equestrian may be authorized for participation in mounted games. In addition to the foregoing, the Authorizing Equestrian Marshal should consider the following:
-        1. The individual must demonstrate familiarity with the equipment used in SCA mounted games.
-        2. The individual must demonstrate the ability to safely control their horse while engaging in SCA equestrian activities while encumbered by the appropriate equipment.
-        3. Youths may be authorized as equestrians subject to the following limitations:
-            1. Youths must be at least five (5) years of age in order to participate in equestrian activities, and be able to demonstrate the ability to control the equine, unassisted, at the gaits and in the activities covered by the authorization sought.  Age restrictions required by individual site owners must be observed.
-            2. Youths are prohibited from participating in activities requiring a helm, namely jousting and mounted combat.
-            3. A parent or legal guardian must be immediately available to the Equestrian Marshal in Charge when a youth is engaged in equestrian activities, including serving as ground crew.
-            4. A parent or legal guardian must attend the authorization process and execute a waiver authorizing a youth to participate in equestrian activities. The parent or legal guardian must also sign the authorization form.
-            5. Youths must wear heeled shoes and approved equestrian riding helmets fitted according to the manufacturer's directions and while mounted.
-        4. Authorizations shall not be issued to persons residing in other kingdoms unless such persons are defined as subjects of the issuing kingdom by specific royal treaty or by exceptions under parts II.4.a and II.4.b.
-            1. Individuals residing in a Kingdom without an EQ program may be authorized in ONE other Kingdom, providing the KEM of the Kingdom the individual resides in approves, and both the KEO and KEM of the sponsoring Kingdom are willing to sponsor said individual.
-            2. Individuals residing in a Kingdom that has an EQ program, but does not have specialty activities in their program can authorize for these specialty activities in ONE other Kingdom, providing both the KEO and KEM of the Kingdom the individual resides in approves, and both the KEO and KEM of the sponsoring Kingdom are willing to sponsor said individual.
-            3. For authorizations done under parts II.4.a or II.4.b, The sponsoring Kingdom Equestrian Officer shall maintain a record of all such authorizations and administer them in the same manner as resident authorizations
+### Authorization Requirements. 
+An individual must be an authorized equestrian in order to ride at an event. The only exceptions to this requirement are:
+1. An individual in the process of authorizing under the supervision of an Equestrian Marshal.
+2. An individual being led in a processional. The groom leading the horse shall be an authorized equestrian.
+3. Individual[s] demonstrating an activity with the approval of the Kingdom Equestrian Officer. The Equestrian Marshal in Charge of the event (EqMIC) shall oversee the demonstration. This demonstration is subject to the following requirements:
+    1. Equestrian waiver[s] must be executed prior to conducting any demonstration under this exception.
+    2. The demonstration must be conducted under the supervision of a warranted equestrian marshal.
+    3. The EqMIC shall include any waivers signed pursuant to this exception with their event report. Additionally, a description of the demonstration and any comments or concerns should be included in the report.
+### Authorization Types. 
+Equestrians are authorized to participate according to the activities they engage in. Authorizations shall take place at a SCA activity such as an event and/or practice. See III. Event Requirements.
+1. General Riding. An individual may be authorized solely for riding. In conducting an authorization, the Authorizing Equestrian Marshal should consider the following:
+    1. The individual must demonstrate familiarity with the Society Equestrian Handbook, any Kingdom specific equestrian requirements, and the nature of equestrian activities within the Society.
+    2. The individual must demonstrate an awareness of the risks inherent to equestrian activities, including recognition of how their current skill level relates to the horse they intend to ride.
+    3. The individual must demonstrate the ability to safely control their horse while engaging in SCA equestrian activities.
+### Mounted Games. 
+Additionally, an equestrian may be authorized for participation in mounted games. In addition to the foregoing, the Authorizing Equestrian Marshal should consider the following:
+    1. The individual must demonstrate familiarity with the equipment used in SCA mounted games.
+    2. The individual must demonstrate the ability to safely control their horse while engaging in SCA equestrian activities while encumbered by the appropriate equipment.
+### Youths may be authorized as equestrians subject to the following limitations:
+1. Youths must be at least five (5) years of age in order to participate in equestrian activities, and be able to demonstrate the ability to control the equine, unassisted, at the gaits and in the activities covered by the authorization sought.  Age restrictions required by individual site owners must be observed.
+2. Youths are prohibited from participating in activities requiring a helm, namely jousting and mounted combat.
+3. A parent or legal guardian must be immediately available to the Equestrian Marshal in Charge when a youth is engaged in equestrian activities, including serving as ground crew.
+4. A parent or legal guardian must attend the authorization process and execute a waiver authorizing a youth to participate in equestrian activities. The parent or legal guardian must also sign the authorization form.
+5. Youths must wear heeled shoes and approved equestrian riding helmets fitted according to the manufacturer's directions and while mounted.
+### Authorizations shall not be issued to persons residing in other kingdoms unless such persons are defined as subjects of the issuing kingdom by specific royal treaty or by exceptions under parts II.4.a and II.4.b.
+1. Individuals residing in a Kingdom without an EQ program may be authorized in ONE other Kingdom, providing the KEM of the Kingdom the individual resides in approves, and both the KEO and KEM of the sponsoring Kingdom are willing to sponsor said individual.
+2. Individuals residing in a Kingdom that has an EQ program, but does not have specialty activities in their program can authorize for these specialty activities in ONE other Kingdom, providing both the KEO and KEM of the Kingdom the individual resides in approves, and both the KEO and KEM of the sponsoring Kingdom are willing to sponsor said individual.
+3. For authorizations done under parts II.4.a or II.4.b, The sponsoring Kingdom Equestrian Officer shall maintain a record of all such authorizations and administer them in the same manner as resident authorizations
 
 ## Waiver requirement. 
 The "Waiver and Informed Consent to Participate in SCA Inc.  Equestrian Activities" shall be signed during authorization with only one signature per form. If a State specific "Waiver" is available it should be used. If there is no "Waiver" for your State, then use the "Society Standard Equine Activity Liability Form". An additional sheet may be attached to contain additional personal information. This requirement does not apply to areas and countries that are covered by affiliate corporations.
