@@ -106,91 +106,41 @@ No authorization may be for a period greater than 4 years.
 Valid authorization cards shall be accepted outside the issuing kingdom as proof of authorizations. Visitors with a valid authorization card from another kingdom must abide by the equestrian regulations of the kingdom they are visiting. Kingdoms may define additional requirements before renewing an authorization card for a person who has moved into that kingdom from another kingdom.
 
 # Event Requirements
- A. Equestrian events. An autocrat or event steward wishing to include equestrian
- activities at an event shall arrange for a warranted equestrian marshal to serve as the
- Equestrian Marshal in Charge (EqMIC).
- 1. Any event at which equestrian activities occur is considered an equestrian event.
- B. Equestrian Marshal in Charge. An Equestrian Marshal in Charge shall be responsible
- for the following:
- 1. At least 45 days in advance:
- (a) Determine the suitability of the site for conducting equestrian activities.
- (b) Notifying the KEO of the intention to conduct equestrian activities at the event.
- (c) Ensuring that equestrian insurance coverage is activated. Equestrian insurance
- may be requested by the event steward or by the EqMIC with the event
- steward’s approval. Instructions are contained in Appendix 1.
- 2. Prior to the event:
- (a) Confirming that insurance has been activated.
- (b) Performing a site assessment to determine if there is a need for site-specific
- requirements.
- (c) Create a veterinarian contact list to be posted.
- 3. Day of the event:
- (a) Verify all required signage has been posted in view at the event. There is a
- guide to the waivers and signage that may be found at:
- [http://www.sca.org/officers/equestrian/waiver\_ann.pdf.](http://www.sca.org/officers/equestrian/waiver_ann.pdf)The general and state
- specific waivers may be found at:
- [http://www.sca.org/docs/AdultEquestrianWaivers.pdf.](http://www.sca.org/docs/AdultEquestrianWaivers.pdf)Signage does not apply to
- areas and countries that are covered by affiliate corporations. Please note these
- links are subject to change and the EqMIC must use the most current forms.
- (b) Verify that all required health, safety and transportation documentation has been
- collected from those participating in equestrian activities. This includes
- collecting signatures on the appropriate waivers from those who have a high
- probability of coming into contact with equines. For any event where equidae
- are to be allowed outside of a designated equestrian area (i.e., allowed to
- ridden around the site where general activities and attendees are present),
- an equestrian waiver must be signed in addition to any other required
- waivers by ALL event attendees (presumably at the gate as they arrive).
- (c) Overseeing the equestrian activities, including issues of equestrian participation
- and conduct. The EqMIC has authority to suspend an individual’s right to
- participate in equestrian activities for the event where they are serving as
- EqMIC. If necessary, the EqMIC has the authority to advise the seneschal to
- withdraw SCA sanction from the equestrian portion of an event as outlined in
- Corpora.
- (d) Remain on site throughout the duration of an event, practice or demo where
- horses are present for SCA activities. An EqMIC's duties may be reassigned to a
- deputy.
- (e) Post and/or distribute the veterinarian contact list.
- 4. Reporting the event:
- (a) The EqMIC must send a written report of each equestrian event to the KEO
- within 10 business days after the event. This report shall include the total
- Equestrian Handbook, Revised October 10, 2012.
+1. Equestrian events. An autocrat or event steward wishing to include equestrian activities at an event shall arrange for a warranted equestrian marshal to serve as the Equestrian Marshal in Charge (EqMIC).
+    1. Any event at which equestrian activities occur is considered an equestrian event.
+2. Equestrian Marshal in Charge. An Equestrian Marshal in Charge shall be responsible for the following:
+    1. At least 45 days in advance:
+        1. Determine the suitability of the site for conducting equestrian activities.
+        2. Notifying the KEO of the intention to conduct equestrian activities at the event.
+        3. Ensuring that equestrian insurance coverage is activated. Equestrian insurance may be requested by the event steward or by the EqMIC with the event steward’s approval. Instructions are contained in Appendix 1.
+    2. Prior to the event:
+        1. Confirming that insurance has been activated.
+        2. Performing a site assessment to determine if there is a need for site-specific requirements.
+        3. Create a veterinarian contact list to be posted.
+    3. Day of the event:
+        1. Verify all required signage has been posted in view at the event. There is a guide to the waivers and signage that may be found at: [http://www.sca.org/officers/equestrian/waiver\_ann.pdf.](http://www.sca.org/officers/equestrian/waiver_ann.pdf) The general and state specific waivers may be found at:
+     [http://www.sca.org/docs/AdultEquestrianWaivers.pdf.](http://www.sca.org/docs/AdultEquestrianWaivers.pdf) Signage does not apply to areas and countries that are covered by affiliate corporations. Please note these links are subject to change and the EqMIC must use the most current forms.
+        2. Verify that all required health, safety and transportation documentation has been collected from those participating in equestrian activities. This includes collecting signatures on the appropriate waivers from those who have a high probability of coming into contact with equines. For any event where equidae are to be allowed outside of a designated equestrian area (i.e., allowed to ridden around the site where general activities and attendees are present), an equestrian waiver must be signed in addition to any other required waivers by ALL event attendees (presumably at the gate as they arrive).
+        3. Overseeing the equestrian activities, including issues of equestrian participation and conduct. The EqMIC has authority to suspend an individual’s right to participate in equestrian activities for the event where they are serving as EqMIC. If necessary, the EqMIC has the authority to advise the seneschal to withdraw SCA sanction from the equestrian portion of an event as outlined in Corpora.
+        4. Remain on site throughout the duration of an event, practice or demo where horses are present for SCA activities. An EqMIC's duties may be reassigned to a deputy.
+        5. Post and/or distribute the veterinarian contact list.
+    4. Reporting the event:
+        1. The EqMIC must send a written report of each equestrian event to the KEO within 10 business days after the event. This report shall include the total number in attendance, number of equines, number of riders, type of equestrian activities performed, and any concerns or incidents arising from the event.
+        2. In the event of an injury to a person or animal, requiring medical attention, occurring at a Society-sponsored equestrian activity, the EqMIC will make an oral report to the Event Autocrat and the KEO within 24 hours of being notified of the incident, followed by a written report to the same within 72 hours delineating the circumstances of the incident. If the injury is to a person, then a copy of the report should also go to the Kingdom Chirurgeon and Kingdom Seneschal.
+        3. In the event of a suspension of an individual’s right to participate in equestrian activities, the EqMIC should include in their report a description of the circumstance that led to the suspension. The report should also include the names and contact information of parties or witnesses to the incident, as well as any statements relating to the incident.
+    5. The EqMIC may designate other warranted Equestrian Marshals to assist them in fulfilling their responsibilities. In the event of an infraction or incident, an Equestrian Marshal must report to the EqMIC, who shall undertake to resolve the issue as set out in section 3 (c) above.
+3. Rider responsibility.
+    1. In order to participate in equestrian activities, each equestrian must accept responsibility for the following:
+        1. Taking reasonable and prudent steps to ensure the well being of any equines over which they have control.
+        2. Determining if there is a mount suitable for their use. They should consult the owner of, or person familiar with, any equine that they are not already familiar with prior to mounting.
+        3. Determining if there is suitable tack or equipment for their use.
+        4. Limiting their participation to those activities in which they can maintain control of their mount.
+        5. Exercising discretion when engaging in equestrian activities, recognizing a need to avoid situations that create dangerous conditions. This includes maintaining an appropriate safety zone around the equine.
+        6. Following the instructions of any equestrian marshals, in particular the instructions of the EqMIC.
+    2. Failure to fulfill the above responsibilities may result in suspension of the rider’s privilege to participate in equestrian activities for the duration of the event.
 
-number in attendance, number of equines, number of riders, type of equestrian
- activities performed, and any concerns or incidents arising from the event.
- (b) In the event of an injury to a person or animal, requiring medical attention,
- occurring at a Society-sponsored equestrian activity, the EqMIC will make an
- oral report to the Event Autocrat and the KEO within 24 hours of being notified
- of the incident, followed by a written report to the same within 72 hours
- delineating the circumstances of the incident. If the injury is to a person, then a
- copy of the report should also go to the Kingdom Chirurgeon and Kingdom
- Seneschal.
- (c) In the event of a suspension of an individual’s right to participate in equestrian
- activities, the EqMIC should include in their report a description of the
- circumstance that led to the suspension. The report should also include the
- names and contact information of parties or witnesses to the incident, as well as
- any statements relating to the incident.
- 5. The EqMIC may designate other warranted Equestrian Marshals to assist them in
- fulfilling their responsibilities. In the event of an infraction or incident, an
- Equestrian Marshal must report to the EqMIC, who shall undertake to resolve the
- issue as set out in section 3 (c) above.
- C. Rider responsibility.
- 1. In order to participate in equestrian activities, each equestrian must accept
- responsibility for the following:
- (a) Taking reasonable and prudent steps to ensure the well being of any equines
- over which they have control.
- (b) Determining if there is a mount suitable for their use. They should consult the
- owner of, or person familiar with, any equine that they are not already familiar
- with prior to mounting.
- (c) Determining if there is suitable tack or equipment for their use.
- (d) Limiting their participation to those activities in which they can maintain
- control of their mount.
- (e) Exercising discretion when engaging in equestrian activities, recognizing a need
- to avoid situations that create dangerous conditions. This includes maintaining
- an appropriate safety zone around the equine.
- (f) Following the instructions of any equestrian marshals, in particular the
- instructions of the EqMIC.
- 2. Failure to fulfill the above responsibilities may result in suspension of the rider’s
- privilege to participate in equestrian activities for the duration of the event.
- IV- Equipment Standards
+
+IV- Equipment Standards
  A. Equipment Standards: All equipment must be inspected for use prior to engaging in
  equestrian combat activities.
  1. Armor requirements:
