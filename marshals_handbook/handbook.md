@@ -75,9 +75,9 @@ The Crown may not simply grant an authorization, unless the recipient has succes
 6.  Application of Rule 7: No one is required to engage in SCA combat should he or she prefer not to do so.
 7.  Application of Rule 8: Since fighting with real weapons is forbidden at any Society event, threatening the use of such weapons is likewise expressly forbidden.
 
-At the discretion of the sovereign and the MIC, recognized experts may be permitted to present choreographed demonstrations with real weapons under strictly controlled conditions.
+    At the discretion of the sovereign and the MIC, recognized experts may be permitted to present choreographed demonstrations with real weapons under strictly controlled conditions.
 
-No one may wear any real weapon onto the field while participating in combat or present during combat. At the discretion of the sovereign and the MIC, an exception may be made for marshals or other noncombatants to wear knives bonded with peace straps.
+    No one may wear any real weapon onto the field while participating in combat or present during combat. At the discretion of the sovereign and the MIC, an exception may be made for marshals or other noncombatants to wear knives bonded with peace straps.
 Posing for still photographs with real weapons is permitted.
 
 8.  Application of Rule 9: The prohibition on thrown weapons refers to weapons thrown in combat or thrown in a hostile manner. It does not apply to “tossing,” defined as a gentle, short-range method of transferring or removing a tournament weapon or item from the list field or area of combat. The use of bows and arrows, firearms, slings, javelins, throwing axes, throwing knives, or any other projectile weapon is forbidden within tournament lists, or in any other situation where spectators cannot be separated from the potential line of fire by more than the effective range of the weapon.
