@@ -153,76 +153,37 @@ All equipment must be inspected for use prior to engaging in equestrian combat a
 
 1. Armor requirements:
     1. Helm.
- (1) Helms must be of rigid materials (18-gauge mild steel or equivalent).
- Fencing masks are acceptable for mounted crest combat use only.
- Equestrian Handbook, Revised October 10, 2012.
+        1. Helms must be of rigid materials (18-gauge mild steel or equivalent).  Fencing masks are acceptable for mounted crest combat use only.  Equestrian Handbook, Revised October 10, 2012.
+        2. Face guards shall prevent a 1-inch (25.4mm) diameter dowel from entering into any of the face guard openings.
+        3. The face guard shall extend at least 1-inch (25.4mm) below the bottom of the chin and jaw line when the head is held erect.
+        4. All movable visors shall be attached and secured in such a way that there is minimal chance that they will become detached or come open in normal mounted combat or jousting use.
+        5. There shall be NO major internal projections; minor projections of necessary structural components shall be padded. All metal shall be free of sharp edges.  Face guard bars or mesh should not attach to the interior of the helm, unless of structurally superior design and workmanship.
+        6. All parts of the helm that might come into injurious contact with the wearer’s head shall be padded with a minimum of ½-inch (12.7mm) of closed-cell foam or equivalent padding, or shall be suspended in such a way as to prevent injurious contact with the wearer during combat. Additional padding is not required for fencing masks used for mounted crest combat only.
+        7. All helms shall be equipped with a chinstrap or equivalent means to prevent the helm from being dislodged or metal contacting the wearer’s face during combat. An equivalent might be, for example, a bevor or a chin-cup suspension system. A “snug fit” is NOT an equivalent. The chinstrap shall be at a minimum a ½-inch (12.7mm) in width and shall not be placed in the helm in a manner that could strangle the wearer.
 
-(2) Face guards shall prevent a 1-inch (25.4mm) diameter dowel from entering
- into any of the face guard openings.
- (3) The face guard shall extend at least 1-inch (25.4mm) below the bottom of the
- chin and jaw line when the head is held erect.
- (4) All movable visors shall be attached and secured in such a way that there is
- minimal chance that they will become detached or come open in normal
- mounted combat or jousting use.
- (5) There shall be NO major internal projections; minor projections of necessary
- structural components shall be padded. All metal shall be free of sharp edges.
- Face guard bars or mesh should not attach to the interior of the helm, unless
- of structurally superior design and workmanship.
- (6) All parts of the helm that might come into injurious contact with the wearer’s
- head shall be padded with a minimum of ½-inch (12.7mm) of closed-cell
- foam or equivalent padding, or shall be suspended in such a way as to prevent
- injurious contact with the wearer during combat. Additional padding is not
- required for fencing masks used for mounted crest combat only.
- (7) All helms shall be equipped with a chinstrap or equivalent means to prevent
- the helm from being dislodged or metal contacting the wearer’s face during
- combat. An equivalent might be, for example, a bevor or a chin-cup
- suspension system. A “snug fit” is NOT an equivalent. The chinstrap shall be
- at a minimum a ½-inch (12.7mm) in width and shall not be placed in the
- helm in a manner that could strangle the wearer.
- (b) Crests for mounted crest combat.
- (1) Crests shall be at least 5-inches in height.
- (2) The crest must be constructed so as not to present an undue hazard if a rider
- should land on it, or a horse step on it.
- (3) The crest must be attached in such a way so as to be easily dislodged by a
- minimal force blow. Velcro or similar methods are recommended.
- (c) Neck Armor. The neck, including the larynx, cervical vertebrae, and first
- thoracic vertebra must be covered by one or a combination of the following and
- must stay covered during typical combat situations, including turning the head,
- lifting the chin, etc.
- (1) The helm.
- (2) A gorget of rigid material or heavy leather, lined with ¼-inch (6mm) of
- closed cell foam or equivalent padding.
- (3) A camail or aventail of mail or heavy leather, lined with ¼-inch (6mm) of
- closed cell foam or equivalent padding.
- (d) Body. Foam tipped jousting only and suggested for heavy mounted combat -
- rigid material covering chest and torso. Standard equestrian riding vests are
- deemed equivalent.
- (e) Groin. Foam tipped jousting only - groin area must be protected by sufficient
- means including saddle or armor.
- (f) Hands.
- (1) Heavy mounted combat and mounted crest combat - leather gloves.
- (2) Foam tipped jousting - hands must be protected. This can include use of a
- shield, demi or full gauntlets, or equivalent (i.e. vamplate on lance).
- (g) Leg, arm, and shoulder protection - armor recommended, but not required.
- Equestrian Handbook, Revised October 10, 2012.
-
-(h) Shields: The shields must be constructed of rigid, non-brittle, materials.
- Recommended is ½-inch plywood. The edges should be blunt and corners
+    2. Crests for mounted crest combat.
+        1. Crests shall be at least 5-inches in height.
+        2. The crest must be constructed so as not to present an undue hazard if a rider should land on it, or a horse step on it.
+        3. The crest must be attached in such a way so as to be easily dislodged by a minimal force blow. Velcro or similar methods are recommended.
+    3. Neck Armor. The neck, including the larynx, cervical vertebrae, and first thoracic vertebra must be covered by one or a combination of the following and must stay covered during typical combat situations, including turning the head, lifting the chin, etc.
+        1. The helm.
+        2. A gorget of rigid material or heavy leather, lined with ¼-inch (6mm) of closed cell foam or equivalent padding.
+        3. A camail or aventail of mail or heavy leather, lined with ¼-inch (6mm) of closed cell foam or equivalent padding.
+    4. Body. Foam tipped jousting only and suggested for heavy mounted combat - rigid material covering chest and torso. Standard equestrian riding vests are deemed equivalent.
+    5. Groin. Foam tipped jousting only - groin area must be protected by sufficient means including saddle or armor.
+    6. Hands.
+        1. Heavy mounted combat and mounted crest combat - leather gloves.
+        2. Foam tipped jousting - hands must be protected. This can include use of a shield, demi or full gauntlets, or equivalent (i.e. vamplate on lance).
+    7. Leg, arm, and shoulder protection - armor recommended, but not required.
+    8. Shields: The shields must be constructed of rigid, non-brittle, materials.  Recommended is ½-inch plywood. The edges should be blunt and corners
  rounded.
- (i) Horse. Required for mounted combat only and are recommended for jousting.
- (1) Eye protection - acceptable eye protection should stand clear from the eye in
- all directions by a minimum of 3/4 of an inch. Take care to make opening
- large enough and pad well.
- a. A chanfron or other approved eye protection which incorporates pierced
- metal cups, heavy wire mesh or grillwork.
- b. Blinker style. The lexan/acrylic eye protection used by jockeys and trainers
- at the racetrack. The blinker must use transparent full eyecups. Partial
- eyecups are not an acceptable substitute. Eye protection of this sort may
- be incorporated into a period horse garment providing the garment ensures
- proper placement of the eyecups at all times.
- c. Police Riot gear. Full-faced riot protection made of 1/8 inch lexan attached
- to the bridle of the horse.
- 2. Weapon requirements.
+    9. Horse. Required for mounted combat only and are recommended for jousting.
+        1. Eye protection - acceptable eye protection should stand clear from the eye in all directions by a minimum of 3/4 of an inch. Take care to make opening large enough and pad well.
+            1. A chanfron or other approved eye protection which incorporates pierced metal cups, heavy wire mesh or grillwork.
+            2. Blinker style. The lexan/acrylic eye protection used by jockeys and trainers at the racetrack. The blinker must use transparent full eyecups. Partial eyecups are not an acceptable substitute. Eye protection of this sort may be incorporated into a period horse garment providing the garment ensures proper placement of the eyecups at all times.
+            3. Police Riot gear. Full-faced riot protection made of 1/8 inch lexan attached to the bridle of the horse.
+
+2. Weapon requirements.
  (a) Single Handed weapons.
  (1) Mounted Crest Combat. "Boffer" weapons are to be used in this activity.
  a. Base material shall be schedule 40 ½-inch PVC plastic pipe. Both ends
