@@ -74,6 +74,7 @@ Equestrians are authorized to participate according to the activities they engag
     3. The individual must demonstrate the ability to safely control their horse while engaging in SCA equestrian activities.
 ### Mounted Games. 
 Additionally, an equestrian may be authorized for participation in mounted games. In addition to the foregoing, the Authorizing Equestrian Marshal should consider the following:
+
     1. The individual must demonstrate familiarity with the equipment used in SCA mounted games.
     2. The individual must demonstrate the ability to safely control their horse while engaging in SCA equestrian activities while encumbered by the appropriate equipment.
 ### Youths may be authorized as equestrians subject to the following limitations:
@@ -82,7 +83,9 @@ Additionally, an equestrian may be authorized for participation in mounted games
 3. A parent or legal guardian must be immediately available to the Equestrian Marshal in Charge when a youth is engaged in equestrian activities, including serving as ground crew.
 4. A parent or legal guardian must attend the authorization process and execute a waiver authorizing a youth to participate in equestrian activities. The parent or legal guardian must also sign the authorization form.
 5. Youths must wear heeled shoes and approved equestrian riding helmets fitted according to the manufacturer's directions and while mounted.
+
 ### Authorizations shall not be issued to persons residing in other kingdoms unless such persons are defined as subjects of the issuing kingdom by specific royal treaty or by exceptions under parts II.4.a and II.4.b.
+
 1. Individuals residing in a Kingdom without an EQ program may be authorized in ONE other Kingdom, providing the KEM of the Kingdom the individual resides in approves, and both the KEO and KEM of the sponsoring Kingdom are willing to sponsor said individual.
 2. Individuals residing in a Kingdom that has an EQ program, but does not have specialty activities in their program can authorize for these specialty activities in ONE other Kingdom, providing both the KEO and KEM of the Kingdom the individual resides in approves, and both the KEO and KEM of the sponsoring Kingdom are willing to sponsor said individual.
 3. For authorizations done under parts II.4.a or II.4.b, The sponsoring Kingdom Equestrian Officer shall maintain a record of all such authorizations and administer them in the same manner as resident authorizations
