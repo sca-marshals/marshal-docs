@@ -151,76 +151,93 @@ An Equestrian Marshal in Charge shall be responsible for the following:
 ## Equipment Standards
 All equipment must be inspected for use prior to engaging in equestrian combat activities.
 
-1. Armor requirements:
-    1. Helm.
-        1. Helms must be of rigid materials (18-gauge mild steel or equivalent).  Fencing masks are acceptable for mounted crest combat use only.  Equestrian Handbook, Revised October 10, 2012.
-        2. Face guards shall prevent a 1-inch (25.4mm) diameter dowel from entering into any of the face guard openings.
-        3. The face guard shall extend at least 1-inch (25.4mm) below the bottom of the chin and jaw line when the head is held erect.
-        4. All movable visors shall be attached and secured in such a way that there is minimal chance that they will become detached or come open in normal mounted combat or jousting use.
-        5. There shall be NO major internal projections; minor projections of necessary structural components shall be padded. All metal shall be free of sharp edges.  Face guard bars or mesh should not attach to the interior of the helm, unless of structurally superior design and workmanship.
-        6. All parts of the helm that might come into injurious contact with the wearer’s head shall be padded with a minimum of ½-inch (12.7mm) of closed-cell foam or equivalent padding, or shall be suspended in such a way as to prevent injurious contact with the wearer during combat. Additional padding is not required for fencing masks used for mounted crest combat only.
-        7. All helms shall be equipped with a chinstrap or equivalent means to prevent the helm from being dislodged or metal contacting the wearer’s face during combat. An equivalent might be, for example, a bevor or a chin-cup suspension system. A “snug fit” is NOT an equivalent. The chinstrap shall be at a minimum a ½-inch (12.7mm) in width and shall not be placed in the helm in a manner that could strangle the wearer.
+### Armor requirements
+#### Helm
+1. Helms must be of rigid materials (18-gauge mild steel or equivalent).  Fencing masks are acceptable for mounted crest combat use only.  Equestrian Handbook, Revised October 10, 2012.
+2. Face guards shall prevent a 1-inch (25.4mm) diameter dowel from entering into any of the face guard openings.
+3. The face guard shall extend at least 1-inch (25.4mm) below the bottom of the chin and jaw line when the head is held erect.
+4. All movable visors shall be attached and secured in such a way that there is minimal chance that they will become detached or come open in normal mounted combat or jousting use.
+5. There shall be NO major internal projections; minor projections of necessary structural components shall be padded. All metal shall be free of sharp edges.  Face guard bars or mesh should not attach to the interior of the helm, unless of structurally superior design and workmanship.
+6. All parts of the helm that might come into injurious contact with the wearer’s head shall be padded with a minimum of ½-inch (12.7mm) of closed-cell foam or equivalent padding, or shall be suspended in such a way as to prevent injurious contact with the wearer during combat. Additional padding is not required for fencing masks used for mounted crest combat only.
+7. All helms shall be equipped with a chinstrap or equivalent means to prevent the helm from being dislodged or metal contacting the wearer’s face during combat. An equivalent might be, for example, a bevor or a chin-cup suspension system. A "snug fit" is NOT an equivalent. The chinstrap shall be at a minimum a ½-inch (12.7mm) in width and shall not be placed in the helm in a manner that could strangle the wearer.
 
-    2. Crests for mounted crest combat.
-        1. Crests shall be at least 5-inches in height.
-        2. The crest must be constructed so as not to present an undue hazard if a rider should land on it, or a horse step on it.
-        3. The crest must be attached in such a way so as to be easily dislodged by a minimal force blow. Velcro or similar methods are recommended.
-    3. Neck Armor. The neck, including the larynx, cervical vertebrae, and first thoracic vertebra must be covered by one or a combination of the following and must stay covered during typical combat situations, including turning the head, lifting the chin, etc.
-        1. The helm.
-        2. A gorget of rigid material or heavy leather, lined with ¼-inch (6mm) of closed cell foam or equivalent padding.
-        3. A camail or aventail of mail or heavy leather, lined with ¼-inch (6mm) of closed cell foam or equivalent padding.
-    4. Body. Foam tipped jousting only and suggested for heavy mounted combat - rigid material covering chest and torso. Standard equestrian riding vests are deemed equivalent.
-    5. Groin. Foam tipped jousting only - groin area must be protected by sufficient means including saddle or armor.
-    6. Hands.
-        1. Heavy mounted combat and mounted crest combat - leather gloves.
-        2. Foam tipped jousting - hands must be protected. This can include use of a shield, demi or full gauntlets, or equivalent (i.e. vamplate on lance).
-    7. Leg, arm, and shoulder protection - armor recommended, but not required.
-    8. Shields: The shields must be constructed of rigid, non-brittle, materials.  Recommended is ½-inch plywood. The edges should be blunt and corners
- rounded.
-    9. Horse. Required for mounted combat only and are recommended for jousting.
-        1. Eye protection - acceptable eye protection should stand clear from the eye in all directions by a minimum of 3/4 of an inch. Take care to make opening large enough and pad well.
-            1. A chanfron or other approved eye protection which incorporates pierced metal cups, heavy wire mesh or grillwork.
-            2. Blinker style. The lexan/acrylic eye protection used by jockeys and trainers at the racetrack. The blinker must use transparent full eyecups. Partial eyecups are not an acceptable substitute. Eye protection of this sort may be incorporated into a period horse garment providing the garment ensures proper placement of the eyecups at all times.
-            3. Police Riot gear. Full-faced riot protection made of 1/8 inch lexan attached to the bridle of the horse.
+#### Crests for mounted crest combat
+1. Crests shall be at least 5-inches in height.
+2. The crest must be constructed so as not to present an undue hazard if a rider should land on it, or a horse step on it.
+3. The crest must be attached in such a way so as to be easily dislodged by a minimal force blow. Velcro or similar methods are recommended.
 
-2. Weapon requirements.
-    1. Single Handed weapons.
-        1. Mounted Crest Combat. "Boffer" weapons are to be used in this activity.
-            1. Base material shall be schedule 40 ½-inch PVC plastic pipe. Both ends must be capped, but accessible to marshals for inspection’ to the requirement for end caps to the swords.
-            2. Minimum ½-inch closed cell foam padding over all striking surfaces.
-            3. Minimum diameter of 1 ¼-inch.
-            4. If quillions are used they should not extend more than 1 inch beyond the hand when held.
-            5. Thrusting tips are not allowed in mounted crest combat.
-        2. Heavy Mounted Combat. Sturdier ‘Boffer’ style weapons are used in this activity.
-            1. Base material may be 1 inch diameter rattan or schedule 40 ¾-inch PVC plastic pipe. If PVC pipe is used as the base material, both ends must be
- capped.
-            2. Minimum 1/2 inch closed cell foam padding over all striking surfaces.
-            3. Minimum diameter of 1 ¼-inch.
-            4. Cutting edge shall be marked in a contrasting color.
-            5. Swords shall have a hand guard, such as a basket hilt, quillions, or equivalent.
-            6. Maximum weight should not exceed 4-pounds.
-            7. Thrusting tips are not allowed in mounted combat.
-        3. Weapons constructed other than as set out above may be approved on a kingdom level basis for use in Mounted Crest Combat or Heavy Mounted Combat. Construction methods for these weapons vary; therefore only weapons equivalent to the weapons described above shall be used. If there is a question regarding equivalency, the KEO shall make the determination.
-        4. Mounted Games. Riders may use hand held weapons made of non-brittle materials. All tips and edges should be blunted.
-    2. Lances, spears and javelins.
-        1. Foam tipped lances.
-            1. May be up to 12-feet in total length.
-            2. The lance shall be constructed in three sections including the tip, middle, and base. The tip and the base will socket into the middle section.
-            3. Lances must use a foam tip extending at least 22-inches beyond the middle section. Approved foams are expanded polystyrene foam (Styrofoam) or Extruded Insulation Foam, of 2-inch diameter and 2-lb./ft³ density.
-            4. The middle section consists of a cardboard tube with a 2-inch interior diameter and a maximum of a 1/8-inch side wall.
-            5. The base section may be made of any non-brittle material. The maximum length of the base section is 45-inches, including a recommended 6 inches extending into the middle section. It is recommended the base section be carved from wood.
-        2. Spears and javelins
-            1. May be up to 9-feet in total length.
-            2. Spears and javelins may be equipped with metal tips.
-        3. Quintain and Ring Lances may be up to 16-feet in length
-    3. Bows
-        1. Bow poundage is not to exceed 35-pounds for use with target arrows and not to exceed 50-pounds for combat arrows.
-    4. Arrows
-        1. All arrows should be inspected prior to each use.
-        2. Combat arrows must be constructed according to Society standards.
+#### Neck Armor
+The neck, including the larynx, cervical vertebrae, and first thoracic vertebra must be covered by one or a combination of the following and must stay covered during typical combat situations, including turning the head, lifting the chin, etc.
 
-3. Tack. Riders are required to use tack sufficient to allow them to maintain control of their equine. Such tack traditionally includes use of a bridle and saddle, however other combinations of tack may be allowed upon demonstration of control of the horse to the satisfaction of the EqMIC.
+1. The helm.
+2. A gorget of rigid material or heavy leather, lined with ¼-inch (6mm) of closed cell foam or equivalent padding.
+3. A camail or aventail of mail or heavy leather, lined with ¼-inch (6mm) of closed cell foam or equivalent padding.
 
+#### Body
+Foam tipped jousting only and suggested for heavy mounted combat - rigid material covering chest and torso. Standard equestrian riding vests are deemed equivalent.
+
+#### Groin
+#oam tipped jousting only - groin area must be protected by sufficient means including saddle or armor.
+ 
+#### Hands
+1. Heavy mounted combat and mounted crest combat - leather gloves.
+2. Foam tipped jousting - hands must be protected. This can include use of a shield, demi or full gauntlets, or equivalent (i.e. vamplate on lance).
+
+#### Leg, arm, and shoulder protection
+armor recommended, but not required.
+
+#### Shields
+The shields must be constructed of rigid, non-brittle, materials.  Recommended is ½-inch plywood. The edges should be blunt and corners rounded.
+
+#### Horse
+Required for mounted combat only and are recommended for jousting.
+
+1. Eye protection - acceptable eye protection should stand clear from the eye in all directions by a minimum of 3/4 of an inch. Take care to make opening large enough and pad well.
+    1. A chanfron or other approved eye protection which incorporates pierced metal cups, heavy wire mesh or grillwork.
+    2. Blinker style. The lexan/acrylic eye protection used by jockeys and trainers at the racetrack. The blinker must use transparent full eyecups. Partial eyecups are not an acceptable substitute. Eye protection of this sort may be incorporated into a period horse garment providing the garment ensures proper placement of the eyecups at all times.
+    3. Police Riot gear. Full-faced riot protection made of 1/8 inch lexan attached to the bridle of the horse.
+
+### Weapon requirements.
+#### Single Handed weapons.
+#### Mounted Crest Combat. "Boffer" weapons are to be used in this activity.
+1. Base material shall be schedule 40 ½-inch PVC plastic pipe. Both ends must be capped, but accessible to marshals for inspection’ to the requirement for end caps to the swords.
+2. Minimum ½-inch closed cell foam padding over all striking surfaces.
+3. Minimum diameter of 1 ¼-inch.
+4. If quillions are used they should not extend more than 1 inch beyond the hand when held.
+5. Thrusting tips are not allowed in mounted crest combat.
+##### Heavy Mounted Combat. 
+Sturdier ‘Boffer’ style weapons are used in this activity.
+
+1. Base material may be 1 inch diameter rattan or schedule 40 ¾-inch PVC plastic pipe. If PVC pipe is used as the base material, both ends must be capped.
+2. Minimum 1/2 inch closed cell foam padding over all striking surfaces.
+3. Minimum diameter of 1 ¼-inch.
+4. Cutting edge shall be marked in a contrasting color.
+5. Swords shall have a hand guard, such as a basket hilt, quillions, or equivalent.
+6. Maximum weight should not exceed 4-pounds.
+7. Thrusting tips are not allowed in mounted combat.
+
+##### Weapons constructed other than as set out above may be approved on a kingdom level basis for use in Mounted Crest Combat or Heavy Mounted Combat. Construction methods for these weapons vary; therefore only weapons equivalent to the weapons described above shall be used. If there is a question regarding equivalency, the KEO shall make the determination.
+##### Mounted Games
+Riders may use hand held weapons made of non-brittle materials. All tips and edges should be blunted.
+
+#### Lances, spears and javelins.
+##### Foam tipped lances
+1. May be up to 12-feet in total length.
+2. The lance shall be constructed in three sections including the tip, middle, and base. The tip and the base will socket into the middle section.
+3. Lances must use a foam tip extending at least 22-inches beyond the middle section. Approved foams are expanded polystyrene foam (Styrofoam) or Extruded Insulation Foam, of 2-inch diameter and 2-lb./ft³ density.
+4. The middle section consists of a cardboard tube with a 2-inch interior diameter and a maximum of a 1/8-inch side wall.
+5. The base section may be made of any non-brittle material. The maximum length of the base section is 45-inches, including a recommended 6 inches extending into the middle section. It is recommended the base section be carved from wood.
+##### Spears and javelins
+1. May be up to 9-feet in total length.
+2. Spears and javelins may be equipped with metal tips.
+##### Quintain and Ring Lances may be up to 16-feet in length
+##### Bows
+1. Bow poundage is not to exceed 35-pounds for use with target arrows and not to exceed 50-pounds for combat arrows.
+##### Arrows
+1. All arrows should be inspected prior to each use.
+2. Combat arrows must be constructed according to Society standards.
+#### Tack
+Riders are required to use tack sufficient to allow them to maintain control of their equine. Such tack traditionally includes use of a bridle and saddle, however other combinations of tack may be allowed upon demonstration of control of the horse to the satisfaction of the EqMIC.
 
 ## Glossary
 ### Rigid material
