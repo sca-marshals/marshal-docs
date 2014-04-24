@@ -3,7 +3,7 @@ DOCS=compiled/rapier_handbook.pdf compiled/equestrian.pdf compiled/marshals_hand
 all: $(DOCS)
 
 %.pdf:
-	pandoc -N --template=templates/pdf_template.tex --variable version=1.0 --latex-engine=xelatex --toc --toc-depth 6 -o $@ $(notdir $(basename $@))/*.md
+	pandoc -V geometry:margin=1in -N --template=templates/pdf_template.tex --variable version=1.0 --latex-engine=xelatex --toc --toc-depth 6 -o $@ $(notdir $(basename $@))/*.md
 
 clean: 
 	rm -f $(DOCS)
