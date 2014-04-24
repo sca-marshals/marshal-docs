@@ -280,34 +280,34 @@ Section 6 of the appendix lists blades that are either explicitly permitted for 
 #### Figure 1
 Drop tester (pipe end sticking out of white guide tube) ready to use on some fabric clamped onto the 3" flange.
 
-![Drop Tester 1](image-001.jpg) 
+![Drop Tester 1](rapier_handbook/image-001.jpg) 
 
 #### Figure 2
 Plastic cap with gage pin and drill collar sticking out, all epoxied together (gray).
 
-![Drop Tester 2](image-002.jpg) 
+![Drop Tester 2](rapier_handbook/image-002.jpg) 
 
 #### Figure 3
 Lay drop probe assembly (pipe and cap) next to PVC guide tube, and measure your calculated distance from the probe tip to the bottom of the PVC guide tube.
 
-![Drop Tester 3](image-003.jpg) 
+![Drop Tester 3](rapier_handbook/image-003.jpg) 
 
 #### Figure 4
 Clamps and "frame" (3" flange) showing how these are assembled to carry out a fabric test.
 
-![Drop Tester 4](image-004.jpg) 
+![Drop Tester 4](rapier_handbook/image-004.jpg) 
 
 #### Figure 5
 Parts needed for SCA Standard Drop Tester for fencing armor.
 
-![Drop Tester 5](image-005.jpg) 
+![Drop Tester 5](rapier_handbook/image-005.jpg) 
 
 #### Figure 6
 Fabric clamped onto flange with two hose clamps. Notice that the second one will protrude a bit above the level of the fabric with thicker fabrics, but it should still be tight if you push everything down enough.
 
-![Drop Tester 6](image-006.jpg) 
+![Drop Tester 6](rapier_handbook/image-006.jpg) 
 
 #### Figure 7
 Figure 7 - Drop Tester just before making a test drop. Note that the guide tube is centered on the clamped fabric, and the drop probe is being used as a plumb bob to make the guide tube vertical.
 
-![Drop Tester 7](image-007.jpg)
+![Drop Tester 7](rapier_handbook/image-007.jpg)
