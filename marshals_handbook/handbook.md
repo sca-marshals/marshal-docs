@@ -17,16 +17,18 @@ We all participate in the SCA because we enjoy it. So, as you go about your task
 
 Fight with honor, fight often, and read the handbook!
  
-PARTICIPANTS’ SECTION
-I.  COMBAT AUTHORIZATION REQUIREMENTS
-A.  General
-1.  All persons who wish to participate in SCA combat activities must authorize under the Society and Kingdom-of-residence authorization procedures. SCA combat activities are defined as armored combat, Society period fencing, combat archery siege, and marshaling. Other martial activities clearly falling within the scope above are also considered combat-related activities. Youth combat programs are not supervised at the Society level, but participation in such programs requires authorization following Kingdom-of-residence procedures.
-2.  Each Kingdom shall establish a procedure to authorize combatants for participation in SCA combat-related activities. These procedures shall verify that the candidate is familiar with the following:
-a.  Rules of the Lists of the SCA.
-b.  The Armor and Weapons standards of the SCA.
-c.  The Conventions of Combat for the SCA.
-d.  Kingdom-of-residence–specific Conventions of Combat.
-e.  Kingdom-of-residence–specific Armor and Weapons Standards.
+# PARTICIPANTS’ SECTION
+
+## COMBAT AUTHORIZATION REQUIREMENTS
+
+### General
+1. All persons who wish to participate in SCA combat activities must authorize under the Society and Kingdom-of-residence authorization procedures. SCA combat activities are defined as armored combat, Society period fencing, combat archery siege, and marshaling. Other martial activities clearly falling within the scope above are also considered combat-related activities. Youth combat programs are not supervised at the Society level, but participation in such programs requires authorization following Kingdom-of-residence procedures.
+2. Each Kingdom shall establish a procedure to authorize combatants for participation in SCA combat-related activities. These procedures shall verify that the candidate is familiar with the following:
+    1.  Rules of the Lists of the SCA.
+    2.  The Armor and Weapons standards of the SCA.
+    3.  The Conventions of Combat for the SCA.
+    4.  Kingdom-of-residence–specific Conventions of Combat.
+    4.  Kingdom-of-residence–specific Armor and Weapons Standards.
 3.  In addition to the above requirements, candidates must demonstrate the ability to function on the field in a manner that is safe both to themselves and to their opponents.
 4.  Only a warranted or rostered authorized marshal may perform an authorization. This authorizing marshal must witness the authorization and execute the appropriate paperwork to ensure that the authorization is registered with the appropriate kingdom official.
 5.  Authorization shall be registered with, and kept on file by, the Minister of the Lists or another designated official of each kingdom. This office shall be responsible for keeping properly completed waivers and maintaining the registration of authorizations. This office shall provide the Earl Marshal with a list of all current combat authorization cards upon request. 
@@ -37,15 +39,18 @@ e.  Kingdom-of-residence–specific Armor and Weapons Standards.
 10. Kingdoms may define additional types of authorization, such as weapon forms, field marshals, and missile combat marshals, and requirements for them, as may be deemed necessary.
 11. Valid combat authorization cards shall be accepted outside the issuing kingdom as proof of authorization, as long as proof of a signed and active waiver is available. Kingdoms may define additional requirements before renewing an authorization card for a person who has moved into that kingdom from another kingdom.
 12. A marshal from any kingdom may revoke the authorization card of a fighter from any other kingdom for just and stated cause. The marshal in charge (MIC) of the event should be notified immediately and the Earl Marshal of the fighter’s kingdom of residence should receive a detailed report of the incident.
-B.  Minor Authorization
+
+### Minor Authorization
 Minors (ages 14–17) may authorize with these additional requirements:
+
 1.  In order to be authorized as a combatant or marshal in adult armored combat, an individual must have attained his or her sixteenth (16th) birthday. In order to be authorized as a participant, combatant, or marshal in any other form of Society combat-related activity, except youth combat, an individual must have attained his or her fourteenth (14th) birthday.
 2.  No person below the age of eighteen (18) may be warranted as a group Marshal, or the Marshal in Charge of an event.
 3.  The parents or guardians of the minor must witness SCA combat, discuss with a witnessing marshal how it relates to the participation of their child, and execute a “Minor’s Waiver and Informed Consent to Participate in SCA Combat-Related Activities.” The witnessing Marshal must countersign the waiver. 
 4.  Only the Earl Marshal, the Principality Marshal, or a designated deputy may authorize the minor for SCA Combat-Related Activities.
 5.  At any event in which the minor is involved in SCA combat-related activities, the minor must either have a parent or guardian present, or must be in possession of a properly executed “Medical Authorization Form for Minors.” Said Medical Authorization Form must designate an adult present at the event as able to authorize medical treatment in the case of an emergency.
 6.  Minors engaging in combat with adults shall be marked in the following manner: A single yellow diamond no larger than 1inch (25.4 mm) but no smaller than 0.5 inch (12.7 mm) to be placed on the front hemisphere of the helm (preferably on or near the inspection sticker). Minors competing with adults in Rapier will have the same diamond on the cuff of the glove of their dominant weapon hand. 
-II. RULES OF THE LISTS
+
+## RULES OF THE LISTS
 A.  The Rules of the Lists
 The basic rules for SCA combat are contained in the Rules of the Lists. These rules cover all combat within the SCA including but not limited to tournaments, non-tourney martial field activities such as wars, combat archery, and Society period fencing. The observance of honor and chivalry and the safety of the combatants are the overriding goals of these rules. The following is intended to bring together the appropriate rules for conducting SCA combat activities.
 The Rules of the Lists are reprinted here from section IX.B. of the Corpora of the SCA:
@@ -72,7 +77,8 @@ At the discretion of the sovereign and the MIC, recognized experts may be permit
 No one may wear any real weapon onto the field while participating in combat or present during combat. At the discretion of the sovereign and the MIC, an exception may be made for marshals or other noncombatants to wear knives bonded with peace straps.
 Posing for still photographs with real weapons is permitted.
 8.  Application of Rule 9: The prohibition on thrown weapons refers to weapons thrown in combat or thrown in a hostile manner. It does not apply to “tossing,” defined as a gentle, short-range method of transferring or removing a tournament weapon or item from the list field or area of combat. The use of bows and arrows, firearms, slings, javelins, throwing axes, throwing knives, or any other projectile weapon is forbidden within tournament lists, or in any other situation where spectators cannot be separated from the potential line of fire by more than the effective range of the weapon.
-III.    CONVENTIONS OF COMBAT
+
+## CONVENTIONS OF COMBAT
 A.  General Information 
 1.  All traditional SCA armored combat at SCA tourneys, wars, and other events shall be conducted in accordance with the Rules of the Lists of the SCA, Inc., these Conventions of Combat, and such weapon and equipment standards and event rules as are established by the marshallate of the SCA, Inc., and individual kingdom marshallates.
 2.  All kingdoms shall have as their minimum armor and weapons standards those criteria established by the Society minimum armor and weapons standards. Each kingdom may require additional, more extensive, and/or stricter standards.
@@ -124,7 +130,8 @@ C.  Blows repeatedly blocked by a weapon in contact with a fighter’s helm, bod
 D.  A shield or weapon may be used to displace, deflect, or immobilize an opponent’s shield or weapon, so long as such use does not endanger the safety of the combatants. A shield or haft may be safely placed against the opponent’s body to restrict his ability to strike or defend.
 E.  Shields must be controlled by the hand; use of passive shields (not controlled by the hand) will be treated as decorative armor and subject to effective blow acknowledgment.
 F.  A combat archer may carry and use shield or pavise; however, as long as they are carrying it, they cannot span nor fire their weapon.
-V.  ACKNOWLEDGMENT OF BLOWS
+
+## ACKNOWLEDGMENT OF BLOWS
 A.  Judging the effects of blows is left to the honor of the combatant being struck by the weapon, unless he or she relinquishes this responsibility, with the exception of clear violations of the Rules of the Lists or the Conventions of Combat. Effectiveness of a blow may not be judged by the opposing combatant, the marshal on the field, or other observers. Information unavailable to the combatant being struck may be supplied by the opposing combatant or the marshal, including blade orientation upon impact, apparent force transmitted, or apparent location and angle of the blow’s impact based upon the observer’s angle of observation.
 B.  When judging the effect of blows, all fighters are presumed to be fully armored. Special tournaments or combat rules may redefine what areas of the body are armored, and to what extent, so long as all the participants are made aware of the special conditions prior to the start of combat.
 1.  All “fully armored” fighters are presumed to be wearing a chain hauberk over a padded gambeson, with boiled leather arm and leg defenses and an open-faced iron helm with a nasal. The helm may be presumed by kingdom convention to include a very light chain mail drape, permitting vision and resisting cuts by the mere touch of a bladed weapon.
@@ -191,7 +198,8 @@ I.  Shields
 a.  The leg(s) used to keep the pavise standing must be at least 1.25 inches (31.8 mm) in diameter or 1.25 inches (31.8 mm) square and be well-attached.
 b.  Pavises are destroyed by a single hit from siege engine ammunition. Combatants behind the pavise are not killed. The pavise must then immediately be removed from the field or dropped flat.
 c.  A pavise can be carried in a manner which does not require hand control (such as by a shoulder strap). In this case, the fighter is not allowed to actively block with it, nor can they use their own weapon, and if struck by a hand weapon, the blow is counted as if the pavise was not there.
-VII.    WEAPONS STANDARDS
+
+## WEAPONS STANDARDS
 A.  General
 1.  With the exception of the hilts, guards and pommels, no metal or non-approved rigid, granular, or liquid material may be used in the construction of single or two-handed weapons including spears.
 2.  Primary weapons used single-handed shall have a wrist strap (or equivalent restraint) which will keep the weapon from leaving the immediate area of the user if released during any part of a bout or combat. Restraints are not required on hafted weapons used single-handed, or on single-handed back-up weapons.
@@ -327,7 +335,8 @@ iv. The shaft hole must be at least 1 inch (25.4 mm) deep, and there must be at 
 v.  The striking surface must have at least 1 inch (25.4 mm) and at most 1.25 inches (31.8 mm) of resilient foam after taping and be at least the diameter of the blunt.
 vi. The head must have a side-wrap of foam that extends from the tip of the padding to at least .5 inch (12.7 mm) over the UHMW that brings the total diameter of the head to at least 1.5 inch (3.8 cm) after taping.
 vii.    The tail end must have a disk of UHMW installed that is at least 1.25 inches (31.8 mm) diameter, at least .5 inch (12.7 mm) thick, and drilled at least .25 inch (6.5 mm) deep to accept the shaft. The leading edge of the blunt and all edges of the APD shall be rounded over.
-VIII.   SIEGE COMBAT
+
+## SIEGE COMBAT
 A.  General
 Siege engines or structures may be used in combat during melees and wars in accordance with the rules set forth in the Siege Engines Handbook.
 B.  Munitions
@@ -346,8 +355,9 @@ D.  Destroying Siege Engines.
 4.  Siege engine crews are fully armored combatants and should be treated as would be any other fighter on the field.
 5.  If fighting occurs within 5 feet (1.524 m) of an engine that is cocked or loaded, a hold shall be called and the engine shall be declared destroyed and removed from the combat area and made safe.
  
-MARSHALS’ SECTION
-IX. PROCEDURES FOR THE AUTHORIZATION OF MARSHALS
+# MARSHALS’ SECTION
+
+## PROCEDURES FOR THE AUTHORIZATION OF MARSHALS
 A.  General Requirements
 There are three near-equal priorities in marshaling; safety, fair witness, and showmanship. Overemphasizing any one of these at the expense of the others will tend to make the fighting less enjoyable for everyone (although, if you must go overboard on one, pick safety).
 1.  A marshal may be authorized after demonstrating the ability to oversee combat, judge a fighter’s authorization, and inspect weapons and armor.
@@ -362,7 +372,8 @@ d.  The candidate must demonstrate the ability to conduct an inspection of comba
 e.  The candidate must demonstrate the ability to safely control SCA combat, whether this is single combat, team combat, general melee, or part of a war environment.
 6.  The term “Knight Marshal” applies to the marshal of a branch. This title of office is used regardless of whether the marshal is a belted fighter; in fact it is used whether or not the branch marshal is an authorized fighter.
 7.  All warranted or rostered marshals shall be members of the Society for Creative Anachronism Inc.
-X.  PROCEDURES FOR MARSHALING WARS
+
+## PROCEDURES FOR MARSHALING WARS
 A.  Before the War
 1.  The general rules under which the war will be conducted, compromises between conflicting kingdoms’ standards, and the scenario limits for each planned battle shall be negotiated and agreed to in writing in advance by the authorized representatives of all belligerent groups involved. The rules and scenario limits shall be published in the appropriate newsletters. For inter-kingdom wars, notices shall be published according to SCA publication policy by the groups involved. This publication should take place at least thirty (30) days prior to the event. In addition, copies of all of the rules and agreements shall be available on-site, as a handout, for people who do not receive (or did not read) the newsletters. Armor and weapons standards shall default to the established Society minimum standards unless otherwise specified in the event rules and scenario limits.
 2.  Each side in a battle shall provide a reasonable number of trained and experienced marshals. If not enough marshals are available, the sides should arrange for a draft from their armies.
@@ -385,10 +396,12 @@ e.  To end a hold, the marshal-in-charge will call “All rise!” (or “Rise i
 5.  Marshals have the preemptory authority to remove from combat and from the field any combatant who violates the rules or scenario limits or who performs any unsafe or dishonorable act. Such removal may be discussed during the battle only if the marshal permits it. The marshals’ ruling may be appealed to the Marshal in Charge.
 6.  Marshals have the authority to regulate the movement of non-combatants on and near the field and to control the location of spectators.
 7.  Those marshals who are responsible for marshaling wars or large melees may use alternative means to signal “Hold” or “Lay on,” as long as all fighters and marshals know and understand the alternative signaling system. Marshals may use whistles, air horns, or other such devices.
-XI. MARSHALING REQUIREMENTS
+
+## MARSHALING REQUIREMENTS
 A.  When combat archery is present on the field all marshals, heralds, etc. on the field must wear protective shatterproof eyewear, such as safety glasses meeting the ANSI Z 87.1 standard or better.
 B.  A buffer zone needs to be provided between the edges of the battlefield and spectators at all times. This needs to be increased when combat archery is included. The marshal-in-charge must ensure that it is a safe distance (it should not be possible to hit a spectator, either with direct fire or with a bounced arrow), taking into account the type of scenario, to minimize the chances of deflected shots traveling into the spectators. Physical barriers may eliminate the need for a buffer zone or lessen the distance needed.
-XII.    COMBAT INJURY PROCEDURES
+
+## COMBAT INJURY PROCEDURES
 A.  When an injury occurs on the field, it should always be remembered that the primary concern is getting to and assisting the injured party. Secondary to this objective, but no less important, is the safety of persons entering the field to help and the well-being of anyone already on the field. (For example, fighters standing around in armor in the sun could be subject to heat problems.)
 B.  All injuries that require hospitalization or similar care, include a period of unconsciousness, or may require future medical care need to be reported to your Kingdom Earl Marshal within 24 hours of the incident. Include all available details in the report.
 C.  In the event of an emergency, the marshals shall cooperate with any authorized persons responding to the emergency and keep the area clear of would-be spectators.
@@ -397,7 +410,8 @@ E.  If the injured person is conscious, they may be asked if they would like ass
 F.  A marshal shall call for assistance if they suspect that a participant is experiencing more than momentary distress. It is an extremely serious matter to delay the application of first aid when it is needed, and marshals who ignore injuries may be subject to revocation of their authorization to supervise combat-related activities.
 G.  No one may remove an injured fighter from the field without the consent of the event marshal-in-charge or an appointed deputy.
 H.  Any immediate and significant problems associated with an injury on the field shall be reported to the kingdom Earl Marshal.
-XIII.   GUIDELINES FOR MARSHALING ON THE FIELD
+
+## GUIDELINES FOR MARSHALING ON THE FIELD
 The guidelines outlined in this section are not rigid requirements, but are placed here in an attempt to help clarify and to provide examples of acceptable methods and procedures.
 A.  Preparing to Marshal Combat Activities
 As marshal-in-charge, you are responsible for organizing the marshaling. This does not mean that you have to do it all yourself.
@@ -428,7 +442,8 @@ C.  Marshaling Melees
 2.  You should have a minimum of 3 marshals for the first 20 fighters, plus one additional marshal for each 15 fighters up to a total of 500 fighters and 35 marshals. If you have more than 500 fighters (realistically, even if you have more than 50 fighters), you should have an experienced Marshal in Charge and a sizable number of experienced marshals. It is preferable to have more marshals for free-for-all melees.
 3.  Marshals should station themselves around the edges of the fight. This allows them to control the borders while keeping as much of the fighting as possible in view. It also prevents fighters from running into them from behind. As always, keep moving and stay close enough to spot safety problems.
 4.  In very large melees, it may be desirable to have some marshals in the middle of the field, in addition to those around the edge. If you are mid-field, be careful that you do not get so interested in the fight in front of you that you back into or forget to watch another bout moving around behind you.
-XIV.    COMBAT AUTHORIZATION PROCEDURES
+
+## COMBAT AUTHORIZATION PROCEDURES
 A.  This example of an authorization is for an armored combat fighter. This procedure may be used as-is by a kingdom, or it may be modified as required to reflect differences in culture and convention. This authorization procedure requires that a member of the Chivalry (to act as a witness and provide a second opinion), a warranted authorized marshal, and an experienced authorized fighter be present. This outline is general and does not deal with the specifics of armor and weapons rules, since these rules may vary. Warranted authorized marshals will be trained in the specifics as they change.
 1.  If the fighter does not have proof of a signed waiver (for example, a signed blue membership card) prior to the authorization, the candidate and the authorizing marshal will properly complete a waiver (SCA, Inc. form titled CONSENT TO PARTICIPATE AND RELASE LIABILITY). 
 2.  The persons conducting the authorization must verify that the candidate is familiar with the Rules of the List and the current rules that specifically govern the Kingdom of residence.
@@ -444,7 +459,8 @@ d.  Can the candidate defend him or herself?
 e.  Is the authorizing fighter able to feel and judge blows, both those received and those thrown?
 8.  If the marshal, member of the Chivalry, and authorized fighter agree that the candidate meets these requirements, the marshal will notify the fighter that they are now authorized. The fighter and marshal will properly complete any paperwork required by the kingdom in addition to the previously completed Waiver for SCA Combat-Related Activities.
 9.  The fighter will send these properly completed forms to the kingdom official responsible for issuing authorization cards. Upon receipt of these properly completed forms, an authorization card will be issued. The fighter shall be issued a temporary card or keep a copy of the authorization form and waiver if he or she intends to fight prior to receiving the authorization card. The card should be received within one month. If the card is not received, the fighter should contact the authorization official and forward any information or paperwork required.
-XV. EQUIPMENT INSPECTION GUIDELINES
+
+## EQUIPMENT INSPECTION GUIDELINES
 A.  General Information
 1.  At each event, the marshal-in-charge must arrange for the inspection of all equipment to be used in combat (e.g., armor and weapons). This in no way relieves the individual combatants of their responsibility for following the equipment standards. Ultimately, the fighter is responsible for the condition and safety of their armor and weapons at all times. This includes periods between bouts, between battles, and day to day periods between battles at a multi-day event. However, the marshal’s inspection is intended to provide a second pair of experienced eyes and an outside point of view. A reminder: Equipment that was perfectly serviceable at the beginning of the previous event could have broken since, and even the most experienced fighter can occasionally forget some piece of armor. The inspection outlined below is merely an example. For purposes of illustration, the inspection described is for regular SCA combat without missile weapons. It does not necessarily include checks for additional requirements that your kingdom may have added. A checklist might be helpful as you do the inspection until you have done so many that it becomes second nature. (As noted in the section on marshaling combat, a quick visual check of the combatants just before the start of a bout or battle is also a good idea.) All of this is based on the equipment standards given in the Appendix. You should be familiar with them, as well as with any other requirements that your kingdom may have instituted. The fact that one of the requirements is not mentioned on this checklist does not mean that you should not notice if it has not been met.
 2.  Armor inspection must be done with all of the armor on the body of the fighter who is going to wear it. It is not otherwise possible to get an accurate idea of what is covered and what is not, of where gaps may occur as the combatant moves. In weapon inspections, the primary test is safety. If you, as a marshal, do not believe that the weapon is safe (i.e., if you would not be willing to face it), do not let it be used on the field. When in doubt, ask the prospective user if he or she would be willing to fight against the weapon. If not, it should not be used regardless of whether it meets all other requirements. Before you start, remind yourself that armor is hot, not to mention heavy. If the weather is hot, try to find some shade in which to hold the inspection or, at least, for the fighters to stand in while waiting to be inspected. (Similar reasoning applies in case of rain, freezing cold, or other inclement weather. Just because it is possible to fight does not mean that it is pleasant or desirable to stand around in armor.)
@@ -491,7 +507,8 @@ b.  Grab both head and tail and pull with moderate force while slightly twisting
 c.  If the ammunition is with made with foam, check that the tip is constructed in such a manner that it cannot be forced more than .5 inch (12.7 mm) into a legal faceguard.
 d.  Check the shaft for signs of cracking or other failure. Check that it is properly labeled and taped.
 e.  Remember that ammunition cannot be more than 10% yellow as yellow is reserved for siege ammunition.
-XVI.    EXPERIMENTAL WEAPONS AND MATERIALS PROCEDURES
+
+## EXPERIMENTAL WEAPONS AND MATERIALS PROCEDURES
 A.  Experimental Weapons and Materials 
 1.  Before any unapproved weapon or material can be used at Society activities, a test plan and a sample of the proposed weapon or material must be submitted to and approved by the Society Marshal or a designated deputy. This plan shall include:
 a.  Specifics on construction (e.g., materials used, how it is assembled, etc.),
@@ -502,7 +519,8 @@ If requested, any samples submitted shall be returned to the submitting party no
 2.  It is the prerogative of the kingdom Earl Marshal to allow limited testing of alternate or unapproved materials and weapons within a kingdom after receiving approval from the Society Marshal. Limited testing means the weapon or material may be used at fighter practice tourneys and in small melees, but only after all combatants and marshals have been informed the weapon or material is being tested and that it is not approved for general SCA use.
 3.  All combatants and marshals must consent to the use of the weapon or material before combat begins. If any of the marshals or combatants object to the use of the material or weapon, the material or weapon may not be used in that fight or battle. All experimental materials and weapons shall be marked with alternating bands of red and green tape totaling 6 inches (15.2 cm) in length. Bands shall be visible during weapon usage.
 4.  Once per quarter throughout the test period, the Earl Marshal will update the Society Marshal on the progress and results of the testing. At the end of the test period, the Earl Marshal will provide the Society Marshal with a test summary. This summary shall include a list of injuries that resulted from the use of the weapon or material and any concerns from fighters and marshals recorded during the testing. The Society Marshal, after consultation with the Earls Marshal, shall determine if the weapon or material is suitable for SCA combat-related activities.
-XVII.   MARSHAL RESPONSIBILITIES, CHAIN OF COMMAND AND REPORTING
+
+## MARSHAL RESPONSIBILITIES, CHAIN OF COMMAND AND REPORTING
 A.  Reporting Requirements
 1.  If you are a Marshal-at-Large:
 a.  Whatever processes your Kingdom requires of a warranted marshal.
@@ -532,7 +550,8 @@ e.  Answer correspondence from the Knights Marshals of your kingdom.
 a.  On a quarterly basis, report to the President (and thence to the Board) on the state of the marshallate.
 b.  Provide warrants for the Earls Marshal as they are appointed.
 c.  Answer correspondence from the Earls Marshal.
-XVIII.  PROCEDURES FOR GRIEVANCES AND SANCTIONS  
+
+## PROCEDURES FOR GRIEVANCES AND SANCTIONS  
 A.  Grievances and Disputes
 Usually the combatants are more than willing to correct any problems or breaches of the rules pointed out by a marshal. This is the desired solution: get the problem fixed. However, occasionally a marshal must take action. In the unhappy event that you find it necessary, here is how you shall proceed. In order of preference:
 1.  Point out the violation (missing armor, grappling during combat, etc.) and ask the fighter to correct it.
@@ -559,7 +578,7 @@ d.  Recommendation to the Board to banish the individual from the Society and it
 5.  An authorization from any Kingdom may be suspended/revoked in another Kingdom, should it prove necessary and appropriate. Such suspension/revocation means that the fighter may not fight anywhere in the Society until and unless the issue is resolved. Accordingly, the Earl Marshal of the kingdom issuing the suspension shall inform the Society Earl Marshal and the Earls Marshal of the neighboring kingdoms.
 6.  Furthermore, if the fighter is subsequently re-authorized, the neighboring Earls Marshal shall again be notified.
  
-XVIV.   GLOSSARY
+## GLOSSARY
 The definitions that follow apply throughout the Handbook, unless specifically stated otherwise. They are intended to clarify usage and establish a frame of reference for the various materials used in SCA combat.
 A.  Armor Materials
 Aventail: flexible curtain of chainmail on a helmet, extending to cover the neck and shoulders.
