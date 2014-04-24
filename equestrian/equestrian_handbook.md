@@ -177,7 +177,7 @@ The neck, including the larynx, cervical vertebrae, and first thoracic vertebra 
 Foam tipped jousting only and suggested for heavy mounted combat - rigid material covering chest and torso. Standard equestrian riding vests are deemed equivalent.
 
 #### Groin
-#oam tipped jousting only - groin area must be protected by sufficient means including saddle or armor.
+Foam tipped jousting only - groin area must be protected by sufficient means including saddle or armor.
  
 #### Hands
 1. Heavy mounted combat and mounted crest combat - leather gloves.
