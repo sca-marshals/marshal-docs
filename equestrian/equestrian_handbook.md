@@ -21,190 +21,79 @@ It places greater emphasis on individual accountability for equestrians and more
 With proper management the inherent risks associated with equestrian activities can be minimized in order to allow us to enjoy these magnificent animals.
 Please note that the rules relating to certain equestrian activities, i.e.  jousting, mounted combat, etc., that were formerly contained in this handbook have been broken out into a separate set of guidelines in order to allow easier dissemination of information relating to those activities.
 
-I. Equestrian Program
- A. Society Equestrian Officer
- 1. There shall be a Society Equestrian Officer (SEO) to coordinate equestrian
- activities and maintain a handbook of regulations with agreement of the governing
- body within the SCA. The SEO is a deputy to the Society Earl Marshal.
- 2. The SEO shall oversee the Kingdom Equestrian Officers.
- 3. The SEO shall have authority to investigate and address incidents involving
- equestrian activities within the Society. This authority includes the right to
- sanction individuals who engage in inappropriate behavior, up to and including the
- removal of equestrian authorizations.
- 4. The SEO shall have the authority to warrant deputies to assist in conducting
- equestrian activities. Their authority will be as determined by the SEO, and may
- include serving as equestrian marshals. Upon the appointment of a new SEO all
- existing deputy warrants will terminate.
- B. Kingdom Equestrian Officers
- 1. Each Kingdom that intends to conduct equestrian activities shall designate a
- Kingdom Equestrian Officer (KEO). This designation shall be made by the
- Kingdom Earl Marshal and Crown and should consider the individual’s experience
- and familiarity with equestrian activities within the Society. Each Kingdom is free
- to title their KEO as they deem fit.
- 2. The duties of the KEO include:
- (a) Oversight of equestrian activities within the Kingdom. The KEO shall have
- authority to investigate and address incidents involving equestrian activities
- within their Kingdom. This authority includes the right to sanction individuals
- who engage in inappropriate behavior, up to and including the removal of
- equestrian authorizations.
- (b) Reporting as follows:
- (1) Quarterly reports- The KEO must generate, at minimum, quarterly reports on
- equestrian activities to the Kingdom Earl Marshal with a collateral report to
- the Society Equestrian Officer.
- (2) Accident reports- In the event of an injury to a person or animal, requiring
- medical attention, occurring at a Society-sponsored equestrian activity, the
- KEO will make an oral report to the Kingdom Earl Marshal, Kingdom
- Seneschal and the SEO within 24 hours of being notified of the incident,
- followed by a written report to the same within 72 hours delineating the
- circumstances of the incident. If the injury is to a person, then a copy of the
- report should also go to the Kingdom Chirurgeon.
- (c) Maintaining a roster that indicates those individuals warranted as equestrian
- marshals, as well as those authorized to participate in equestrian activities.
- (d) Monitoring the mandatory notification of the SCA corporate office of SCA
- equestrian events and payment of appropriate fees.
- (e) Maintaining records relating to equestrian matters, including but not limited to
- all incident reports, and copies of insurance forms after receipt from the
- Equestrian Marshal in Charge (EqMIC) of equestrian events. The KEO shall
- verify that waivers are handled in compliance with Kingdom procedures.
- Equestrian Handbook, Revised October 10, 2012.
+# Equestrian Program
+## Society Equestrian Officer
+1. There shall be a Society Equestrian Officer (SEO) to coordinate equestrian activities and maintain a handbook of regulations with agreement of the governing body within the SCA. The SEO is a deputy to the Society Earl Marshal.
+2. The SEO shall oversee the Kingdom Equestrian Officers.
+3. The SEO shall have authority to investigate and address incidents involving equestrian activities within the Society. This authority includes the right to sanction individuals who engage in inappropriate behavior, up to and including the removal of equestrian authorizations.
+4. The SEO shall have the authority to warrant deputies to assist in conducting equestrian activities. Their authority will be as determined by the SEO, and may include serving as equestrian marshals. Upon the appointment of a new SEO all existing deputy warrants will terminate.
+## Kingdom Equestrian Officers
+1. Each Kingdom that intends to conduct equestrian activities shall designate a Kingdom Equestrian Officer (KEO). This designation shall be made by the
+ Kingdom Earl Marshal and Crown and should consider the individual’s experience and familiarity with equestrian activities within the Society. Each Kingdom is free to title their KEO as they deem fit.
+2. The duties of the KEO include:
+    1. Oversight of equestrian activities within the Kingdom. The KEO shall have authority to investigate and address incidents involving equestrian activities within their Kingdom. This authority includes the right to sanction individuals who engage in inappropriate behavior, up to and including the removal of equestrian authorizations.
+    2. Reporting as follows:
+        1. Quarterly reports- The KEO must generate, at minimum, quarterly reports on equestrian activities to the Kingdom Earl Marshal with a collateral report to the Society Equestrian Officer.
+        2. Accident reports- In the event of an injury to a person or animal, requiring medical attention, occurring at a Society-sponsored equestrian activity, the KEO will make an oral report to the Kingdom Earl Marshal, Kingdom Seneschal and the SEO within 24 hours of being notified of the incident, followed by a written report to the same within 72 hours delineating the circumstances of the incident. If the injury is to a person, then a copy of the report should also go to the Kingdom Chirurgeon.
+    3. Maintaining a roster that indicates those individuals warranted as equestrian marshals, as well as those authorized to participate in equestrian activities.
+    4. Monitoring the mandatory notification of the SCA corporate office of SCA equestrian events and payment of appropriate fees.
+    5. Maintaining records relating to equestrian matters, including but not limited to all incident reports, and copies of insurance forms after receipt from the Equestrian Marshal in Charge (EqMIC) of equestrian events. The KEO shall verify that waivers are handled in compliance with Kingdom procedures.  Equestrian Handbook, Revised October 10, 2012.
+    6. Upon assuming the office of KEO, providing the SEO with current contact information.
+3. The KEO shall have the authority to warrant deputies to assist in conducting equestrian activities. Their authority will be as determined by the KEO, and may include serving as equestrian marshals. Upon the appointment of a new KEO all existing deputy warrants will terminate.
 
-(f) Upon assuming the office of KEO, providing the SEO with current contact
- information.
- 3. The KEO shall have the authority to warrant deputies to assist in conducting
- equestrian activities. Their authority will be as determined by the KEO, and may
- include serving as equestrian marshals. Upon the appointment of a new KEO all
- existing deputy warrants will terminate.
- C. Equestrian Marshals.
- 1. General Requirements: There are three near-equal priorities in marshaling; safety,
- fair witness, and showmanship. Overemphasizing any one at the expense of the
- others will tend to make the equestrian activities less enjoyable for everyone
- (although, if you must go overboard on one, pick safety).
- 2. A Marshal may be authorized after demonstrating the ability to oversee equestrian
- activities, judge an equestrian’s authorization, and inspect weapons and equipment.
- 3. Unless warranted or rostered by the KEO as an officer of the kingdom, a marshal
- may not be the Marshal in Charge of an event or sign the paperwork to authorize
- equestrians.
- 4. Kingdoms may have other types of Marshals other than Authorized Equestrian
- Marshals (local Knight Marshals, Constables, etc.) as they see fit. These individuals
- may be warranted or rostered by the KEO of the Kingdom. However, unless the
- marshal has undergone a Marshal’s Authorization, they shall not give final
- approval of the suitability of weapons or equipment, or be involved in the
- authorization of participants.
- 5. Only the KEO or a designated Deputy may perform a Marshal’s Authorization.
- They must witness the authorization and execute the appropriate paperwork to
- ensure that the authorization is registered. At a minimum, a Marshal’s
- Authorization shall include the following:
- (a) The candidate must have a good working knowledge of the Equestrian
- Handbook and any additional Kingdom rules or conventions.
- (b) The candidate must be willing to enforce the Equestrian Handbook and any
- additional Kingdom rules or conventions.
- (c) The candidate must have a good working knowledge of the Society equestrian
- equipment standards and any additional Kingdom equestrian equipment
- standards.
- (d) The candidate must demonstrate the ability to conduct an inspection of armor,
- weapons and equipment used in equestrian activities.
- (e) The candidate must demonstrate the ability to conduct an inspection of
- equestrians.
- (f) The candidate must demonstrate an awareness of the risks inherent to equestrian
- activities.
- (g.) The candidate must demonstrate the ability to safely control SCA equestrian
- activities to minimize those risks.
- 6. The KEO or a designated Deputy may restrict the ability of an Authorized Marshal
- to authorize equestrians in whole or for certain activities.
- 7. All warranted or rostered marshals shall be members of the Society for Creative
- Anachronism Inc.
- Equestrian Handbook, Revised October 10, 2012.
+## Equestrian Marshals.
+1. General Requirements: There are three near-equal priorities in marshaling; safety, fair witness, and showmanship. Overemphasizing any one at the expense of the others will tend to make the equestrian activities less enjoyable for everyone (although, if you must go overboard on one, pick safety).
+2. A Marshal may be authorized after demonstrating the ability to oversee equestrian activities, judge an equestrian’s authorization, and inspect weapons and equipment.
+3. Unless warranted or rostered by the KEO as an officer of the kingdom, a marshal may not be the Marshal in Charge of an event or sign the paperwork to authorize equestrians.
+4. Kingdoms may have other types of Marshals other than Authorized Equestrian Marshals (local Knight Marshals, Constables, etc.) as they see fit. These individuals may be warranted or rostered by the KEO of the Kingdom. However, unless the marshal has undergone a Marshal’s Authorization, they shall not give final approval of the suitability of weapons or equipment, or be involved in the authorization of participants.
+5. Only the KEO or a designated Deputy may perform a Marshal’s Authorization.  They must witness the authorization and execute the appropriate paperwork to ensure that the authorization is registered. At a minimum, a Marshal’s Authorization shall include the following:
+    1. The candidate must have a good working knowledge of the Equestrian Handbook and any additional Kingdom rules or conventions.
+    2. The candidate must be willing to enforce the Equestrian Handbook and any additional Kingdom rules or conventions.
+    3. The candidate must have a good working knowledge of the Society equestrian equipment standards and any additional Kingdom equestrian equipment standards.
+    4. The candidate must demonstrate the ability to conduct an inspection of armor, weapons and equipment used in equestrian activities.
+    5. The candidate must demonstrate the ability to conduct an inspection of equestrians.
+    6. The candidate must demonstrate an awareness of the risks inherent to equestrian activities.
+    7. The candidate must demonstrate the ability to safely control SCA equestrian activities to minimize those risks.
+6. The KEO or a designated Deputy may restrict the ability of an Authorized Marshal to authorize equestrians in whole or for certain activities.
+7. All warranted or rostered marshals shall be members of the Society for Creative Anachronism Inc.
 
-II. Equestrian Authorizations
- A. Authorization Requirements. An individual must be an authorized equestrian in order
- to ride at an event. The only exceptions to this requirement are:
- 1. An individual in the process of authorizing under the supervision of an Equestrian
- Marshal.
- 2. An individual being led in a processional. The groom leading the horse shall be an
- authorized equestrian.
- 3. Individual[s] demonstrating an activity with the approval of the Kingdom
- Equestrian Officer. The Equestrian Marshal in Charge of the event (EqMIC) shall
- oversee the demonstration. This demonstration is subject to the following
- requirements:
- (a) Equestrian waiver[s] must be executed prior to conducting any demonstration
- under this exception.
- (b) The demonstration must be conducted under the supervision of a warranted
- equestrian marshal.
- (c) The EqMIC shall include any waivers signed pursuant to this exception with
- their event report. Additionally, a description of the demonstration and any
- comments or concerns should be included in the report.
- B. Authorization Types. Equestrians are authorized to participate according to the
- activities they engage in. Authorizations shall take place at a SCA activity such as an
- event and/or practice. See III. Event Requirements.
- 1. General Riding. An individual may be authorized solely for riding. In conducting
- an authorization, the Authorizing Equestrian Marshal should consider the
- following:
- (a) The individual must demonstrate familiarity with the Society Equestrian
- Handbook, any Kingdom specific equestrian requirements, and the nature of
- equestrian activities within the Society.
- (b) The individual must demonstrate an awareness of the risks inherent to
- equestrian activities, including recognition of how their current skill level relates
- to the horse they intend to ride.
- (c) The individual must demonstrate the ability to safely control their horse while
- engaging in SCA equestrian activities.
- 2. Mounted Games. Additionally, an equestrian may be authorized for participation
- in mounted games. In addition to the foregoing, the Authorizing Equestrian
- Marshal should consider the following:
- (a) The individual must demonstrate familiarity with the equipment used in SCA
- mounted games.
- (b) The individual must demonstrate the ability to safely control their horse while
- engaging in SCA equestrian activities while encumbered by the appropriate
- equipment.
- 3. Youths may be authorized as equestrians subject to the following limitations:
- (a) Youths must be at least five (5) years of age in order to participate in equestrian
- activities, and be able to demonstrate the ability to control the equine,
- unassisted, at the gaits and in the activities covered by the authorization sought.
- Age restrictions required by individual site owners must be observed.
- Equestrian Handbook, Revised October 10, 2012.
+## Equestrian Authorizations
+1. Authorization Requirements. An individual must be an authorized equestrian in order to ride at an event. The only exceptions to this requirement are:
+    1. An individual in the process of authorizing under the supervision of an Equestrian Marshal.
+    2. An individual being led in a processional. The groom leading the horse shall be an authorized equestrian.
+    3. Individual[s] demonstrating an activity with the approval of the Kingdom Equestrian Officer. The Equestrian Marshal in Charge of the event (EqMIC) shall oversee the demonstration. This demonstration is subject to the following requirements:
+        1. Equestrian waiver[s] must be executed prior to conducting any demonstration under this exception.
+        2. The demonstration must be conducted under the supervision of a warranted equestrian marshal.
+        3. The EqMIC shall include any waivers signed pursuant to this exception with their event report. Additionally, a description of the demonstration and any comments or concerns should be included in the report.
+2. Authorization Types. Equestrians are authorized to participate according to the activities they engage in. Authorizations shall take place at a SCA activity such as an event and/or practice. See III. Event Requirements.
+    1. General Riding. An individual may be authorized solely for riding. In conducting an authorization, the Authorizing Equestrian Marshal should consider the following:
+        1. The individual must demonstrate familiarity with the Society Equestrian Handbook, any Kingdom specific equestrian requirements, and the nature of equestrian activities within the Society.
+        2. The individual must demonstrate an awareness of the risks inherent to equestrian activities, including recognition of how their current skill level relates to the horse they intend to ride.
+        3. The individual must demonstrate the ability to safely control their horse while engaging in SCA equestrian activities.
+    2. Mounted Games. Additionally, an equestrian may be authorized for participation in mounted games. In addition to the foregoing, the Authorizing Equestrian Marshal should consider the following:
+        1. The individual must demonstrate familiarity with the equipment used in SCA mounted games.
+        2. The individual must demonstrate the ability to safely control their horse while engaging in SCA equestrian activities while encumbered by the appropriate equipment.
+        3. Youths may be authorized as equestrians subject to the following limitations:
+            1. Youths must be at least five (5) years of age in order to participate in equestrian activities, and be able to demonstrate the ability to control the equine, unassisted, at the gaits and in the activities covered by the authorization sought.  Age restrictions required by individual site owners must be observed.
+            2. Youths are prohibited from participating in activities requiring a helm, namely jousting and mounted combat.
+            3. A parent or legal guardian must be immediately available to the Equestrian Marshal in Charge when a youth is engaged in equestrian activities, including serving as ground crew.
+            4. A parent or legal guardian must attend the authorization process and execute a waiver authorizing a youth to participate in equestrian activities. The parent or legal guardian must also sign the authorization form.
+            5. Youths must wear heeled shoes and approved equestrian riding helmets fitted according to the manufacturer's directions and while mounted.
+        4. Authorizations shall not be issued to persons residing in other kingdoms unless such persons are defined as subjects of the issuing kingdom by specific royal treaty or by exceptions under parts II.4.a and II.4.b.
+            1. Individuals residing in a Kingdom without an EQ program may be authorized in ONE other Kingdom, providing the KEM of the Kingdom the individual resides in approves, and both the KEO and KEM of the sponsoring Kingdom are willing to sponsor said individual.
+            2. Individuals residing in a Kingdom that has an EQ program, but does not have specialty activities in their program can authorize for these specialty activities in ONE other Kingdom, providing both the KEO and KEM of the Kingdom the individual resides in approves, and both the KEO and KEM of the sponsoring Kingdom are willing to sponsor said individual.
+            3. For authorizations done under parts II.4.a or II.4.b, The sponsoring Kingdom Equestrian Officer shall maintain a record of all such authorizations and administer them in the same manner as resident authorizations
 
-(b) Youths are prohibited from participating in activities requiring a helm, namely
- jousting and mounted combat.
- (c) A parent or legal guardian must be immediately available to the Equestrian
- Marshal in Charge when a youth is engaged in equestrian activities, including
- serving as ground crew.
- (d) A parent or legal guardian must attend the authorization process and execute a
- waiver authorizing a youth to participate in equestrian activities. The parent or
- legal guardian must also sign the authorization form.
- (e) Youths must wear heeled shoes and approved equestrian riding helmets fitted
- according to the manufacturer's directions and while mounted.
- 4. Authorizations shall not be issued to persons residing in other kingdoms unless such
- persons are defined as subjects of the issuing kingdom by specific royal treaty or by
- exceptions under parts II.4.a and II.4.b.
- (a) Individuals residing in a Kingdom without an EQ program may be authorized in
- ONE other Kingdom, providing the KEM of the Kingdom the individual resides
- in approves, and both the KEO and KEM of the sponsoring Kingdom are willing
- to sponsor said individual.
- (b) Individuals residing in a Kingdom that has an EQ program, but does not have
- specialty activities in their program can authorize for these specialty activities in
- ONE other Kingdom, providing both the KEO and KEM of the Kingdom the
- individual resides in approves, and both the KEO and KEM of the sponsoring
- Kingdom are willing to sponsor said individual.
- (c) For authorizations done under parts II.4.a or II.4.b, The sponsoring Kingdom
- Equestrian Officer shall maintain a record of all such authorizations and
- administer them in the same manner as resident authorizations
- C. Waiver requirement. The "Waiver and Informed Consent to Participate in SCA Inc.
- Equestrian Activities" shall be signed during authorization with only one signature per
- form. If a State specific "Waiver" is available it should be used. If there is no "Waiver"
- for your State, then use the "Society Standard Equine Activity Liability Form". An
- additional sheet may be attached to contain additional personal information. This
- requirement does not apply to areas and countries that are covered by affiliate
- corporations.
- D. Maximum term for authorization. No authorization may be for a period greater than 4
- years.
- E. Out of Kingdom Authorizations. Valid authorization cards shall be accepted outside
- the issuing kingdom as proof of authorizations. Visitors with a valid authorization card
- from another kingdom must abide by the equestrian regulations of the kingdom they
- are visiting. Kingdoms may define additional requirements before renewing an
- authorization card for a person who has moved into that kingdom from another
- kingdom.
- Equestrian Handbook, Revised October 10, 2012.
+## Waiver requirement. 
+The "Waiver and Informed Consent to Participate in SCA Inc.  Equestrian Activities" shall be signed during authorization with only one signature per form. If a State specific "Waiver" is available it should be used. If there is no "Waiver" for your State, then use the "Society Standard Equine Activity Liability Form". An additional sheet may be attached to contain additional personal information. This requirement does not apply to areas and countries that are covered by affiliate corporations.
 
-III. Event Requirements
+## Maximum term for authorization. 
+No authorization may be for a period greater than 4 years.
+
+## Out of Kingdom Authorizations. 
+Valid authorization cards shall be accepted outside the issuing kingdom as proof of authorizations. Visitors with a valid authorization card from another kingdom must abide by the equestrian regulations of the kingdom they are visiting. Kingdoms may define additional requirements before renewing an authorization card for a person who has moved into that kingdom from another kingdom.
+
+# Event Requirements
  A. Equestrian events. An autocrat or event steward wishing to include equestrian
  activities at an event shall arrange for a warranted equestrian marshal to serve as the
  Equestrian Marshal in Charge (EqMIC).
