@@ -1,9 +1,4 @@
-Society for Creative Anachronism\
- Equestrian Handbook\
- Equestrian Handbook, Revised October 10, 2012.\
- 1\
-
-* * * * *
+# Equestrian Handbook, Revised October 10, 2012.
 
 Copyright © 2003, 2007, 2012, by The Society for Creative Anachronism, Inc. All Rights Reserved.\
  This handbook is an official corporate publication of the Society for Creative Anachronism, Inc., a\
@@ -16,9 +11,6 @@ Copyright © 2003, 2007, 2012, by The Society for Creative Anachronism, Inc. All
  document will be posted at http://www.sca.org and further reproduction on other Internet sites is expressly\
  forbidden.\
  Equestrian Handbook, Revised October 10, 2012.\
- 2\
-
-* * * * *
 
 Introduction to the Society Equestrian Handbook\
  As our equestrian community marks its 40th anniversary, we have chosen to examine how\
@@ -80,9 +72,6 @@ Introduction to the Society Equestrian Handbook\
  Appendix 1- Insurance instructions\
  13\
  Equestrian Handbook, Revised October 10, 2012.\
- 3\
-
-* * * * *
 
 I. Equestrian Program\
  A. Society Equestrian Officer\
@@ -130,9 +119,6 @@ I. Equestrian Program\
  Equestrian Marshal in Charge (EqMIC) of equestrian events. The KEO shall\
  verify that waivers are handled in compliance with Kingdom procedures.\
  Equestrian Handbook, Revised October 10, 2012.\
- 4\
-
-* * * * *
 
 (f) Upon assuming the office of KEO, providing the SEO with current contact\
  information.\
@@ -180,9 +166,6 @@ I. Equestrian Program\
  7. All warranted or rostered marshals shall be members of the Society for Creative\
  Anachronism Inc.\
  Equestrian Handbook, Revised October 10, 2012.\
- 5\
-
-* * * * *
 
 II. Equestrian Authorizations\
  A. Authorization Requirements. An individual must be an authorized equestrian in order\
@@ -230,9 +213,6 @@ II. Equestrian Authorizations\
  unassisted, at the gaits and in the activities covered by the authorization sought.\
  Age restrictions required by individual site owners must be observed.\
  Equestrian Handbook, Revised October 10, 2012.\
- 6\
-
-* * * * *
 
 (b) Youths are prohibited from participating in activities requiring a helm, namely\
  jousting and mounted combat.\
@@ -275,9 +255,6 @@ II. Equestrian Authorizations\
  authorization card for a person who has moved into that kingdom from another\
  kingdom.\
  Equestrian Handbook, Revised October 10, 2012.\
- 7\
-
-* * * * *
 
 III. Event Requirements\
  A. Equestrian events. An autocrat or event steward wishing to include equestrian\
@@ -327,9 +304,6 @@ III. Event Requirements\
  (a) The EqMIC must send a written report of each equestrian event to the KEO\
  within 10 business days after the event. This report shall include the total\
  Equestrian Handbook, Revised October 10, 2012.\
- 8\
-
-* * * * *
 
 number in attendance, number of equines, number of riders, type of equestrian\
  activities performed, and any concerns or incidents arising from the event.\
@@ -375,9 +349,6 @@ number in attendance, number of equines, number of riders, type of equestrian\
  (1) Helms must be of rigid materials (18-gauge mild steel or equivalent).\
  Fencing masks are acceptable for mounted crest combat use only.\
  Equestrian Handbook, Revised October 10, 2012.\
- 9\
-
-* * * * *
 
 (2) Face guards shall prevent a 1-inch (25.4mm) diameter dowel from entering\
  into any of the face guard openings.\
@@ -427,9 +398,6 @@ number in attendance, number of equines, number of riders, type of equestrian\
  shield, demi or full gauntlets, or equivalent (i.e. vamplate on lance).\
  (g) Leg, arm, and shoulder protection - armor recommended, but not required.\
  Equestrian Handbook, Revised October 10, 2012.\
- 10\
-
-* * * * *
 
 (h) Shields: The shields must be constructed of rigid, non-brittle, materials.\
  Recommended is ½-inch plywood. The edges should be blunt and corners\
@@ -479,9 +447,6 @@ number in attendance, number of equines, number of riders, type of equestrian\
  materials. All tips and edges should be blunted.\
  (b) Lances, spears and javelins.\
  Equestrian Handbook, Revised October 10, 2012.\
- 11\
-
-* * * * *
 
 (1) Foam tipped lances.\
  a. May be up to 12-feet in total length.\
@@ -527,9 +492,6 @@ number in attendance, number of equines, number of riders, type of equestrian\
  2. Non-brittle: Shall refer to material that will not break or shatter upon being\
  subjected to a stiff strike.\
  Equestrian Handbook, Revised October 10, 2012.\
- 12\
-
-* * * * *
 
 Appendix 1- Insurance Ordering Instructions\
  The Equestrian Marshal in Charge is responsible for ensuring that the SCA equestrian insurance\
@@ -572,6 +534,3 @@ Appendix 1- Insurance Ordering Instructions\
  information: [http://www.sca.org/docs/pdf/eq-insurance.pdf.](http://www.sca.org/docs/pdf/eq-insurance.pdf)For ordering instructions:\
  [http://sca.org/docs/pdf/insurancecert.pdf.](http://sca.org/docs/pdf/insurancecert.pdf)\
  Equestrian Handbook, Revised October 10, 2012.\
- 13\
-
-* * * * *
