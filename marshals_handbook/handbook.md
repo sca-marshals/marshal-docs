@@ -180,10 +180,12 @@ Posing for still photographs with real weapons is permitted.
     9.  All helms shall be equipped with a chin strap or equivalent means to prevent the helm from being dislodged or metal contacting the wearer’s face during combat. An equivalent might be, for example, a bevor or a chin-cup suspension system. A “snug fit” is NOT an equivalent. The chin strap shall be, at a minimum, .5 inch (12.7 mm) in width and shall not be placed in the helm in a manner that could strangle the wearer.
 
 3.  Eye Wear
-The lenses of all eyewear shall be constructed of shatterproof industrial safety glass or plastic. Ordinary glass lenses are prohibited. The wearing of contact lenses or “sports glasses” is strongly recommended.
+
+    The lenses of all eyewear shall be constructed of shatterproof industrial safety glass or plastic. Ordinary glass lenses are prohibited. The wearing of contact lenses or “sports glasses” is strongly recommended.
 
 4.  Neck Armor
-The neck, including the larynx, cervical vertebrae, and first thoracic vertebra must be covered by one or a combination of the following and must stay covered during typical combat situations, including turning the head, lifting the chin, etc.:
+
+    The neck, including the larynx, cervical vertebrae, and first thoracic vertebra must be covered by one or a combination of the following and must stay covered during typical combat situations, including turning the head, lifting the chin, etc.:
 
     1.  The helm
     2.  A gorget of rigid material 
@@ -195,7 +197,8 @@ The neck, including the larynx, cervical vertebrae, and first thoracic vertebra 
     3.  For women, groin protection of closed-cell foam or heavy leather or the equivalent is required to cover the pubic bone area. The wearing of a male athletic cup by female fighters is prohibited.
     4.  Separate breast cups are prohibited unless connected by or mounted on an interconnecting rigid piece, for example, a heavy leather or metal breastplate.
 5.  Hand and Wrist Armor: 
-The outer surfaces of the hand, to one inch above the wrist of both arms and including the thumb, must be covered by one or a combination of the following:
+
+    The outer surfaces of the hand, to one inch above the wrist of both arms and including the thumb, must be covered by one or a combination of the following:
 
     1.  A rigid basket or cup hilt with enough bars or plates to prevent a blow from striking the fingers or the back of the hand. If a basket or cup hilt, shield basket, or center-grip shield is used, a vambrace and or partial gauntlet shall cover the remaining exposed portions of the hand and wrist.
     2.  A gauntlet of rigid material either lined with .25 inch (6 mm) of closed-cell foam or equivalent or designed to transfer potentially injurious impact to the surfaces being grasped.
@@ -204,7 +207,8 @@ The outer surfaces of the hand, to one inch above the wrist of both arms and inc
     5.  Combat archers, siege engineers, and those using a thrown weapon, need only a half-gauntlet made to the above standards for gauntlets but without finger protection.
 
 6.  Arm Armor
-The elbow point and bones at either side of the elbow joint must be covered by a rigid material underlain by at least .25 inch (6 mm) of closed-cell foam or equivalent padding. This armor shall be attached in such a way that the elbow remains covered during combat. A shield alone is sufficient on a side-strapped shield, if the elbow is 4 inches (10.2 cm) or more from the edge of the shield during typical use.
+
+    The elbow point and bones at either side of the elbow joint must be covered by a rigid material underlain by at least .25 inch (6 mm) of closed-cell foam or equivalent padding. This armor shall be attached in such a way that the elbow remains covered during combat. A shield alone is sufficient on a side-strapped shield, if the elbow is 4 inches (10.2 cm) or more from the edge of the shield during typical use.
 
 7.  Leg Armor
     1.  The kneecap, including the area one inch (25.4 mm) above and below it, and both sides of the knee joints, must be covered by rigid material, lined by at least .25 inch (6 mm) of closed-cell foam or an equivalent padding. This armor shall be attached in such a way that the knee remains covered during combat.
