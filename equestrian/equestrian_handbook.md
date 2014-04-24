@@ -184,66 +184,45 @@ All equipment must be inspected for use prior to engaging in equestrian combat a
             3. Police Riot gear. Full-faced riot protection made of 1/8 inch lexan attached to the bridle of the horse.
 
 2. Weapon requirements.
- (a) Single Handed weapons.
- (1) Mounted Crest Combat. "Boffer" weapons are to be used in this activity.
- a. Base material shall be schedule 40 ½-inch PVC plastic pipe. Both ends
- must be capped, but accessible to marshals for inspection’ to the
- requirement for end caps to the swords.
- b. Minimum ½-inch closed cell foam padding over all striking surfaces.
- c. Minimum diameter of 1 ¼-inch.
- d. If quillions are used they should not extend more than 1 inch beyond the
- hand when held.
- e. Thrusting tips are not allowed in mounted crest combat.
- (2) Heavy Mounted Combat. Sturdier ‘Boffer’ style weapons are used in this
- activity.
- a. Base material may be 1 inch diameter rattan or schedule 40 ¾-inch PVC
- plastic pipe. If PVC pipe is used as the base material, both ends must be
+    1. Single Handed weapons.
+        1. Mounted Crest Combat. "Boffer" weapons are to be used in this activity.
+            1. Base material shall be schedule 40 ½-inch PVC plastic pipe. Both ends must be capped, but accessible to marshals for inspection’ to the requirement for end caps to the swords.
+            2. Minimum ½-inch closed cell foam padding over all striking surfaces.
+            3. Minimum diameter of 1 ¼-inch.
+            4. If quillions are used they should not extend more than 1 inch beyond the hand when held.
+            5. Thrusting tips are not allowed in mounted crest combat.
+        2. Heavy Mounted Combat. Sturdier ‘Boffer’ style weapons are used in this activity.
+            1. Base material may be 1 inch diameter rattan or schedule 40 ¾-inch PVC plastic pipe. If PVC pipe is used as the base material, both ends must be
  capped.
- b. Minimum 1/2 inch closed cell foam padding over all striking surfaces.
- c. Minimum diameter of 1 ¼-inch.
- d. Cutting edge shall be marked in a contrasting color.
- e. Swords shall have a hand guard, such as a basket hilt, quillions, or
- equivalent.
- f. Maximum weight should not exceed 4-pounds.
- g. Thrusting tips are not allowed in mounted combat.
- (3) Weapons constructed other than as set out above may be approved on a
- kingdom level basis for use in Mounted Crest Combat or Heavy Mounted
- Combat. Construction methods for these weapons vary; therefore only
- weapons equivalent to the weapons described above shall be used. If there is
- a question regarding equivalency, the KEO shall make the determination.
- (4) Mounted Games. Riders may use hand held weapons made of non-brittle
- materials. All tips and edges should be blunted.
- (b) Lances, spears and javelins.
- Equestrian Handbook, Revised October 10, 2012.
+            2. Minimum 1/2 inch closed cell foam padding over all striking surfaces.
+            3. Minimum diameter of 1 ¼-inch.
+            4. Cutting edge shall be marked in a contrasting color.
+            5. Swords shall have a hand guard, such as a basket hilt, quillions, or equivalent.
+            6. Maximum weight should not exceed 4-pounds.
+            7. Thrusting tips are not allowed in mounted combat.
+        3. Weapons constructed other than as set out above may be approved on a kingdom level basis for use in Mounted Crest Combat or Heavy Mounted Combat. Construction methods for these weapons vary; therefore only weapons equivalent to the weapons described above shall be used. If there is a question regarding equivalency, the KEO shall make the determination.
+        4. Mounted Games. Riders may use hand held weapons made of non-brittle materials. All tips and edges should be blunted.
+    2. Lances, spears and javelins.
+        1. Foam tipped lances.
+            1. May be up to 12-feet in total length.
+            2. The lance shall be constructed in three sections including the tip, middle, and base. The tip and the base will socket into the middle section.
+            3. Lances must use a foam tip extending at least 22-inches beyond the middle section. Approved foams are expanded polystyrene foam (Styrofoam) or Extruded Insulation Foam, of 2-inch diameter and 2-lb./ft³ density.
+            4. The middle section consists of a cardboard tube with a 2-inch interior diameter and a maximum of a 1/8-inch side wall.
+            5. The base section may be made of any non-brittle material. The maximum length of the base section is 45-inches, including a recommended 6 inches extending into the middle section. It is recommended the base section be carved from wood.
+        2. Spears and javelins
+            1. May be up to 9-feet in total length.
+            2. Spears and javelins may be equipped with metal tips.
+        3. Quintain and Ring Lances may be up to 16-feet in length
+    3. Bows
+        1. Bow poundage is not to exceed 35-pounds for use with target arrows and not to exceed 50-pounds for combat arrows.
+    4. Arrows
+        1. All arrows should be inspected prior to each use.
+        2. Combat arrows must be constructed according to Society standards.
 
-(1) Foam tipped lances.
- a. May be up to 12-feet in total length.
- b. The lance shall be constructed in three sections including the tip, middle,
- and base. The tip and the base will socket into the middle section.
- c. Lances must use a foam tip extending at least 22-inches beyond the middle
- section. Approved foams are expanded polystyrene foam (Styrofoam) or
- Extruded Insulation Foam, of 2-inch diameter and 2-lb./ft³ density.
- d. The middle section consists of a cardboard tube with a 2-inch interior
- diameter and a maximum of a 1/8-inch side wall.
- e. The base section may be made of any non-brittle material. The maximum
- length of the base section is 45-inches, including a recommended 6 inches
- extending into the middle section. It is recommended the base section be
- carved from wood.
- (2) Spears and javelins
- a. May be up to 9-feet in total length.
- b. Spears and javelins may be equipped with metal tips.
- (3) Quintain and Ring Lances may be up to 16-feet in length
- (c) Bows
- (1) Bow poundage is not to exceed 35-pounds for use with target arrows and not
- to exceed 50-pounds for combat arrows.
- (d) Arrows
- (1) All arrows should be inspected prior to each use.
- (2) Combat arrows must be constructed according to Society standards.
- 3. Tack. Riders are required to use tack sufficient to allow them to maintain control of
- their equine. Such tack traditionally includes use of a bridle and saddle, however
- other combinations of tack may be allowed upon demonstration of control of the
- horse to the satisfaction of the EqMIC.
- B. Glossary.
+3. Tack. Riders are required to use tack sufficient to allow them to maintain control of their equine. Such tack traditionally includes use of a bridle and saddle, however other combinations of tack may be allowed upon demonstration of control of the horse to the satisfaction of the EqMIC.
+
+
+## Glossary.
  1. Rigid material:
  a. Steel of no less than 18 gauge, or aluminum of no less than 1/8-inch (3mm).
  b. Other metals of sufficient thickness to give similar rigidity to those listed above
