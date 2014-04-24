@@ -401,8 +401,9 @@ Siege engines or structures may be used in combat during melees and wars in acco
 # MARSHALS’ SECTION
 
 ## PROCEDURES FOR THE AUTHORIZATION OF MARSHALS
-A.  General Requirements
+### General Requirements
 There are three near-equal priorities in marshaling; safety, fair witness, and showmanship. Overemphasizing any one of these at the expense of the others will tend to make the fighting less enjoyable for everyone (although, if you must go overboard on one, pick safety).
+
 1.  A marshal may be authorized after demonstrating the ability to oversee combat, judge a fighter’s authorization, and inspect weapons and armor.
 2.  Unless warranted or rostered by the Earl Marshal as an officer of the kingdom, a marshal may not be the marshal-in-charge (MIC) of an event or sign the paperwork to authorize fighters.
 3.  Kingdoms may have other types of Marshals other than Authorized Marshals (local Knight Marshals, Constables, etc.) as they see fit. These individuals may be warranted or rostered by the Earl Marshal of the Kingdom. However, unless the marshal has undergone a Marshal’s Authorization, they shall not give final approval of the suitability of weapons or armor, or be involved in the authorization of combat participants.
