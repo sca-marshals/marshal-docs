@@ -83,14 +83,17 @@ Additionally, an equestrian may be authorized for participation in mounted games
 1. The individual must demonstrate familiarity with the equipment used in SCA mounted games.
 2. The individual must demonstrate the ability to safely control their horse while engaging in SCA equestrian activities while encumbered by the appropriate equipment.
 
-### Youths may be authorized as equestrians subject to the following limitations:
+### Youth Authorizations
+Youths may be authorized as equestrians subject to the following limitations:
+
 1. Youths must be at least five (5) years of age in order to participate in equestrian activities, and be able to demonstrate the ability to control the equine, unassisted, at the gaits and in the activities covered by the authorization sought.  Age restrictions required by individual site owners must be observed.
 2. Youths are prohibited from participating in activities requiring a helm, namely jousting and mounted combat.
 3. A parent or legal guardian must be immediately available to the Equestrian Marshal in Charge when a youth is engaged in equestrian activities, including serving as ground crew.
 4. A parent or legal guardian must attend the authorization process and execute a waiver authorizing a youth to participate in equestrian activities. The parent or legal guardian must also sign the authorization form.
 5. Youths must wear heeled shoes and approved equestrian riding helmets fitted according to the manufacturer's directions and while mounted.
 
-### Authorizations shall not be issued to persons residing in other kingdoms unless such persons are defined as subjects of the issuing kingdom by specific royal treaty or by exceptions under parts II.4.a and II.4.b.
+### Other Kingdoms
+Authorizations shall not be issued to persons residing in other kingdoms unless such persons are defined as subjects of the issuing kingdom by specific royal treaty or by exceptions under parts II.4.a and II.4.b.
 
 1. Individuals residing in a Kingdom without an EQ program may be authorized in ONE other Kingdom, providing the KEM of the Kingdom the individual resides in approves, and both the KEO and KEM of the sponsoring Kingdom are willing to sponsor said individual.
 2. Individuals residing in a Kingdom that has an EQ program, but does not have specialty activities in their program can authorize for these specialty activities in ONE other Kingdom, providing both the KEO and KEM of the Kingdom the individual resides in approves, and both the KEO and KEM of the sponsoring Kingdom are willing to sponsor said individual.
