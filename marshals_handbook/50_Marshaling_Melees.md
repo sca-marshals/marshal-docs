@@ -1,0 +1,6 @@
+### Marshaling Melees
+1.  When marshaling a melee, the witness function is necessarily relegated to a very low priority. (It is not unimportant, but it is impossible for a handful of marshals to be accurate witnesses to the details of a couple of dozen separate combats.)
+2.  You should have a minimum of 3 marshals for the first 20 fighters, plus one additional marshal for each 15 fighters up to a total of 500 fighters and 35 marshals. If you have more than 500 fighters (realistically, even if you have more than 50 fighters), you should have an experienced Marshal in Charge and a sizable number of experienced marshals. It is preferable to have more marshals for free-for-all melees.
+3.  Marshals should station themselves around the edges of the fight. This allows them to control the borders while keeping as much of the fighting as possible in view. It also prevents fighters from running into them from behind. As always, keep moving and stay close enough to spot safety problems.
+4.  In very large melees, it may be desirable to have some marshals in the middle of the field, in addition to those around the edge. If you are mid-field, be careful that you do not get so interested in the fight in front of you that you back into or forget to watch another bout moving around behind you.
+

@@ -1,0 +1,12 @@
+### Fiberglass Spears
+1.  Fiberglass spears shall not have a cutting or smashing head.
+2.  Fiberglass spears shall be constructed with pultruded fiberglass shafts with an outside diameter of no less than 1.25 inch (31.8 mm) and no greater than 1 5/16 inch (33.38 mm). Minimum manufacturer specified wall thickness shall be .125 (that is, 1/8) inch (3.2 mm) and the minimum measurable wall thickness shall be 3/32 inch (2.38 mm).
+3.  The end of the shaft which will have the thrusting tip attached must be covered with a schedule-40 PVC cap with an interior diameter the same as the outside diameter of the shaft (1.25 inches or 31.8 mm). The thrusting tip will then be attached over this cap.
+4.  All fiberglass spears must have a thrusting tip that is a minimum of 2 inches (50.8 mm) in diameter/ cross-section and have 2 inches (50.8 mm) of resilient material in front of the PVC end cap, thereby providing progressively resistant give without allowing contact with the PVC end cap.
+5.  Mandrake style rubber 2" tips (black and red) are to be considered an equivalent to 3" tips for use on fiberglass spearshafts up to 9' in length as of March 1, 2011. Mandrake tips must be attached as per the instructions and all included foam discs must be used as directed in the included instructions. Tips may not be taped or attached in such a way that the mechanical properties of the tip are altered significantly.
+6.  Shafts may be spliced using a fiberglass rod or tube with a sidewall of .125 inch (3.2 mm) of the same or equivalent material, having an outside diameter of 1 inch (25.4 mm) and a length of 8–12 inches (203–304 mm). Only two splices will be allowed per spear shaft. Each end to be spliced shall be cut square and clean of cracks or frayed fibers. The rod shall extend at least 4 inches (101.6 mm) into each spliced end. One or both of these two methods shall secure the splice:
+    1.  Epoxying both ends of the fiberglass rod before insertion.
+    2.  Epoxying one end of the fiberglass rod before insertion and thoroughly taping the splice over with fiber tape.
+7.  The butt end of the shaft shall be smooth and free of cracks or frayed fibers. The butt shall be taped over or otherwise sealed. If a weapon is completely taped, a marshal may require that one section be untaped enough to determine that pultruded fiberglass has been used in the construction of the shaft.
+8.  Total spear length shall not exceed 12 feet (3.658 m).
+

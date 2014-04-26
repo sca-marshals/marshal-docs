@@ -1,0 +1,10 @@
+## COMBAT INJURY PROCEDURES
+1.  When an injury occurs on the field, it should always be remembered that the primary concern is getting to and assisting the injured party. Secondary to this objective, but no less important, is the safety of persons entering the field to help and the well-being of anyone already on the field. (For example, fighters standing around in armor in the sun could be subject to heat problems.)
+2.  All injuries that require hospitalization or similar care, include a period of unconsciousness, or may require future medical care need to be reported to your Kingdom Earl Marshal within 24 hours of the incident. Include all available details in the report.
+3.  In the event of an emergency, the marshals shall cooperate with any authorized persons responding to the emergency and keep the area clear of would-be spectators.
+4.  In the event of any suspected injury on the field, the marshal shall halt all fighting in the area and determine the proper course of action. The hold may be a local hold as long as the safety of the injured person can be maintained. The overall situation should be assessed, and, as the injured party is tended to, every effort shall be made to release as much of the field as possible so that combat may proceed.
+5.  If the injured person is conscious, they may be asked if they would like assistance. No conscious person will be forced to accept treatment without his or her consent. No non-combatant shall enter the combat area until summoned by a marshal.
+6.  A marshal shall call for assistance if they suspect that a participant is experiencing more than momentary distress. It is an extremely serious matter to delay the application of first aid when it is needed, and marshals who ignore injuries may be subject to revocation of their authorization to supervise combat-related activities.
+7.  No one may remove an injured fighter from the field without the consent of the event marshal-in-charge or an appointed deputy.
+8.  Any immediate and significant problems associated with an injury on the field shall be reported to the kingdom Earl Marshal.
+
