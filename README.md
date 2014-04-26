@@ -7,4 +7,4 @@ This will hopefully tell the tale of the conversion from PDF/Word to something w
     <pre>split.py filename.md</pre>
 
 * PDFs are created via the following:
-    'make'
+    <pre>make</pre>
