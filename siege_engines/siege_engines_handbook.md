@@ -1,11 +1,13 @@
-Society for Creative Anachronism
- Siege Engines
- Handbook
- Revision date, 21 August, 2006
- The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
- full or partial, are not controlled.
+# Introduction
 
-* * * * *
+Society for Creative Anachronism
+Siege Engines Handbook
+
+Revision date, 21 August, 2006
+
+The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either full or partial, are not controlled.
+
+# Copyright
 
 © Copyright 2006 by The Society for Creative Anachronism, Inc. All Rights Reserved.
  This handbook is an official corporate publication of the Society for Creative Anachronism, Inc., a
@@ -17,22 +19,10 @@ Society for Creative Anachronism
  SCA use provided copyright credit is given and no changes are made to the content. The contents of the
  document are posted at http://www.sca.org and further reproduction on other Internet sites is expressly
  forbidden.
- Revision date, 21 August, 2006
- The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
- full or partial, are not controlled
- 2
 
-* * * * *
+# Introduction
 
- Revision date, 21 August, 2006
- The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
- full or partial, are not controlled
- 3
-
-* * * * *
-
-Introduction
- This document is designed to provide a basic structure for the safe and effective
+This document is designed to provide a basic structure for the safe and effective
  administration of siege engine activities within the SCA. These regulations are designed to
  provide a common structure for siege activities while giving the individual Kingdoms as
  much freedom as possible to develop their own structure for the support of these activities.
@@ -53,14 +43,8 @@ Introduction
  rapid-fire devices and devices that would never have existed in period. It is expected that this
  compromise will show positive results, but that some elements will need to be modified
  during the evaluation.
- Revision date, 21 August, 2006
- The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
- full or partial, are not controlled
- 4
 
-* * * * *
-
-Siege Rules
+# Siege Rules
  I. Marshalling and Authorization
  A. Each Kingdom shall report its activities involving siege to the Society Earl
  Marshal’s Deputy for Siege on a quarterly basis. Any injury resulting from siege
@@ -100,12 +84,6 @@ Siege Rules
  b. Know the basics of armored combat marshaling (see Marshal’s Handbook)
  and conduct themselves safely on the field. (Being a warranted armored
  combat marshal is recommended but not required.)
- Revision date, 21 August, 2006
- The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
- full or partial, are not controlled
- 5
-
-* * * * *
 
 4. Marshals on the field within the range of siege combat are required to wear
  eye protection which is sufficient to protect against the missiles in use, such as
@@ -149,12 +127,6 @@ Siege Rules
  construction of engines, provided that the materials are sufficient to ensure the
  safety of the engine. For safety, the following materials have special
  requirements:
- Revision date, 21 August, 2006
- The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
- full or partial, are not controlled
- 6
-
-* * * * *
 
 a. Turnbuckles and eye bolts. When used in or attached to the source of power
  for an engine, these items shall be rated to withstand 150% of the forces
@@ -199,12 +171,6 @@ a. Turnbuckles and eye bolts. When used in or attached to the source of power
  engine will not be operated.
  5. Be able to fire 1 large siege projectile, or up to 5 small siege projectiles, or 2-20
  small arms projectiles, per shot.
- Revision date, 21 August, 2006
- The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
- full or partial, are not controlled
- 7
-
-* * * * *
 
 F. Type B engines shall:
  1. Have a minimum footprint of 12 square feet.
@@ -247,12 +213,6 @@ F. Type B engines shall:
  yellow in color, it must be manufactured to ASTM D2513; made from PE 2406;
  be 1"IPS; and have an SDR of 11. (Please note that shafts made from yellow
  Siloflex may not be covered with tape, and the markings must be visible)
- Revision date, 21 August, 2006
- The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
- full or partial, are not controlled
- 8
-
-* * * * *
 
 4. Cord.
  5. Duct and filament tape.
@@ -295,12 +255,6 @@ F. Type B engines shall:
  potential, and therefore should be used sparingly. Specialty siege ammunition may be
  used as long as it does not exceed the weight or construction limitations of the
  approved ammunitions.
- Revision date, 21 August, 2006
- The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
- full or partial, are not controlled
- 9
-
-* * * * *
 
 IV. Engine and Structure Inspection
  A. Siege engines shall be inspected before combat use. Engine inspection procedures
@@ -339,12 +293,6 @@ IV. Engine and Structure Inspection
  combat. They are to make sure that crew members are clear of moving parts and that
  non-crew personnel are not directly in front of the engine and not within 5 feet of the
  travel path of moving parts before discharging their weapon.
- Revision date, 21 August, 2006
- The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
- full or partial, are not controlled
- 10
-
-* * * * *
 
 G. Siege engine crews are responsible for the safety and condition of their ammunition,
  and shall visually inspect each round for damage before it is fired. (Ammunition that
@@ -381,12 +329,6 @@ G. Siege engine crews are responsible for the safety and condition of their ammu
  recommended that this be accomplished by hitting the structure 5 times with
  large siege munitions, and that these structures are immune from damage by
  small siege projectiles.
- Revision date, 21 August, 2006
- The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
- full or partial, are not controlled
- 11
-
-* * * * *
 
 3. Gates: It is recommended that these be destroyed upon 3 hits from large siege
  munitions, and that they are immune to small siege munitions.
@@ -426,12 +368,6 @@ G. Siege engine crews are responsible for the safety and condition of their ammu
  A. New and experimental weapons types and ammunition shall be required to undergo
  the same approval process as any other battlefield object. Current information on
  new weapons approval procedures is delineated in the Marshal's Handbook.
- Revision date, 21 August, 2006
- The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
- full or partial, are not controlled
- 12
-
-* * * * *
 
 Appendix A
  Glossary
@@ -472,9 +408,3 @@ Appendix A
  Winch A winding device, usually geared and equipped with a ratchet
  Windlass A winding device, usually consisting of a spool with double crank handles, a set
  of pulleys, and hooks, but not normally equipped with a ratcheting device.
- Revision date, 21 August, 2006
- The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
- full or partial, are not controlled
- 13
-
-* * * * *
