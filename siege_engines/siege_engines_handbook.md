@@ -24,25 +24,6 @@ Society for Creative Anachronism
 
 * * * * *
 
-Contents
- Introduction.....................................................................................................................4
- I. Marshalling and Authorization...................................................................................5
- II. SCA Siege Engines and Structures ..........................................................................6
- General Siege Engine Regulations.........................................................................6
- Type A Engines.................................................................................................….7
- Type B Engines .................................................................................................... 8
- Siege Structures ……………………………………………………………….…8
- III. Siege Ammunition ………........................................................................................8
- Large Siege Ammunition ..................................................................................…9
- Small Siege Ammunition.................................................................................…..9
- Specialty Siege Ammunition .............................................................................…9
- IV. Engine and Structure Inspection............................................................................10
- V. Siege Engine Operation ............................................................................................10
- VI. Siege Ammunition Damage …………………………………………………..…...11
- Recommendations for Damage to Structures from Siege Engines ………….......12
- VII. Destroying Siege Engines and Structures………………………………………..12
- VIII. Miscellaneous .........................................................................................................13
- Appendix A Glossary......................................................................................................14
  Revision date, 21 August, 2006
  The online version of this document is the officially released version from the Society Marshal. Any photocopies or print-outs, either
  full or partial, are not controlled
