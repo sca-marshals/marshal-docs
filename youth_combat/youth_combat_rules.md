@@ -132,13 +132,13 @@ Helmets must completely cover the head. Hockey helmets, lacrosse helmets, and ca
 5. Helmets must fit properly.
 6. Helmets in conjunction with neck protection (such as a gorget) must be constructed so that a weapon may not touch any exposed area of the head or neck.
 
-## Body
+### Body
 All combatants must have the torso, arms, and legs covered with a minimum of cloth. Long sleeve tunics, shirts, and long pants or skirts are acceptable.
 
-## Groin
+### Groin
 Boys must wear a sports cup or the equivalent. Girls must have padding or the equivalent.
 
-## Feet
+### Feet
 All combatants must wear shoes which cover the feet. Sandals, flip-flops, crocs, etc are NOT acceptable.
 
 ## Shields
