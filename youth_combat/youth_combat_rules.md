@@ -1,106 +1,62 @@
-Society Youth Combat Rules
- May 2012
+# Society Youth Combat Rules
 
- Overview-
- Youth Combat is a program designed for minors ages 6 to 17. This program emphasizes
- armor and weapon construction techniques, proper etiquette, the concepts of Chivalry,
- Honor, and Courtesy, teamwork and good sportsmanship, and effective fighting arts in a
- competitive environment that parallels Adult Armored Combat. It is not intended as a
- substitute for normal play.
- Participation-
- Any youth desiring to participate in youth combat shall have a responsible adult assume
- all risks and liabilities for any harm or medical condition arising from the youth’s
- participation in these activities. The assumption of responsibility shall be signified by all
- legal documents required by the SCA and their resident kingdom. For the purposes of
- youth combat a responsible adult is defined as the youth’s parent or court-appointed legal
- guardian.
+May 2012
 
-No youth shall participate in youth combat unless the responsible adult has completed a
- “Minor’s Consent to Participate and Hold Harmless Agreement” form. This form is
- submitted to the local seneschal who will forward it to the Kingdom Waiver Secretary.
- The minor should also have a copy of this form with him/her at all times.
- Youths may not participate in tournaments or large melees unless first authorized for
- youth combat using the procedures of their resident kingdom. They may practice or
- engage in small scale melees of 12 fighters or less prior to authorizing.
- Parental Involvement-
- 1) Youth Combat is NOT a babysitting service.
- 2) Parents/guardians have the right to remove their child from any contest or activity
- which they may deem inappropriate or hazardous.
- 3) At least one parent/guardian must be present at the lists at all times for Division 1
- fighters (ages 6 to 9).
- 4) At least one parent/guardian must be on the site where youth combat is taking
- place at all times for Division 2 fighters (ages 10 to 13).
- 5) A parent/guardian of a Division 3 fighter (ages 14 to 17) must have the program
- and rules explained to them during the minor’s first visit to an SCA youth combat
- function. After this they may designate an adult to be responsible for the minor at
- an SCA function. However, in addition to the “Minor’s Consent to Participate
- and Hold Harmless Agreement” form, a copy of the “Medical Authorization for
- Minors” form must be on file with the kingdom waiver secretary. A copy of this
- form must also accompany the minor. Parents should be available via electronic
- communications (e.g.- cell phone) in the event of an emergency.
- 6) Adults watching youth combat activities shall act in a courteous manner toward
- the combatants, marshals, youth combat officials, and other parents. Jeering and
- heckling your child’s opponent is NOT acceptable. Adults demonstrating bad
- behavior will be asked to leave the youth combat area. This may result in their
- child having to withdraw from that day’s activity.
- 7) Youth Combatants must either have a current signed blue membership card or
- have their parent/guardian execute a “Minor’s Consent to Participate and Hold
- Harmless Agreement” in order to participate in every practice, event, demo, or
- war. This form must be forwarded to the kingdom Waiver Secretary by the local
- seneschal.
- Rules of the List-
- 1) All combatants shall act in a courteous and chivalrous manner at all times.
- 2) The instructions of the marshal shall be followed at all times. Should a safety
- issue arise the marshal will call “HOLD” and all combat activity in the list will
- stop until the marshal indicates that it is safe to resume.
- 3) A fighter shall not take deliberate advantage of an opponent’s safety or chivalry.
- This includes:
+# Overview
+Youth Combat is a program designed for minors ages 6 to 17. This program emphasizes armor and weapon construction techniques, proper etiquette, the concepts of Chivalry, Honor, and Courtesy, teamwork and good sportsmanship, and effective fighting arts in a competitive environment that parallels Adult Armored Combat. It is not intended as a substitute for normal play.
 
-a) Walking around an opponent who has lost the use of his legs
- (corkscrewing).
- b) Hitting an opponent from behind.
- c) Hitting an opponent who cannot defend himself (e.g.- laying on the
- ground).
- d) Continually dropping a weapon or running into the list ropes.
- e) Grappling.
- f) Shield on body contact.
- g) Hitting with excessive force.
- h) Using a weapon in a manner for which it was not intended.
- i) Refusing to acknowledge blows.
- j) Shield on shield contact for the purpose of unbalancing or knocking down
- an opponent (shield bashing).
- k) Throwing or launching weapons at an opponent in the list. (Javelins may
- be thrown in melee combat.)
- Youth Combat Authorizations
- Kingdoms may use whatever system they prefer for authorizations as long as the
- following criteria are met:
- 1) At least one Adult Youth Combat Marshal must witness and approve the
- authorization.
- 2) Youth combatants must demonstrate their knowledge of the rules of Youth
- Combat.
- 3) Youth combatants must demonstrate that they can safely spar with other youths.
- 4) They must be able to effectively block shots.
- 5) They must be able to consistently throw shots at the appropriate level of
- calibration to legal target areas.
- 6) Kingdoms must provide documentation in the form of a card/document which
- shows that the youth is authorized to engage in youth combat in his or her
- Division. This card/document must be shown to youth combat officials before a
- youth combatant engages in youth combat activities including tournaments and
- melees.
- 7) A youth combatant who permanently moves up a Division must reauthorize.
- Marshals-
- Kingdoms may use whatever methods they deem appropriate to warrant marshals
- including, but not limited to marshal classes and marshal-in-training programs.
- All marshals shall know the Youth Combat Rules. They should be able to supervise
- youth combatants both in the lists and in melee combat. They should promote safe
- practices and enforce the rules of the list. They should be able to inspect weapons and
- armor. They should be able to authorize youth combatants according to the rules of their
+# Participation
+Any youth desiring to participate in youth combat shall have a responsible adult assume all risks and liabilities for any harm or medical condition arising from the youth’s participation in these activities. The assumption of responsibility shall be signified by all legal documents required by the SCA and their resident kingdom. For the purposes of youth combat a responsible adult is defined as the youth’s parent or court-appointed legal guardian.
 
-kingdom. All marshals must have a current blue signed SCA membership card, or have
- signed an Adult waiver form, and also have proof that they have been warranted by their
- kingdom to marshal youth combat (e.g.-warrant card).
- There are four levels of youth combat marshals-
- 1) BC Adult Youth Combat Marshal- These are marshals who have been warranted
+No youth shall participate in youth combat unless the responsible adult has completed a “Minor’s Consent to Participate and Hold Harmless Agreement” form. This form is submitted to the local seneschal who will forward it to the Kingdom Waiver Secretary.  The minor should also have a copy of this form with him/her at all times.
+
+Youths may not participate in tournaments or large melees unless first authorized for youth combat using the procedures of their resident kingdom. They may practice or engage in small scale melees of 12 fighters or less prior to authorizing.
+
+# Parental Involvement
+1. Youth Combat is NOT a babysitting service.
+2. Parents/guardians have the right to remove their child from any contest or activity which they may deem inappropriate or hazardous.
+3. At least one parent/guardian must be present at the lists at all times for Division 1 fighters (ages 6 to 9).
+4. At least one parent/guardian must be on the site where youth combat is taking place at all times for Division 2 fighters (ages 10 to 13).
+5. A parent/guardian of a Division 3 fighter (ages 14 to 17) must have the program and rules explained to them during the minor’s first visit to an SCA youth combat function. After this they may designate an adult to be responsible for the minor at an SCA function. However, in addition to the “Minor’s Consent to Participate and Hold Harmless Agreement” form, a copy of the “Medical Authorization for Minors” form must be on file with the kingdom waiver secretary. A copy of this form must also accompany the minor. Parents should be available via electronic communications (e.g.- cell phone) in the event of an emergency.
+6. Adults watching youth combat activities shall act in a courteous manner toward the combatants, marshals, youth combat officials, and other parents. Jeering and heckling your child’s opponent is NOT acceptable. Adults demonstrating bad behavior will be asked to leave the youth combat area. This may result in their child having to withdraw from that day’s activity.
+7) Youth Combatants must either have a current signed blue membership card or have their parent/guardian execute a “Minor’s Consent to Participate and Hold Harmless Agreement” in order to participate in every practice, event, demo, or war. This form must be forwarded to the kingdom Waiver Secretary by the local seneschal.
+
+# Rules of the List
+1) All combatants shall act in a courteous and chivalrous manner at all times.
+2) The instructions of the marshal shall be followed at all times. Should a safety issue arise the marshal will call “HOLD” and all combat activity in the list will stop until the marshal indicates that it is safe to resume.
+3) A fighter shall not take deliberate advantage of an opponent’s safety or chivalry.  This includes:
+
+    1. Walking around an opponent who has lost the use of his legs (corkscrewing).
+    2. Hitting an opponent from behind.
+    3. Hitting an opponent who cannot defend himself (e.g.- laying on the ground).
+    4. Continually dropping a weapon or running into the list ropes.
+    5. Grappling.
+    6. Shield on body contact.
+    7. Hitting with excessive force.
+    8. Using a weapon in a manner for which it was not intended.
+    9. Refusing to acknowledge blows.
+    10. Shield on shield contact for the purpose of unbalancing or knocking down an opponent (shield bashing).
+    11. Throwing or launching weapons at an opponent in the list. (Javelins may be thrown in melee combat.)
+
+# Youth Combat Authorizations
+ Kingdoms may use whatever system they prefer for authorizations as long as the following criteria are met:
+
+1. At least one Adult Youth Combat Marshal must witness and approve the authorization.
+2. Youth combatants must demonstrate their knowledge of the rules of Youth Combat.
+3. Youth combatants must demonstrate that they can safely spar with other youths.
+4. They must be able to effectively block shots.
+5. They must be able to consistently throw shots at the appropriate level of calibration to legal target areas.
+6. Kingdoms must provide documentation in the form of a card/document which shows that the youth is authorized to engage in youth combat in his or her Division. This card/document must be shown to youth combat officials before a youth combatant engages in youth combat activities including tournaments and melees.
+7. A youth combatant who permanently moves up a Division must reauthorize.
+
+# Marshals
+Kingdoms may use whatever methods they deem appropriate to warrant marshals including, but not limited to marshal classes and marshal-in-training programs.  
+
+All marshals shall know the Youth Combat Rules. They should be able to supervise youth combatants both in the lists and in melee combat. They should promote safe practices and enforce the rules of the list. They should be able to inspect weapons and armor. They should be able to authorize youth combatants according to the rules of their kingdom. All marshals must have a current blue signed SCA membership card, or have signed an Adult waiver form, and also have proof that they have been warranted by their kingdom to marshal youth combat (e.g.-warrant card).
+
+There are four levels of youth combat marshals:
+
+1) BC Adult Youth Combat Marshal- These are marshals who have been warranted
  by their kingdom and have passed a current SCA background check. All Youth
  Combat Marshals do NOT have to have an SCA background check, however each
  area of youth combat activities must have somebody present who has passed a
