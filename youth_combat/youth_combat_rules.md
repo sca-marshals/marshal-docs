@@ -19,12 +19,12 @@ Youths may not participate in tournaments or large melees unless first authorize
 4. At least one parent/guardian must be on the site where youth combat is taking place at all times for Division 2 fighters (ages 10 to 13).
 5. A parent/guardian of a Division 3 fighter (ages 14 to 17) must have the program and rules explained to them during the minor’s first visit to an SCA youth combat function. After this they may designate an adult to be responsible for the minor at an SCA function. However, in addition to the “Minor’s Consent to Participate and Hold Harmless Agreement” form, a copy of the “Medical Authorization for Minors” form must be on file with the kingdom waiver secretary. A copy of this form must also accompany the minor. Parents should be available via electronic communications (e.g.- cell phone) in the event of an emergency.
 6. Adults watching youth combat activities shall act in a courteous manner toward the combatants, marshals, youth combat officials, and other parents. Jeering and heckling your child’s opponent is NOT acceptable. Adults demonstrating bad behavior will be asked to leave the youth combat area. This may result in their child having to withdraw from that day’s activity.
-7) Youth Combatants must either have a current signed blue membership card or have their parent/guardian execute a “Minor’s Consent to Participate and Hold Harmless Agreement” in order to participate in every practice, event, demo, or war. This form must be forwarded to the kingdom Waiver Secretary by the local seneschal.
+7. Youth Combatants must either have a current signed blue membership card or have their parent/guardian execute a “Minor’s Consent to Participate and Hold Harmless Agreement” in order to participate in every practice, event, demo, or war. This form must be forwarded to the kingdom Waiver Secretary by the local seneschal.
 
 # Rules of the List
-1) All combatants shall act in a courteous and chivalrous manner at all times.
-2) The instructions of the marshal shall be followed at all times. Should a safety issue arise the marshal will call “HOLD” and all combat activity in the list will stop until the marshal indicates that it is safe to resume.
-3) A fighter shall not take deliberate advantage of an opponent’s safety or chivalry.  This includes:
+1. All combatants shall act in a courteous and chivalrous manner at all times.
+2. The instructions of the marshal shall be followed at all times. Should a safety issue arise the marshal will call “HOLD” and all combat activity in the list will stop until the marshal indicates that it is safe to resume.
+3. A fighter shall not take deliberate advantage of an opponent’s safety or chivalry.  This includes:
 
     1. Walking around an opponent who has lost the use of his legs (corkscrewing).
     2. Hitting an opponent from behind.
@@ -39,7 +39,7 @@ Youths may not participate in tournaments or large melees unless first authorize
     11. Throwing or launching weapons at an opponent in the list. (Javelins may be thrown in melee combat.)
 
 # Youth Combat Authorizations
- Kingdoms may use whatever system they prefer for authorizations as long as the following criteria are met:
+Kingdoms may use whatever system they prefer for authorizations as long as the following criteria are met:
 
 1. At least one Adult Youth Combat Marshal must witness and approve the authorization.
 2. Youth combatants must demonstrate their knowledge of the rules of Youth Combat.
