@@ -1,0 +1,15 @@
+## Siege Ammunition Damage
+1. Blows from siege-class ammunition (1-pound rocks, 4-tennis-ball clusters, and 48-inch ballista javelins, all colored yellow as outlined in item 2 of Siege Ammunition Standards) will be judged fatal or completely disabling upon striking any legal target area and will be capable of killing through shields, provided that the scenario rules permit this. Hand weapons hit by siege-class munitions will be judged destroyed; anyone intentionally blocking or deflecting siege-class munitions will be considered as having been struck by the munition.
+2. Siege Munitions are considered spent upon striking a target, the ground, or a battlefield structure. Siege class munitions which strike a tree will not be considered spent until striking a target, the ground, or a battlefield structure.
+3. Small Arms Munitions (single tennis balls and tube-shafted combat archery arrows and bolts) fired from a siege engine will be treated as combat archery projectiles.
+4. Small Siege Ammunition, in addition to the above, will also be capable of damaging or destroying light structures such as other siege engines, pavices, siege towers, etc., provided that scenario rules permit this.
+5. Large Siege Ammunition, in addition to all of the above, will also be capable of damaging or destroying any type of structure such as castle walls, towers, redoubts, etc., provided that scenario rules permit this.
+6. Recommendations for Damage to Structures from Siege Engines
+    1. Since some structures are not easily modifiable during the course of combat, these recommendations should only be applied in situations where they would be practicable. It is also recommended that any of the numbers given below be modified based on the number of engines participating in any given scenario.
+    2. Breaching walls, destroying towers, and other permanent structures: It is recommended that this be accomplished by hitting the structure 5 times with large siege munitions, and that these structures are immune from damage by small siege projectiles.
+    3. Gates: It is recommended that these be destroyed upon 3 hits from large siege munitions, and that they are immune to small siege munitions.
+    4. Temporary siege structures and siege engines should be considered destroyed by 1 hit from a large siege munitions and by 3 hits from small siege munitions.
+    5. If a manned tower or siege structure is destroyed, it is recommended that all occupants of the structure be considered killed as well. If a siege engine is destroyed, it is recommended that any crew in physical contact with the engine be considered killed as well.
+    6. Maximum rates of fire: While it would be preferable to not have to impose any arbitrary maximum rate of fire, if there are a large number of siege engines at an event, it may be necessary for reasons of fair game play. If so, the following is recommended: Type A engines should be allowed to fire no more than 1 time per minute, and Type B engines should be allowed to fire no more than 2–3 times per
+ minute.
+
