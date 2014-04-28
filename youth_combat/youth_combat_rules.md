@@ -188,113 +188,75 @@ All combatants must have the torso, arms, and legs covered with a minimum of clo
 * Hands - A gauntlet of heavy leather or rigid material lined with at least ½ inch of closed cell foam or heavy padding are required. An ice hockey glove or lacrosse glove with additional thumb protection is acceptable. Light gloves with a half gauntlet and a basket hilt of rigid material are acceptable. Street hockey gloves alone are NOT acceptable, but may be used in conjunction with a basket hilt or additional added protection.
 
 # Weapon Specifications
- All Divisions-
- 1) All weapons must be inspected regularly for deteriorated or compromised foam as
- well as damaged or broken components.
- 2) No weapon shall use materials which might shatter or splinter on impact.
- Materials may be tested by placing the material on an anvil and striking it several
- times with a hammer. PVC may NOT be used in any component of a weapon.
- 3) No metal may be used in any weapons. This includes, but is not limited to:
- basket hilts, pommel weights, and hose clamps.
- 4) Flails, pole axes, and two ending striking surfaces are not permitted.
- 5) Weapons may not be excessively heavy. Weapons may not exceed 8 ounces per
- foot in weight.
- 6) Thrusting tips shall be constructed of closed cell foam covered with duct tape or
- cloth. They must extend 2 inches past the end of the core and be at least 2.5
- inches in diameter.
- 7) Striking surfaces must be covered with at least 3/8 closed cell foam extending at
- least 1 inch past the core material. The foam must be covered with a single loose
- layer of duct tape or a cloth sleeve.
- 8) Thrusting tips and “edges” must be marked with contrasting colored tape.
- 9) Thrusting tips should be constructed so that they do not fold over.
- 10) Pommels and the butt ends of weapons without butt spikes or basket hilts must be
- covered with at least 3/8 inch closed cell foam extending at least 1 inch past the
- end of the core material. This must be covered with a loose single layer of duct
- tape or cloth.
+## All Divisions
+1. All weapons must be inspected regularly for deteriorated or compromised foam as well as damaged or broken components.
+2. No weapon shall use materials which might shatter or splinter on impact.  Materials may be tested by placing the material on an anvil and striking it several times with a hammer. PVC may NOT be used in any component of a weapon.
+3. No metal may be used in any weapons. This includes, but is not limited to: basket hilts, pommel weights, and hose clamps.
+4. Flails, pole axes, and two ending striking surfaces are not permitted.
+5. Weapons may not be excessively heavy. Weapons may not exceed 8 ounces per foot in weight.
+6. Thrusting tips shall be constructed of closed cell foam covered with duct tape or cloth. They must extend 2 inches past the end of the core and be at least 2.5 inches in diameter.
+7. Striking surfaces must be covered with at least 3/8 closed cell foam extending at least 1 inch past the core material. The foam must be covered with a single loose layer of duct tape or a cloth sleeve.
+8. Thrusting tips and “edges” must be marked with contrasting colored tape.
+9. Thrusting tips should be constructed so that they do not fold over.
+10. Pommels and the butt ends of weapons without butt spikes or basket hilts must be covered with at least 3/8 inch closed cell foam extending at least 1 inch past the end of the core material. This must be covered with a loose single layer of duct tape or cloth.
+11. Lanyards or triggers are required on all single-handed weapons.
+12. Basket hilts are permitted on single-handed weapons.
+13. Experimental weapons must be approved by the Society Deputy for Youth Combat.
 
-11) Lanyards or triggers are required on all single-handed weapons.
- 12) Basket hilts are permitted on single-handed weapons.
- 13) Experimental weapons must be approved by the Society Deputy for Youth
- Combat.
- Division 1-
- 1) The following are permitted as core materials for Division 1 weapons- rattan with
- a diameter between ¾ and 1 inch, golf tubes, siloflex with a diameter of ¾ inch,
- PEX tubing with a diameter of ¾ inch.
- 2) Rattan core weapons must have the ends rounded and/or covered with cloth or
- leather to prevent the edges from cutting through foam tips.
- 3) All other core materials must have the ends covered with cloth, leather or similar
- material.
- 4) Two-handed weapons made with golf tubes shall be constructed of two tubes
- taped together with an over lap of 3 inches.
- 5) Butt spikes are NOT permitted in Division 1.
- 6) All weapons must be proportional to the combatant. No weapon may be longer
- than 5 feet.
- 7) Spears are not permitted in Division 1.
- Division 2-
- 1) The principle core material for all weapons is rattan with a diameter between ¾
- and 1 inch. One inch diameter PEX or Siloflex may also be used as a core
- material, but both ends must be capped with leather, unbreakable plastic, or
- similar material. Given the excessive flexibility of PEX or Siloflex in warm
- temperatures it is recommended that these cores be limited to single-handed
- weapons.
- 2) Both ends shall be rounded and/or capped with cloth or leather to prevent the
- rattan from cutting through the foam.
- 3) Butt spikes are permitted on two-handed weapons.
- 4) Spears are not permitted in Division 2.
- 5) All weapons must be proportional to the combatant. No weapons may be longer
- than 5.5 feet.
- Division 3-
- The same weapon standards as Division 2 apply with the following exceptions:
- 1) Spears up to 7.5 are permitted. They may not have butt spikes.
- 2) Pole arms up to 6 feet are permitted.
- 3) Two-handed swords up to 6 feet are permitted. The hafts may not exceed 18
- inches in length.
- 4) Weapons longer than 5.5 feet may use rattan up to, but not exceeding 1 and 1/4
- inches in diameter.
+## Division 1
+1. The following are permitted as core materials for Division 1 weapons- rattan with a diameter between ¾ and 1 inch, golf tubes, siloflex with a diameter of ¾ inch, PEX tubing with a diameter of ¾ inch.
+2. Rattan core weapons must have the ends rounded and/or covered with cloth or leather to prevent the edges from cutting through foam tips.
+3. All other core materials must have the ends covered with cloth, leather or similar material.
+4. Two-handed weapons made with golf tubes shall be constructed of two tubes taped together with an over lap of 3 inches.
+5. Butt spikes are NOT permitted in Division 1.
+6. All weapons must be proportional to the combatant. No weapon may be longer than 5 feet.
+7. Spears are not permitted in Division 1.
 
+## Division 2
+1. The principle core material for all weapons is rattan with a diameter between ¾ and 1 inch. One inch diameter PEX or Siloflex may also be used as a core material, but both ends must be capped with leather, unbreakable plastic, or similar material. Given the excessive flexibility of PEX or Siloflex in warm temperatures it is recommended that these cores be limited to single-handed weapons.
+2. Both ends shall be rounded and/or capped with cloth or leather to prevent the rattan from cutting through the foam.
+3. Butt spikes are permitted on two-handed weapons.
+4. Spears are not permitted in Division 2.
+5. All weapons must be proportional to the combatant. No weapons may be longer than 5.5 feet.
 
-Javelins-
- Javelins made of one diameter PEX or Siloflex may be used in melee combat in
- Divisions 2 and 3. They may be thrown or be used as a single-handed thrusting weapon.
- 1)
- The thrusting tip must conform to standard weapon thrusting tips.
- 2) The butt end may not be used offensively. It must be padded with foam in such a
- manner that it will not penetrate a 2 inch opening.
- 3) Javelins must be between 4 and 5 ½ feet long.
- 4) Fins or stabilizers of foam or duct tape may be attached near the backend.
- 5) Calibration level for a THROWN javelin is intentional touch.
- 6) Calibration level for a javelin used as a one-handed thrusting weapon is the same
- as any weapon appropriate for that division.
- 7) Face thrusts are legal for thrown javelins.
- Links to Minor Waivers-
- [http://www.sca.org/docs/pdf/chldwaiv.pdf](http://www.sca.org/docs/pdf/chldwaiv.pdf)
- [http://www.sca.org/docs/pdf/treatminor.pdf](http://www.sca.org/docs/pdf/treatminor.pdf)
- [http://www.sca.org/docs/pdf/treatminor-notary.pdf](http://www.sca.org/docs/pdf/treatminor-notary.pdf)
- [http://www.sca.org/docs/pdf/FloridaWaiver.pdf](http://www.sca.org/docs/pdf/FloridaWaiver.pdf)(for use in Florida)
- Glossary-
- Aventail- A piece of metal, heavy leather, or other rigid material attached to the back of a
- helmet. It protects the back of the neck.
- Bevor- A piece of metal, heavy leather, or other rigid material attached to the front of a
- helmet. It protects the throat.
- Camail- A drape of chainmail, leather, or padded cloth which hangs from the helmet. It
- protects the neck.
- Coif- This is cap of chainmail or padded cloth worn under a helmet which extends to the
- base of the neck. It may be long enough to also cover the shoulders.
- Gorget- This is a protect collar which protects the neck. It may also protect the larynx
- and cervical vertebrae.
- Heavy Leather- This is at least 10 ounce leather about 1/4 inch thick.
- Light Gloves- These are gloves made of cloth, canvas, or thin (2 to 4 ounce) leather.
- Light Leather- This is 4 to 6 ounce leather about 3/32 inch thick.
- Medium Leather- This is 7 to 9 ounce leather about 1/8 inch thick.
+## Division 3
+The same weapon standards as Division 2 apply with the following exceptions:
 
+1) Spears up to 7.5 are permitted. They may not have butt spikes.
+2) Pole arms up to 6 feet are permitted.
+3) Two-handed swords up to 6 feet are permitted. The hafts may not exceed 18 inches in length.
+4) Weapons longer than 5.5 feet may use rattan up to, but not exceeding 1 and 1/4 inches in diameter.
 
-Melee- This is fighting between teams of two or more persons per side.
- PEX- This is flexible, shatterproof, white plastic pipe which can be found in some large
- hardware stores.
- PVC- This is flexible pipe usually white or gray in color which may shatter upon impact.
- It is NOT legal for youth combat.
- Rigid Material- This is shatterproof plastic, heavy leather, or leather which has been
- hardened.
- Siloflex- This is flexible, shatterproof tubing which can be found in many hardware
- stores. It is usually black in color.
- Xyphoid Process- This is the area at the base of the sternum.
+## Javelins
+Javelins made of one diameter PEX or Siloflex may be used in melee combat in Divisions 2 and 3. They may be thrown or be used as a single-handed thrusting weapon.
+
+1) The thrusting tip must conform to standard weapon thrusting tips.
+2) The butt end may not be used offensively. It must be padded with foam in such a manner that it will not penetrate a 2 inch opening.
+3) Javelins must be between 4 and 5 ½ feet long.
+4) Fins or stabilizers of foam or duct tape may be attached near the backend.
+5) Calibration level for a THROWN javelin is intentional touch.
+6) Calibration level for a javelin used as a one-handed thrusting weapon is the same as any weapon appropriate for that division.
+7) Face thrusts are legal for thrown javelins.
+
+# Links to Minor Waivers
+* [http://www.sca.org/docs/pdf/chldwaiv.pdf](http://www.sca.org/docs/pdf/chldwaiv.pdf)
+* [http://www.sca.org/docs/pdf/treatminor.pdf](http://www.sca.org/docs/pdf/treatminor.pdf)
+* [http://www.sca.org/docs/pdf/treatminor-notary.pdf](http://www.sca.org/docs/pdf/treatminor-notary.pdf)
+* [http://www.sca.org/docs/pdf/FloridaWaiver.pdf](http://www.sca.org/docs/pdf/FloridaWaiver.pdf)(for use in Florida)
+
+# Glossary
+* *Aventail*: A piece of metal, heavy leather, or other rigid material attached to the back of a helmet. It protects the back of the neck.
+* *Bevor*: A piece of metal, heavy leather, or other rigid material attached to the front of a helmet. It protects the throat.
+* *Camail*: A drape of chainmail, leather, or padded cloth which hangs from the helmet. It protects the neck.
+* *Coif*: This is cap of chainmail or padded cloth worn under a helmet which extends to the base of the neck. It may be long enough to also cover the shoulders.
+* *Gorget*: This is a protect collar which protects the neck. It may also protect the larynx and cervical vertebrae.
+* *Heavy Leather*: This is at least 10 ounce leather about 1/4 inch thick.
+* *Light Gloves*: These are gloves made of cloth, canvas, or thin (2 to 4 ounce) leather.
+* *Light Leather*: This is 4 to 6 ounce leather about 3/32 inch thick.
+* *Medium Leather*: This is 7 to 9 ounce leather about 1/8 inch thick.
+* *Melee*: This is fighting between teams of two or more persons per side.
+* *PEX*: This is flexible, shatterproof, white plastic pipe which can be found in some large hardware stores.
+* *PVC*: This is flexible pipe usually white or gray in color which may shatter upon impact.  It is NOT legal for youth combat.
+* *Rigid Material*: This is shatterproof plastic, heavy leather, or leather which has been hardened.
+* *Siloflex*: This is flexible, shatterproof tubing which can be found in many hardware stores. It is usually black in color.
+* *Xyphoid Process*: This is the area at the base of the sternum.
