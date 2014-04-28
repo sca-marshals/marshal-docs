@@ -136,10 +136,10 @@ Helmets must completely cover the head. Hockey helmets, lacrosse helmets, and ca
 All combatants must have the torso, arms, and legs covered with a minimum of cloth. Long sleeve tunics, shirts, and long pants or skirts are acceptable.
 
 ## Groin
-#oys must wear a sports cup or the equivalent. Girls must have padding or the equivalent.
+Boys must wear a sports cup or the equivalent. Girls must have padding or the equivalent.
 
 ## Feet
-#ll combatants must wear shoes which cover the feet. Sandals, flip-flops, crocs, etc are NOT acceptable.
+All combatants must wear shoes which cover the feet. Sandals, flip-flops, crocs, etc are NOT acceptable.
 
 ## Shields
 1. Shields maybe made of wood, plastic, aluminum, or an equivalent material.
