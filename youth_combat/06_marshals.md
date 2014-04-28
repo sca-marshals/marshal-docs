@@ -1,0 +1,12 @@
+# Marshals
+Kingdoms may use whatever methods they deem appropriate to warrant marshals including, but not limited to marshal classes and marshal-in-training programs.  
+
+All marshals shall know the Youth Combat Rules. They should be able to supervise youth combatants both in the lists and in melee combat. They should promote safe practices and enforce the rules of the list. They should be able to inspect weapons and armor. They should be able to authorize youth combatants according to the rules of their kingdom. All marshals must have a current blue signed SCA membership card, or have signed an Adult waiver form, and also have proof that they have been warranted by their kingdom to marshal youth combat (e.g.-warrant card).
+
+There are four levels of youth combat marshals:
+
+1. BC Adult Youth Combat Marshal- These are marshals who have been warranted by their kingdom and have passed a current SCA background check. All Youth Combat Marshals do NOT have to have an SCA background check, however each area of youth combat activities must have somebody present who has passed a current SCA background check. Further information on background checks may be found in the SCA Youth Policies.
+2. Adult Youth Combat Marshals- These are marshals who have been warranted by their kingdom, but have not submitted an SCA background check. They are fully warranted marshals, but must have somebody present (not necessarily a marshal) who has a current SCA background check.
+3. Adult Youth Combat Sparring Marshals- These are adult warranted marshals who have been warranted by their kingdom to spar with youth combatants. They must use weapons, armor, and calibration levels appropriate to the Division of the youth combatant with whom they are sparring. Parents can always spar with their own children. Adults may not participate in youth combat tournaments or melees.
+4. Limited Marshals-This includes minor marshals (ages 12 to 17) and marshals-in- training. Theses marshals may perform all of they duties of a warranted marshal, but must be supervised by a BC Adult Youth Combat Marshal or Adult Youth Combat Marshal. Additionally, kingdoms may elect to have “line marshals” who work under the supervision of a BC Adult Youth Combat Marshal or Youth Combat Marshal. Line marshals do not perform inspections or conduct authorizations, but provide an “extra set of eyes” in the lists during tournaments or during melees.
+
