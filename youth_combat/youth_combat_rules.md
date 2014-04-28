@@ -95,9 +95,9 @@ Younger combatants may permanently move to a higher division with the approval o
 
 Acknowledging the fact that there might be a limited number of youth combatants at an event or practice, combatants may fight others in another division with the following provisions:
 
-    1. Permission of the combatant’s parent/guardian.
-    2. Permission of the youth combat marshal-in-charge.
-    3. Older combatants must adhere to the weapon standards, calibration, and rules of the younger combatants being fought (e.g.- Division 3 combatants must fight a Division 1 combatant at the Division 1 level).
+1. Permission of the combatant’s parent/guardian.
+2. Permission of the youth combat marshal-in-charge.
+3. Older combatants must adhere to the weapon standards, calibration, and rules of the younger combatants being fought (e.g.- Division 3 combatants must fight a Division 1 combatant at the Division 1 level).
 
 # Youth Rattan
 A number of kingdoms have programs with youth combatants under 18 years of age using adult rattan weapons and armor. Given that local, state, and national laws can very greatly as to the nature of minors participating in full contact marshal activities, kingdoms may institute their own programs in regard to youth combatants fighting under adult rattan combat rules. However, all SCA armored combat conventions and rules must be adhered to at a minimum.
