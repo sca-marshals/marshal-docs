@@ -40,5 +40,5 @@ Use the following instructions to create "print ready" documents from the source
 ## Prerequisites
 
 * [git](http://git-scm.com/)
-* 'make' ([OSX Installation instruct](http://railsapps.github.io/xcode-command-line-tools.html))
+* 'make' ([OSX Installation instructions](http://railsapps.github.io/xcode-command-line-tools.html))
 * [pandoc](http://johnmacfarlane.net/pandoc/)
