@@ -32,12 +32,10 @@ TBD
 
 Use the following instructions to create "print ready" documents from the source files.
 
-    <pre>
-        git clone https://github.com/sca-marshals/marshal-docs.git
-        cd marshal-docs
-        make clean
-        make
-    </pre>
+    git clone https://github.com/sca-marshals/marshal-docs.git
+    cd marshal-docs
+    make clean
+    make
 
 ## Prerequisites
 
