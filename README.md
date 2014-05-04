@@ -21,8 +21,12 @@ Each discipline specific document should have common content extracted via the f
 
 1. identify relevant content
 2. Update the common document with content relevant to all disciplines.
-3. If there conflicting content exists, open an 'Issue' to track the resolution of the conflict.
-4. If there are discipline specific addendum for the common section, create a file in the discipline specific directory for the section, putting the discipline specific addendum in that file.
+3. If any content is duplicate, remove it from the discipline specific document.
+4. If conflicting content exists, do the following:
+    1. Create an 'Issue' to track the resolution of the conflict.
+    2. Create a file for the specific section in disipline specific directory
+    3. Move displine specific content into that file
+5. Once all content has been moved from the original file into either the 'common' files or disipline specific addendums, then the file should be removed.
 
 ### Discipline Specific Sections
 
