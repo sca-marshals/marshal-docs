@@ -1,2 +1,0 @@
-# Combat Injury Procedures
-
